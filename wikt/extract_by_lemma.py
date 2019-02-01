@@ -75,9 +75,9 @@ def read_freqlist():
     i = 0
     with open(freqlist, "r") as f:
         for line in f:
-            if i >= top_n:
-                break
-            word = remove_nums.sub("",line.split("\t")[0]).replace("-","").replace("_","").replace("v","u").replace("j","i") + " "
+#            if i >= top_n:
+#                break
+            word = remove_nums.sub("",line.split("\t")[1]).replace("-","").replace("_","").replace("v","u").replace("j","i") + " "
             if "tor " in word or "tio " in word:
 #                print("SKIPPING\t", word)
                 continue
@@ -126,7 +126,6 @@ def main():
     form_map = {}
     verblist = []
     with open(lemmafname,"r") as fin:
-
         verbs = set([])
         for line in fin:
             components = line.replace("v","u").replace("j","i").split("\t")
@@ -152,14 +151,14 @@ def main():
             if (pres,inf,perf,pptc) not in form_map:
                 form_map[(pres,inf,perf,pptc)] = [(old_pres,old_inf,old_perf,old_pptc)]
             else:
-                form_map[(pres,inf,old_perf,pptc)].append((old_pres,old_inbf,old_perf,old_pptc))
-            if is_freq(pres, freq_words):# and INF.findall(inf):
+                form_map[(pres,inf,perf,pptc)].append((old_pres,old_inf,old_perf,old_pptc))
+            if is_freq(new_pres, freq_words):# and INF.findall(inf):
     #            if old_pres != pres:
     #                print("REPLACED", old_pres, old_pptc, "\t", new_pres, new_pptc)
                 verbs.add((pres,inf,perf,pptc))
 
-    print(verbs)
-    exit()
+#    print(verbs)
+#    exit()
     verblist = list(verbs)
     verblist.sort()
     with open(lemmaoutfname, "w") as fout:
