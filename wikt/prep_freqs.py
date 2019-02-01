@@ -3,7 +3,8 @@ import re, sys
 
 freqlistfname = sys.argv[1]
 lemmalistfname = sys.argv[2]
-top_n = int(sys.argv[3])
+outfname = sys.argv[3]
+top_n = int(sys.argv[4])
 
 
 INF_1 = re.compile(r"(āre|ārī)$")
@@ -56,10 +57,11 @@ def read_lemmas():
         for line in f:
             if not line.strip():
                 continue
+            components = [comp.strip() for comp in line.split("\t")]
             if line[0] != "\t":
-                lemma = (line.split("\t")[0].strip(),line.split("\t")[1].strip(),line.split("\t")[2].strip())
+                lemma = (comp[0], comp[1], comp[2], comp[3])
             else:
-                form = line.split("\t")[1].strip().replace("ā", "a").replace("ē", "e").replace("ī", "i").replace("ō", "o").replace("ū", "u")
+                form = comp[1].replace("ā", "a").replace("ē", "e").replace("ī", "i").replace("ō", "o").replace("ū", "u")
                 lemmas_by_form[form] = lemma
     return lemmas_by_form
 
@@ -84,15 +86,18 @@ def read_freqlist():
                     counts_by_form[word] = count
     return counts_by_lemma, counts_by_form
 
-read_lemmas()
-read_freqlist()
-#print(lemmas_by_form)
 
-counts_by_lemma = sorted(counts_by_lemma.items(), key=lambda kv: kv[1], reverse=True)[0:top_n]
-for lemma, count in counts_by_lemma:
-    print(lemma[0]+"\t"+lemma[1]+"\t"+lemma[2])
-#
-#print(counts_by_form)
-#counts_by_form = sorted(counts_by_form.items(), key=lambda kv: kv[1], reverse=True)[0:top_n]
-#for lemma, count in counts_by_form:
-#    print(lemma[0]+"\t"+lemma[1]+"\t"+lemma[2])
+def main():
+    lemmas_by_form = read_lemmas()
+    counts_by_lemma, counts_by_form = read_freqlist()
+
+    counts_by_lemma = sorted(counts_by_lemma.items(), key=lambda kv: kv[1], reverse=True)[0:top_n]
+    with open(outfname, "r") as fout:
+        for lemma, count in counts_by_lemma:
+            outstr = lemma[0]+"\t"+lemma[1]+"\t"+lemma[2]+"\t"+lemma[3]
+            print(outstr)
+            fout.write(outstr+"\n")
+
+    
+if __name__ == "__main__":
+    main()

@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 import re, sys
 
-fname = sys.argv[1]
+lemmafname = sys.argv[1]
 conjugation = sys.argv[2]
 freqlist = sys.argv[3]
-top_n = int(sys.argv[4])
+lemmaoutfname = sys.argv[4]
+schangeoutfname = sys.argv[5]
+top_n = int(sys.argv[6])
 
 
 INF_1 = re.compile(r"(āre|ārī)$")
@@ -22,14 +24,14 @@ INF_4 = re.compile(r"(īre|ī)$")
 REMOVE_PRES_4 = re.compile(r"(iō|ior)$")
 
 
-REMOVE_PPART_longa = re.compile(r"(ātus|ātum|ātus\ssum|ātum\ssum)$")
-REMOVE_PPART_shorta = re.compile(r"(atus|atum|atus\ssum|atum\ssum)$")
-REMOVE_PPART_longe = re.compile(r"(ētus|ētum|ētus\ssum|ētum\ssum)$")
-REMOVE_PPART_shorte = re.compile(r"(etus|etum|etus\ssum|etum\ssum)$")
-REMOVE_PPART_longi = re.compile(r"(ītus|ītum|ītus\ssum|ītum\ssum)$")
-REMOVE_PPART_shorti = re.compile(r"(itus|itum|itus\ssum|itum\ssum)$")
-REMOVE_PPART_consonant = re.compile(r"(tus|tum|tus\ssum|tum\ssum)$")
-REMOVE_PPART_s = re.compile(r"(s+us|s+um|s+us\ssum|s+um\ssum|xus|xum|xus\ssum|xum\ssum)$")
+REMOVE_PPTC_longa = re.compile(r"(ātus|ātum|ātus\ssum|ātum\ssum)$")
+REMOVE_PPTC_shorta = re.compile(r"(atus|atum|atus\ssum|atum\ssum)$")
+REMOVE_PPTC_longe = re.compile(r"(ētus|ētum|ētus\ssum|ētum\ssum)$")
+REMOVE_PPTC_shorte = re.compile(r"(etus|etum|etus\ssum|etum\ssum)$")
+REMOVE_PPTC_longi = re.compile(r"(ītus|ītum|ītus\ssum|ītum\ssum)$")
+REMOVE_PPTC_shorti = re.compile(r"(itus|itum|itus\ssum|itum\ssum)$")
+REMOVE_PPTC_consonant = re.compile(r"(tus|tum|tus\ssum|tum\ssum)$")
+REMOVE_PPTC_s = re.compile(r"(s+us|s+um|s+us\ssum|s+um\ssum|xus|xum|xus\ssum|xum\ssum)$")
 
 
 REMOVE_PREFIX_NOCONTEXT = re.compile(r"^(ab|ad|ante|circum|con|cōn|de|dē|dis|dī|ex|ēx|inter|īnter|in|īn|ob|ōb|per|prae|pro|prō|re|sub|trans|trāns|trā|super)")
@@ -94,97 +96,143 @@ def is_freq(candidate, freq_words):
     return candidate in freq_words
 
 
-freq_words = read_freqlist()
-fwlist = list(freq_words)
-fwlist.sort()
-#for w in fwlist:
-#    print(w)
-#exit()
+def main():
+    freq_words = read_freqlist()
+    fwlist = list(freq_words)
+    fwlist.sort()
+    #for w in fwlist:
+    #    print(w)
+    #exit()
 
-INF = INF_1
-REMOVE_PRES = REMOVE_PRES_1
-if conjugation == "1":
     INF = INF_1
     REMOVE_PRES = REMOVE_PRES_1
-elif conjugation == "2":
-    INF = INF_2
-    REMOVE_PRES = REMOVE_PRES_2
-elif conjugation == "3":
-    INF = INF_3
-    REMOVE_PRES = REMOVE_PRES_3
-elif conjugation == "3i":
-    INF = INF_3i
-    REMOVE_PRES = REMOVE_PRES_3i
-elif conjugation == "4":
-    INF = INF_4
-    REMOVE_PRES = REMOVE_PRES_4
+    if conjugation == "1":
+        INF = INF_1
+        REMOVE_PRES = REMOVE_PRES_1
+    elif conjugation == "2":
+        INF = INF_2
+        REMOVE_PRES = REMOVE_PRES_2
+    elif conjugation == "3":
+        INF = INF_3
+        REMOVE_PRES = REMOVE_PRES_3
+    elif conjugation == "3i":
+        INF = INF_3i
+        REMOVE_PRES = REMOVE_PRES_3i
+    elif conjugation == "4":
+        INF = INF_4
+        REMOVE_PRES = REMOVE_PRES_4
 
 
-form_map = {}
-verblist = []
-with open(fname,"r") as fin:
+    form_map = {}
+    verblist = []
+    with open(lemmafname,"r") as fin:
 
-    verbs = set([])
-    for line in fin:
-        line = line.replace("v","u").replace("j","i")
-        pres = line.split("\t")[0]
-        inf = line.split("\t")[1]
-        ppart = line.split("\t")[2]
-        
+        verbs = set([])
+        for line in fin:
+            components = line.replace("v","u").replace("j","i").split("\t")
+            pres = components[0]
+            inf = components[1]
+            perf = components[2]
+            pptc = components[3]
 
-        old_pres = pres
-        old_inf = inf
-        old_ppart = ppart
-        new_pres = strip_form(pres)
-        new_inf = strip_form(inf)
-        new_ppart = strip_form(ppart)
 
-        if new_pres != pres and (new_ppart != ppart or ppart == "-"):
-            pres = new_pres
-            inf = new_inf
-            ppart = new_ppart
-        if (pres,inf,ppart) not in form_map:
-            form_map[(pres,inf,ppart)] = [(old_pres,old_inf,old_ppart)]
-        else:
-            form_map[(pres,inf,ppart)].append((old_pres,old_inf,old_ppart))
-        if is_freq(pres, freq_words):# and INF.findall(inf):
-#            if old_pres != pres:
-#                print("REPLACED", old_pres, old_ppart, "\t", new_pres, new_ppart)
-            verbs.add((pres,inf,ppart))
+            old_pres = pres
+            old_inf = inf
+            old_perf = perf
+            old_pptc = pptc
+            new_pres = strip_form(pres)
+            new_inf = strip_form(inf)
+            new_perf = strip_form(perf)
+            new_pptc = strip_form(pptc)
 
-    verblist = list(verbs)
-    verblist.sort()
-    for key, derivs in form_map.items():
-        if key[2] != "-":
-            print(key[0], "\t", key[1], "\t", key[2])
-            for triple in derivs:
-                print("\t", triple[0], "\t", triple[1], "\t", triple[2]) 
-
-    print("\n\n")
-    print("STEM CHANGES")
-    print("")
-
-    for key, derivs in form_map.items():
-        pres = key[0]
-        inf = key[1]
-        ppart = key[2]
-        pres_i = pres[:-2].replace("a","i").replace("ā","ī") + pres[-2:]
-        inf_i = inf.replace("a","i").replace("ā","ī")
-        ppart_i = ppart.replace("a","i").replace("ā","ī")
-        ppart_e = ppart.replace("a","e").replace("ā","ē")
-
-        if pres_i == pres:
-            continue
-
-        if (pres_i, inf_i, ppart_i) in form_map or (pres_i, inf_i, ppart_e) in form_map:
-            print(key[0], "\t", key[1], "\t", key[2])
-            for triple in derivs:
-                print("\t", triple[0], "\t", triple[1], "\t", triple[2]) 
-            if (pres_i, inf_i, ppart_i) in form_map:
-                for triple in form_map[pres_i, inf_i, ppart_i]:
-                    print("\t", triple[0], "\t", triple[1], "\t", triple[2]) 
+            if (new_pres != pres or new_perf != perf) and (new_pptc != pptc or pptc == "-"):
+                pres = new_pres
+                inf = new_inf
+                perf = new_perf
+                pptc = new_pptc
+            if (pres,inf,perf,pptc) not in form_map:
+                form_map[(pres,inf,perf,pptc)] = [(old_pres,old_inf,old_perf,old_pptc)]
             else:
-                for triple in form_map[pres_i, inf_i, ppart_e]:
-                    print("\t", triple[0], "\t", triple[1], "\t", triple[2]) 
+                form_map[(pres,inf,old_perf,pptc)].append((old_pres,old_inbf,old_perf,old_pptc))
+            if is_freq(pres, freq_words):# and INF.findall(inf):
+    #            if old_pres != pres:
+    #                print("REPLACED", old_pres, old_pptc, "\t", new_pres, new_pptc)
+                verbs.add((pres,inf,perf,pptc))
+
+        verblist = list(verbs)
+        verblist.sort()
+        with open(lemmaoutfname, "r") as fout:
+            for key, derivs in form_map.items():
+                if key[3] != "-":
+                    lemmapparts = "\t".join(key)
+                    print(lemmapparts)
+                    fout.write(lemmapparts+"\n")
+                    for pparts in derivs:
+                        derivpparts = "\t".join(pparts)
+                        print("\t" + derivpparts)
+                        fout.write("\t"+derivpparts+"\n")
+                fout.write("\n")
 
 
+        print("\n\n")
+        print("STEM CHANGES")
+        print("")
+
+        with open(schangeout, "r") as fout:
+            for key, derivs in form_map.items():
+                pres = key[0]
+                inf = key[1]
+                perf = key[2]
+                pptc = key[3]
+                pres_i = pres[:-2].replace("a","i").replace("ā","ī") + pres[-2:]
+                inf_i = inf.replace("a","i").replace("ā","ī")
+                perf_i = perf.replace("a","i").replace("ā","ī")
+                perf_e = pptc.replace("a","e").replace("ā","ē")
+                pptc_i = pptc.replace("a","i").replace("ā","ī")
+                pptc_e = pptc.replace("a","e").replace("ā","ē")
+
+                if pres_i == pres:
+                    continue
+
+                if (pres_i, inf_i, pptc_i) in form_map or (pres_i, inf_i, pptc_e) in form_map:
+                    lemmapparts = "\t".join(key)
+                    print(lemmapparts)
+                    fout.write(lemmapparts+"\n")
+                    for pparts in derivs:
+                        derivpparts = "\t".join(pparts)
+                        print(derivpparts) 
+                        fout.write(derivpparts+"\n") 
+                    if (pres_i, inf_i, perf, pptc_i) in form_map:
+                        for pparts in form_map[pres_i, inf_i, perf, pptc_i]:
+                            derivpparts = "\t".join(pparts)
+                            print("\t" + derivpparts)
+                            fout.write("\t"+derivpparts+"\n")
+                    elif (pres_i, inf_i, perf_i, pptc_i) in form_map:
+                        for pparts in form_map[pres_i, inf_i, perf_i, pptc_i]:
+                            derivpparts = "\t".join(pparts)
+                            print("\t" + derivpparts)
+                            fout.write("\t"+derivpparts+"\n")
+                    elif (pres_i, inf_i, perf_e, pptc_i) in form_map:
+                        for pparts in form_map[pres_i, inf_i, perf_e, pptc_i]:
+                            derivpparts = "\t".join(pparts)
+                            print("\t" + derivpparts)
+                            fout.write("\t"+derivpparts+"\n")
+                    elif (pres_i, inf_i, perf, pptc_e) in form_map:
+                        for pparts in form_map[pres_i, inf_i, perf, pptc_i]:
+                            derivpparts = "\t".join(pparts)
+                            print("\t" + derivpparts)
+                            fout.write("\t"+derivpparts+"\n")
+                    elif (pres_i, inf_i, perf_i, pptc_e) in form_map:
+                        for pparts in form_map[pres_i, inf_i, perf_i, pptc_i]:
+                            derivpparts = "\t".join(pparts)
+                            print("\t" + derivpparts)
+                            fout.write("\t"+derivpparts+"\n")
+                    elif (pres_i, inf_i, perf_e, pptc_e) in form_map:
+                        for pparts in form_map[pres_i, inf_i, perf_e, pptc_i]:
+                            derivpparts = "\t".join(pparts)
+                            print("\t" + derivpparts)
+                            fout.write("\t"+derivpparts+"\n")
+
+    
+if __name__ == "__main__":
+    main()
