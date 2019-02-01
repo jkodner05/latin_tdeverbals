@@ -135,7 +135,6 @@ def main():
             perf = components[2]
             pptc = components[3]
 
-
             old_pres = pres
             old_inf = inf
             old_perf = perf
@@ -159,79 +158,81 @@ def main():
     #                print("REPLACED", old_pres, old_pptc, "\t", new_pres, new_pptc)
                 verbs.add((pres,inf,perf,pptc))
 
-        verblist = list(verbs)
-        verblist.sort()
-        with open(lemmaoutfname, "r") as fout:
-            for key, derivs in form_map.items():
-                if key[3] != "-":
-                    lemmapparts = "\t".join(key)
-                    print(lemmapparts)
-                    fout.write(lemmapparts+"\n")
-                    for pparts in derivs:
+    print(verbs)
+    exit()
+    verblist = list(verbs)
+    verblist.sort()
+    with open(lemmaoutfname, "w") as fout:
+        for key, derivs in form_map.items():
+            if key[3] != "-":
+                lemmapparts = "\t".join(key)
+                print(lemmapparts)
+                fout.write(lemmapparts+"\n")
+                for pparts in derivs:
+                    derivpparts = "\t".join(pparts)
+                    print("\t" + derivpparts)
+                    fout.write("\t"+derivpparts+"\n")
+            fout.write("\n")
+
+
+    print("\n\n")
+    print("STEM CHANGES")
+    print("")
+
+    with open(schangeoutfname, "w") as fout:
+        for key, derivs in form_map.items():
+            pres = key[0]
+            inf = key[1]
+            perf = key[2]
+            pptc = key[3]
+            pres_i = pres[:-2].replace("a","i").replace("ā","ī") + pres[-2:]
+            inf_i = inf.replace("a","i").replace("ā","ī")
+            perf_i = perf.replace("a","i").replace("ā","ī")
+            perf_e = pptc.replace("a","e").replace("ā","ē")
+            pptc_i = pptc.replace("a","i").replace("ā","ī")
+            pptc_e = pptc.replace("a","e").replace("ā","ē")
+
+            if pres_i == pres:
+                continue
+
+            if (pres_i, inf_i, pptc_i) in form_map or (pres_i, inf_i, pptc_e) in form_map:
+                lemmapparts = "\t".join(key)
+                print(lemmapparts)
+                fout.write(lemmapparts+"\n")
+                for pparts in derivs:
+                    derivpparts = "\t".join(pparts)
+                    print(derivpparts) 
+                    fout.write(derivpparts+"\n") 
+                if (pres_i, inf_i, perf, pptc_i) in form_map:
+                    for pparts in form_map[pres_i, inf_i, perf, pptc_i]:
                         derivpparts = "\t".join(pparts)
                         print("\t" + derivpparts)
                         fout.write("\t"+derivpparts+"\n")
-                fout.write("\n")
-
-
-        print("\n\n")
-        print("STEM CHANGES")
-        print("")
-
-        with open(schangeout, "r") as fout:
-            for key, derivs in form_map.items():
-                pres = key[0]
-                inf = key[1]
-                perf = key[2]
-                pptc = key[3]
-                pres_i = pres[:-2].replace("a","i").replace("ā","ī") + pres[-2:]
-                inf_i = inf.replace("a","i").replace("ā","ī")
-                perf_i = perf.replace("a","i").replace("ā","ī")
-                perf_e = pptc.replace("a","e").replace("ā","ē")
-                pptc_i = pptc.replace("a","i").replace("ā","ī")
-                pptc_e = pptc.replace("a","e").replace("ā","ē")
-
-                if pres_i == pres:
-                    continue
-
-                if (pres_i, inf_i, pptc_i) in form_map or (pres_i, inf_i, pptc_e) in form_map:
-                    lemmapparts = "\t".join(key)
-                    print(lemmapparts)
-                    fout.write(lemmapparts+"\n")
-                    for pparts in derivs:
+                elif (pres_i, inf_i, perf_i, pptc_i) in form_map:
+                    for pparts in form_map[pres_i, inf_i, perf_i, pptc_i]:
                         derivpparts = "\t".join(pparts)
-                        print(derivpparts) 
-                        fout.write(derivpparts+"\n") 
-                    if (pres_i, inf_i, perf, pptc_i) in form_map:
-                        for pparts in form_map[pres_i, inf_i, perf, pptc_i]:
-                            derivpparts = "\t".join(pparts)
-                            print("\t" + derivpparts)
-                            fout.write("\t"+derivpparts+"\n")
-                    elif (pres_i, inf_i, perf_i, pptc_i) in form_map:
-                        for pparts in form_map[pres_i, inf_i, perf_i, pptc_i]:
-                            derivpparts = "\t".join(pparts)
-                            print("\t" + derivpparts)
-                            fout.write("\t"+derivpparts+"\n")
-                    elif (pres_i, inf_i, perf_e, pptc_i) in form_map:
-                        for pparts in form_map[pres_i, inf_i, perf_e, pptc_i]:
-                            derivpparts = "\t".join(pparts)
-                            print("\t" + derivpparts)
-                            fout.write("\t"+derivpparts+"\n")
-                    elif (pres_i, inf_i, perf, pptc_e) in form_map:
-                        for pparts in form_map[pres_i, inf_i, perf, pptc_i]:
-                            derivpparts = "\t".join(pparts)
-                            print("\t" + derivpparts)
-                            fout.write("\t"+derivpparts+"\n")
-                    elif (pres_i, inf_i, perf_i, pptc_e) in form_map:
-                        for pparts in form_map[pres_i, inf_i, perf_i, pptc_i]:
-                            derivpparts = "\t".join(pparts)
-                            print("\t" + derivpparts)
-                            fout.write("\t"+derivpparts+"\n")
-                    elif (pres_i, inf_i, perf_e, pptc_e) in form_map:
-                        for pparts in form_map[pres_i, inf_i, perf_e, pptc_i]:
-                            derivpparts = "\t".join(pparts)
-                            print("\t" + derivpparts)
-                            fout.write("\t"+derivpparts+"\n")
+                        print("\t" + derivpparts)
+                        fout.write("\t"+derivpparts+"\n")
+                elif (pres_i, inf_i, perf_e, pptc_i) in form_map:
+                    for pparts in form_map[pres_i, inf_i, perf_e, pptc_i]:
+                        derivpparts = "\t".join(pparts)
+                        print("\t" + derivpparts)
+                        fout.write("\t"+derivpparts+"\n")
+                elif (pres_i, inf_i, perf, pptc_e) in form_map:
+                    for pparts in form_map[pres_i, inf_i, perf, pptc_i]:
+                        derivpparts = "\t".join(pparts)
+                        print("\t" + derivpparts)
+                        fout.write("\t"+derivpparts+"\n")
+                elif (pres_i, inf_i, perf_i, pptc_e) in form_map:
+                    for pparts in form_map[pres_i, inf_i, perf_i, pptc_i]:
+                        derivpparts = "\t".join(pparts)
+                        print("\t" + derivpparts)
+                        fout.write("\t"+derivpparts+"\n")
+                elif (pres_i, inf_i, perf_e, pptc_e) in form_map:
+                    for pparts in form_map[pres_i, inf_i, perf_e, pptc_i]:
+                        derivpparts = "\t".join(pparts)
+                        print("\t" + derivpparts)
+                        fout.write("\t"+derivpparts+"\n")
 
     
 if __name__ == "__main__":

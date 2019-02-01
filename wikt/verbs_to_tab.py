@@ -25,8 +25,8 @@ for fname in verb_pages:
     pptc = "-"
 
     with open(join(inpath,fname), "r") as fin:
-        with open(outfname, "r") as fout:
-            for line in f:
+        with open(outfname, "w") as fout:
+            for line in fin:
                 #Find start of Latin section
                 if """<span class="mw-headline" id="Latin">Latin</span>""" in line:
                     in_latin = True
@@ -58,18 +58,22 @@ for fname in verb_pages:
     #                if Perf:
     #                    print(Perf.group(0), Perf.group(1))
                     Sup = FIND_Sup.search(line)
+#                    print(line)
                     Perf = FIND_Perf.search(line)
                     if Sup:
                         pptc = Sup.group(1)
                     if not Sup and "deponent" in line:
-                        ppart = Perf.group(1)
+                        if Perf:
+                            ppart = Perf.group(1)
                     else:
-                        perf = Perf.group(1)
+                        if Perf:
+                            perf = Perf.group(1)
                             
 
-                    outstr = pres + "\t" + inf + "\t" + perf + "\t" + ppart + "\t\t" + compound.strip()
+                    outstr = pres + "\t" + inf + "\t" + perf + "\t" + pptc + "\t\t" + compound.strip()
                     print(outstr)
-                    fout.write(outstr + "\n")
+                    fout.write(outstr+"\n")
+#                    with open(outfname, "r) as f: 
     #                    if "deponent" not in line:
     #                        print(line)
     #                    print(Sup.group(0), Sup.group(1))
