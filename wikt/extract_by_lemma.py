@@ -8,32 +8,6 @@ lemmaoutfname = sys.argv[4]
 schangeoutfname = sys.argv[5]
 top_n = int(sys.argv[6])
 
-
-INF_1 = re.compile(r"(āre|ārī)$")
-REMOVE_PRES_1 = re.compile(r"(ō|or)$")
-
-INF_2 = re.compile(r"(ēre|ērī)$")
-REMOVE_PRES_2 = re.compile(r"(eō|eor)$")
-
-INF_3 = re.compile(r"(ere|ī)$")
-INF_3i = re.compile(r"(ere|ī)$")
-REMOVE_PRES_3 = re.compile(r"(ō|or)$")
-REMOVE_PRES_3i = re.compile(r"(iō|ior)$")
-
-INF_4 = re.compile(r"(īre|ī)$")
-REMOVE_PRES_4 = re.compile(r"(iō|ior)$")
-
-
-REMOVE_PPTC_longa = re.compile(r"(ātus|ātum|ātus\ssum|ātum\ssum)$")
-REMOVE_PPTC_shorta = re.compile(r"(atus|atum|atus\ssum|atum\ssum)$")
-REMOVE_PPTC_longe = re.compile(r"(ētus|ētum|ētus\ssum|ētum\ssum)$")
-REMOVE_PPTC_shorte = re.compile(r"(etus|etum|etus\ssum|etum\ssum)$")
-REMOVE_PPTC_longi = re.compile(r"(ītus|ītum|ītus\ssum|ītum\ssum)$")
-REMOVE_PPTC_shorti = re.compile(r"(itus|itum|itus\ssum|itum\ssum)$")
-REMOVE_PPTC_consonant = re.compile(r"(tus|tum|tus\ssum|tum\ssum)$")
-REMOVE_PPTC_s = re.compile(r"(s+us|s+um|s+us\ssum|s+um\ssum|xus|xum|xus\ssum|xum\ssum)$")
-
-
 REMOVE_PREFIX_NOCONTEXT = re.compile(r"^(ab|ad|ante|circum|con|cōn|de|dē|dis|dī|ex|ēx|inter|īnter|in|īn|ob|ōb|per|prae|pro|prō|re|sub|trans|trāns|trā|super)")
 REMOVE_PREFIX_RISKY = re.compile(r"^(a|ā|e|ē)")
 REMOVE_PREFIX_C = re.compile(r"^(acc|occ|succ|ecc|ēcc|occ|ōcc|succ|susc)")
@@ -103,25 +77,6 @@ def main():
     #for w in fwlist:
     #    print(w)
     #exit()
-
-    INF = INF_1
-    REMOVE_PRES = REMOVE_PRES_1
-    if conjugation == "1":
-        INF = INF_1
-        REMOVE_PRES = REMOVE_PRES_1
-    elif conjugation == "2":
-        INF = INF_2
-        REMOVE_PRES = REMOVE_PRES_2
-    elif conjugation == "3":
-        INF = INF_3
-        REMOVE_PRES = REMOVE_PRES_3
-    elif conjugation == "3i":
-        INF = INF_3i
-        REMOVE_PRES = REMOVE_PRES_3i
-    elif conjugation == "4":
-        INF = INF_4
-        REMOVE_PRES = REMOVE_PRES_4
-
 
     form_map = {}
     verblist = []
