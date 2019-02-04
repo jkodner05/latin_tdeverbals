@@ -34,4 +34,17 @@ cat $outputdir/first_lemmas_revsort.txt $outputdir/second_lemmas_revsort.txt $ou
 ####
 ###### ### ## #
 
+###### ### ## #
+####
+###
+### run the following two and make corrections to lemmas_revsort_spaced.txt until correct
+### place final edits in baselemmas_clean_all.txt
+###
+####
+###### ### ## #
 python3 sum_basecounts.py $outputdir/lemmas_revsort_spaced.txt $outputdir/lemmas_revsort_counts.txt
+python3 extract_baselemmas.py $outputdir/lemmas_revsort_counts.txt $outputdir/lemmas_revsort_baselemmas.txt $outputdir/lemmas_mismatches.txt
+
+python3 get_freq_baselemmas.py outputs/baselemmas_clean_all.txt outputs/baselemmas_top100.txt 100
+python3 get_freq_baselemmas.py outputs/baselemmas_clean_all.txt outputs/baselemmas_top500.txt 500
+python3 get_freq_baselemmas.py outputs/baselemmas_clean_all.txt outputs/baselemmas_top1000.txt 1000

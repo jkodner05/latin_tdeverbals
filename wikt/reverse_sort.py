@@ -22,10 +22,7 @@ def make_lemma_to_reversed(lemmafname, freqwords):
             inf = components[1]
             perf = components[2]
             pptc = components[3]
-            redpres = VOWEL_RED.sub(r"\1a\2", pres)
-            redpres = VOWEL_RED.sub(r"\1a\2", redpres)
-            redpres = VOWEL_RED.sub(r"\1a\2", redpres)
-            redpres = VOWEL_RED.sub(r"\1a\2", redpres)
+            redpres = vowel_red(pres)
             revpres = FIND_DEP.sub("ō",redpres)[::-1]
             lemma_to_reversed[(pres, inf, perf, pptc)] = revpres
 

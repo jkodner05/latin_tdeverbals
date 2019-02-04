@@ -1,5 +1,18 @@
 import re, sys
 
+VOWEL_RED = re.compile(r"([^aeiouāēīōū])[ie]([qrtpsdfghklzcvbnm][aeiouāēīōū])")
+VOWEL_RED2 = re.compile(r"([^aeiouāēīōū])e([qrtpsdfghklzcvbnm][qrtpsdfghklzcvbnm])")
+
+def vowel_red(form):
+    redform = VOWEL_RED.sub(r"\1a\2", form)
+    redform = VOWEL_RED.sub(r"\1a\2", redform)
+    redform = VOWEL_RED.sub(r"\1a\2", redform)
+    redform = VOWEL_RED.sub(r"\1a\2", redform)
+    redform = VOWEL_RED2.sub(r"\1a\2", redform)
+    redform = VOWEL_RED2.sub(r"\1a\2", redform)
+    redform = VOWEL_RED2.sub(r"\1a\2", redform)
+
+    return redform
 
 def vuji(word):
     return word.replace("v","u").replace("j","i")
