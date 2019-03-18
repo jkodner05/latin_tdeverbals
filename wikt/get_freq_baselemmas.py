@@ -32,7 +32,8 @@ def write_baselemmas(sortedlemmas):
 #            print()
 #            print(freq)
 #            print(lemmas.strip()+"\n")
-            fout.write("\n"+freq[1]+"\n\t"+lemmas.strip().replace("\n","\n\t")+"\n")
+            fout.write(freq[1] + "\n")
+#            fout.write("\n"+freq[1]+"\n\t"+lemmas.strip().replace("\n","\n\t")+"\n")
 
 def main():
     sortedlemmas = read_baselemmas()

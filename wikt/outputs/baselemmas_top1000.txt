@@ -1,4806 +1,1000 @@
-
+28047	dō	dere	didī	ditu
 22282	faciō	facere	fēcī	factu
-	15229	faciō	facere	fēcī	factum
-	12	labefaciō	labefacere	labefēcī	labefactum
-	4	rubefaciō	rubefacere	rubefēcī	rubefactum
-	73	madefaciō	madefacere	madefēcī	madefactum
-	5	candefaciō	candefacere	candefēcī	candefactum
-	64	calefaciō	calefacere	calefēcī	calefactum
-	11	percalefaciō	percalefacere	percalefēcī	percalefactum
-	11	malefaciō	malefacere	malefēcī	malefactum
-	25	tremefaciō	tremefacere	tremefēcī	tremefactum
-	11	tumefaciō	tumefacere	tumefēcī	tumefactum
-	10	benefaciō	benefacere	benefēcī	benefactum
-	13	commonefaciō	commonefacere	commonefēcī	commonefactum
-	41	tepefaciō	tepefacere	tepefēcī	tepefactum
-	18	stupefaciō	stupefacere	stupefēcī	stupefactum
-	19	obstupefaciō	obstupefacere	obstupefēcī	obstupefactum
-	194	reficiō	reficere	refēcī	refectum
-	3	torrefaciō	torrefacere	torrefēcī	torrefactum
-	16	pūtrefaciō	pūtrefacere	pūtrefēcī	pūtrefactum
-	35	ārefaciō	ārefacere	ārefēcī	ārefactum
-	141	patefaciō	patefacere	patefēcī	patefactum
-	389	praeficiō	praeficere	praefēcī	praefectum
-	5	pauefaciō	pauefacere	pauefēcī	pauefactum
-	34	liquefaciō	liquefacere	liquefēcī	liquefactum
-	687	afficiō	afficere	affēcī	affectum
-	1662	efficiō	efficere	effēcī	effectum
-	284	officiō	officere	offēcī	offectum
-	342	sufficiō	sufficere	suffēcī	suffectum
-	210	īnficiō	īnficere	īnfēcī	īnfectum
-	87	cōnficiō	cōnficere	cōnfēcī	cōnfectum
-	823	perficiō	perficere	perfēcī	perfectum
-	76	interficiō	interficere	interfēcī	interfectum
-	600	dēficiō	dēficere	dēfēcī	dēfectum
-	7	expergēfaciō	expergēfacere	expergēfēcī	expergēfactum
-	4	uacuēfaciō	uacuēfacere	uacuēfēcī	uacuēfactum
-	9	assuēfaciō	assuēfacere	assuēfēcī	assuēfactum
-	1128	prōficiō	prōficere	prōfēcī	prōfectum
-
 19929	dīcō	dīcere	dīxī	dictu
-	17984	dīcō	dīcere	dīxī	dictum
-	87	maledīcō	maledīcere	maledīxī	maledictum
-	4	benedīcō	benedīcere	benedīxī	benedictum
-	185	abdīcō	abdīcere	abdīxī	abdictum
-	93	addīcō	addīcere	addīxī	addictum
-	522	praedīcō	praedīcere	praedīxī	praedictum
-	684	indīcō	indīcere	indīxī	indictum
-	15	condīcō	condīcere	condīxī	condictum
-	38	interdīcō	interdīcere	interdīxī	interdīctum
-	8	contrādīcō	contrādīcere	contrādīxī	contrādictum
-	302	ēdīcō	ēdīcere	ēdīxī	ēdictum
-	7	prōdīcō	prōdīcere	prōdīxī	prōdīctum
-
 19468	dicō	dicāre	dicāuī	dicātu
-	17984	dicō	dicāre	dicāuī	dicātum
-	185	abdicō	abdicāre	abdicāuī	abdicātum
-	522	praedicō	praedicāre	praedicāuī	praedicātum
-	684	indicō	indicāre	indicāuī	indicātum
-	93	dēdicō	dēdicāre	dēdicāuī	dēdicātum
-
 18810	ferō	ferre	tulī	lātu
-	44	anteferō	anteferre	antetulī	antelatum
-	7187	ferō	ferre	tulī	lātum
-	2492	referō	referre	rettulī	relātum
-	396	praeferō	praeferre	praetulī	praelātum
-	1450	afferō	afferre	attulī	allātum
-	569	efferō	efferāre	efferāuī	efferātum
-	569	efferō	efferre	extulī	ēlātum
-	686	differō	differre	distulī	dīlātum
-	30	offerō	offerre	obtulī	oblātum
-	284	sufferō	sufferre	sustulī	sublātum
-	111	circumferō	circumferre	circumtulī	circumlātum
-	537	īnferō	īnferre	intulī	illātum
-	918	cōnferō	cōnferre	contulī	collātum
-	439	perferō	perferre	pertulī	perlātum
-	618	trānsferō	trānsferre	trānstulī	trānslātum
-	872	auferō	auferre	abstulī	ablātum
-	582	dēferō	dēferre	dētulī	dēlātum
-	457	prōferō	prōferre	prōtulī	prōlātum
-	569	efferō	efferre	extulī	ēlātum
-
 18629	edō	edere	ēdī	ēsu
-	4	ambedō	ambedere	ambēdī	ambēsum
-	16	adedō	adedere	adēdī	adēsum
-	34	comedō	comedere	comēdī	comēsum
-	11	peredō	peredere	peredī	peresum
-	86	exedō	exedere	exēdī	exēsum
-	18478	edō	edere	ēdī	ēsum
-
-18478	ēdō	ēdere	ēdidī	ēditu
-	18478	ēdō	ēdere	ēdidī	ēditum
-
 15280	uideō	uidēre	uīdī	uīsu
-	14371	uideō	uidēre	uīdī	uīsum
-	4	praeuideō	praeuidēre	praeuīdī	praeuīsum
-	556	inuideō	inuidēre	inuīdī	inuīsum
-	22	peruideō	peruidēre	peruīdī	peruīsum
-	327	prōuideō	prōuidēre	prōuīdī	prōuīsum
-
 13728	habeō	habēre	habuī	habitu
-	11825	habeō	habēre	habuī	habitum
-	678	adhibeō	adhibēre	adhibuī	adhibitum
-	10	praehibeō	praehibēre	praehibuī	praehibitum
-	158	inhibeō	inhibēre	inhibuī	inhibitum
-	192	cohibeō	cohibēre	cohibuī	cohibitum
-	600	prohibeō	prohibēre	prohibuī	prohibitum
-	90	perhibeō	perhibēre	perhibuī	perhibitum
-	11	posthabeō	posthabēre	posthabuī	posthabitum
-	164	exhibeō	exhibēre	exhibuī	exhibitum
-
 13499	ueniō	uenīre	uēnī	uentu
-	6636	ueniō	uenīre	uēnī	uentum
-	33	obueniō	obuenīre	obuēnī	obuentum
-	102	subueniō	subuenīre	subuēnī	subuentum
-	761	adueniō	aduenīre	aduēnī	aduentum
-	40	praeueniō	praeuenīre	praeuēnī	praeuentum
-	12	reueniō	reuenīre	reuēnī	reuentum
-	108	circumueniō	circumuenīre	circumuēnī	circumuentum
-	2140	inueniō	inuenīre	inuēnī	inuentum
-	1357	conueniō	conuenīre	conuēnī	conuentum
-	947	perueniō	peruenīre	peruēnī	peruentum
-	82	superueniō	superuenīre	superuēnī	superuentum
-	168	interueniō	interuenīre	interuēnī	interuentum
-	865	ēueniō	ēuenīre	ēuēnī	ēuentum
-	28	dēueniō	dēuenīre	dēuēnī	dēuentum
-	220	prōueniō	prōuenīre	prōuēnī	prōuentum
-
 12721	capiō	capere	cēpī	captu
-	3293	capiō	capere	cēpī	captum
-	1403	recipiō	recipere	recēpī	receptum
-	6	antecapiō	antecapere	antecēpī	anteceptum
-	3108	accipiō	accipere	accēpī	acceptum
-	90	occipiō	occipere	occēpī	occeptum
-	1073	praecipiō	praecipere	praecēpī	praeceptum
-	877	incipiō	incipere	incēpī	inceptum
-	407	concipiō	concipere	concēpī	conceptum
-	436	percipiō	percipere	percēpī	perceptum
-	103	intercipiō	intercipere	intercēpī	interceptum
-	533	suscipiō	suscipere	suscēpī	susceptum
-	1029	excipiō	excipere	excēpī	exceptum
-	363	dēcipiō	dēcipere	dēcēpī	dēceptum
-
 10975	mittō	mittere	mīsī	missu
-	3760	mittō	mittere	mīsī	missum
-	616	remittō	remittere	remīsī	remissum
-	423	admittō	admittere	admīsī	admissum
-	164	praemittō	praemittere	praemīsī	praemissum
-	161	immittō	immittere	immisī	immissum
-	693	committō	committere	commīsī	commissum
-	3	circummittō	circummittere	circummīsī	circummissum
-	276	summittō	summittere	summīsī	summissum
-	96	inmittō	inmittere	inmīsī	inmissum
-	516	omittō	omittere	omīsī	omissum
-	563	permittō	permittere	permīsī	permissum
-	185	praetermittō	praetermittere	praetermīsī	praetermissum
-	133	intermittō	intermittere	intermisī	intermissum
-	188	trānsmittō	trānsmittere	trānsmīsī	trānsmissum
-	800	āmittō	āmittere	āmīsī	āmissum
-	441	ēmittō	ēmittere	ēmīsī	ēmissum
-	461	dēmittō	dēmittere	dēmīsī	dēmissum
-	674	dīmittō	dīmittere	dīmīsī	dīmissum
-	783	prōmittō	prōmittere	prōmīsī	prōmissum
-	3	reprōmittō	reprōmittere	reprōmīsī	reprōmissum
-	17	intrōmittō	intrōmittere	intrōmīsī	intrōmissum
-	19	manūmittō	manūmittere	manūmisī	manūmissum
-
 10942	dō	dare	dedī	datu
-	10942	dō	dare	dedī	datum
-
 10034	agō	agere	ēgī	āctu
-	110	trānsigō	trānsigere	trānsēgī	trānsactum
-	748	exigō	exigere	exēgī	exāctum
-	1603	cōgō	cōgere	coēgī	coactum
-	6100	agō	agere	ēgī	āctum
-	127	abigō	abigere	abēgī	abāctum
-	331	subigō	subigere	subēgī	subāctum
-	150	adigō	adigere	adēgī	adactum
-	114	circumagō	circumagere	circumēgī	circumāctum
-	93	dēgō	dēgere	dēgī	-
-	194	redigō	redigere	redēgī	redactum
-	25	prōdigō	prōdigere	prōdēgī	prōdactum
-	439	peragō	peragere	perēgī	peractum
-
 8906	pōnō	pōnere	posuī	positu
-	3013	pōnō	pōnere	posuī	positum
-	323	repōnō	repōnere	reposuī	repositum
-	145	antepōnō	antepōnere	anteposuī	antepositum
-	15	subpōnō	subpōnere	subposuī	subpositum
-	195	praepōnō	praepōnere	praeposuī	praepositum
-	491	impōnō	impōnere	imposuī	impositum
-	622	compōnō	compōnere	composuī	compositum
-	7	circumpōnō	circumpōnere	circumposuī	circumpositum
-	873	inpōnō	inpōnere	inposuī	inpositum
-	99	conpōnō	conpōnere	conposuī	conpositum
-	185	appōnō	appōnere	apposuī	appositum
-	321	oppōnō	oppōnere	opposuī	oppositum
-	108	suppōnō	suppōnere	supposuī	suppositum
-	62	superpōnō	superpōnere	superposuī	superpositum
-	187	interpōnō	interpōnere	interposuī	interpositum
-	319	dispōnō	dispōnere	disposuī	dispositum
-	7	trānspōnō	trānspōnere	trānsposuī	trānspositum
-	16	postpōnō	postpōnere	postposuī	postpositum
-	666	expōnō	expōnere	exposuī	expositum
-	473	dēpōnō	dēpōnere	dēposuī	dēpositum
-	77	sēpōnō	sēpōnere	sēposuī	sēpositum
-	702	prōpōnō	prōpōnere	prōposuī	prōpositum
-
-8125	uolō	uolāre	uolāuī	uolātu
-	5	subuolō	subuolāre	subuolāuī	subuolātum
-	75	aduolō	aduolāre	aduolāuī	aduolātum
-	3	anteuolō	anteuolāre	anteuolāuī	-
-	17	circumuolō	circumuolāre	circumuolāuī	circumuolātum
-	4	conuolō	conuolāre	conuolāuī	conuolātum
-	28	peruolō	peruolāre	peruolāuī	peruolātum
-	8	praeteruolō	praeteruolāre	praeteruolāuī	praeteruolātum
-	12	trānsuolō	trānsuolāre	trānsuolāuī	trānsuolātum
-	7885	uolō	uolāre	uolāuī	uolātum
-	11	āuolō	āuolāre	āuolāuī	āuolātum
-	51	ēuolō	ēuolāre	ēuolāuī	ēuolātum
-	14	dēuolō	dēuolāre	dēuolāuī	dēuolātum
-	12	prōuolō	prōuolāre	prōuolāuī	prōuolātum
-
+7885	uolō	uelle	uoluī	-
 7695	teneō	tenēre	tenuī	tentu
-	3085	teneō	tenēre	tenuī	tentum
-	611	retineō	retinēre	retinuī	retentum
-	469	obtineō	obtinēre	obtinuī	obtentum
-	1245	contineō	continēre	continuī	contentum
-	854	pertineō	pertinēre	pertinuī	-
-	290	abstineō	abstinēre	abstinuī	abstentum
-	27	distineō	distinēre	distinuī	distentum
-	793	sustineō	sustinēre	sustinuī	sustentum
-	186	attineō	attinēre	attinuī	attentum
-	135	dētineō	dētinēre	dētinuī	dētentum
-
 7651	dūcō	dūcere	dūxī	ductu
-	2920	dūcō	dūcere	dūxī	ductum
-	372	redūcō	redūcere	redūxī	reductum
-	320	abdūcō	abdūcere	abdūxī	abductum
-	99	obdūcō	obdūcere	obdūxī	obductum
-	219	subdūcō	subdūcere	subdūxī	subductum
-	582	addūcō	addūcere	addūxī	adductum
-	10	praedūcō	praedūcere	praedūxī	praeductum
-	33	circumdūcō	circumdūcere	circumdūxī	circumductum
-	515	indūcō	indūcere	indūxī	inductum
-	223	condūcō	condūcere	condūxī	conductum
-	396	perdūcō	perdūcere	perdūxī	perductum
-	196	trādūcō	trādūcere	trādūxī	trāductum
-	481	ēdūcō	ēdūcere	ēdūxī	ēductum
-	643	dēdūcō	dēdūcere	dēdūxī	dēductum
-	51	sēdūcō	sēdūcere	sēdūxī	sēductum
-	178	dīdūcō	dīdūcere	dīdūxī	dīductum
-	318	prōdūcō	prōdūcere	prōdūxī	prōductum
-	95	intrōdūcō	intrōdūcere	intrōdūxī	intrōductum
-
-7241	cēdō	dere	cessī	cessu
-	1277	cēdō	cēdere	cessī	cessum
-	519	recēdō	recēdere	recessī	recessum
-	195	antecēdō	antecēdere	antecēssī	antecēssum
-	1251	accēdō	accēdere	accessī	accessum
-	304	succēdō	succēdere	successī	successum
-	4	adcēdō	adcēdere	adcessī	adcessum
-	142	praecēdō	praecēdere	praecessī	praecessum
-	319	incēdō	incēdere	incessī	incessum
-	879	concēdō	concēdere	concessī	concessum
-	137	intercēdō	intercedere	intercessī	intercessum
-	114	abscēdō	abscēdere	abscessī	abscessum
-	685	discēdō	discēdere	discessī	discessum
-	436	excēdō	excēdere	excessī	excessum
-	295	dēcēdō	dēcēdere	dēcessī	dēcessum
-	130	sēcēdō	sēcēdere	sēcessī	sēcessum
-	554	prōcēdō	prōcēdere	prōcessī	prōcessum
-
+7241	cēdō	cēdere	cessī	cessu
+7009	stō	stāre	stetī	statu
 6344	scrībō	scrībere	scrīpsī	scrīptu
-	4709	scrībō	scrībere	scrīpsī	scrīptum
-	56	subscrībō	subscrībere	subscrīpsi	subscrīptum
-	150	ādscrībō	ādscrībere	ādscrīpsī	ādscrīptum
-	81	praescrībō	praescrībere	praescrīpsī	praescrīptum
-	178	rescrībō	rescrībere	rescrīpsī	rescrīptum
-	71	discrībō	discrībere	discrīpsi	discrīptum
-	60	circumscrībō	circumscrībere	circumscrīpsi	circumscrīptum
-	16	trānscrībō	trānscrībere	trānscrīpsi	trānscrīptum
-	228	īnscrībō	īnscrībere	īnscrīpsī	īnscrīptum
-	211	cōnscrībō	cōnscrībere	cōnscrīpsī	cōnscrīptum
-	161	perscrībō	perscrībere	perscrīpsī	perscrīptum
-	3	trānsscrībō	trānsscrībere	trānsscrīpsi	trānsscrīptum
-	14	exscrībō	exscrībere	exscrīpsi	exscrīptum
-	24	āscrībō	āscrībere	āscrīpsī	āscrīptum
-	268	dēscrībō	dēscrībere	dēscrīpsī	dēscrīptum
-	114	prōscrībō	prōscrībere	prōscrīpsī	prōscrīptum
-
 5778	sciō	scīre	scīuī	scītu
-	4232	sciō	scīre	scīuī	scītum
-	9	praesciō	praescīre	praescīuī	praescītum
-	1421	nesciō	nescīre	nescīuī	nescītum
-	116	cōnsciō	cōnscīre	cōnscīuī	cōnscītum
-
 5452	cadō	cadere	cecidī	cāsu
-	2257	cadō	cadere	cecidī	cāsum
-	710	occidō	occidere	occīdī	occāsum
-	246	dēcidō	dēcidere	dēcidī	dēcāsum
-	166	recidō	recidere	reccidī	recāsum
-	769	accidō	accidere	accidī	-
-	64	succidō	succidere	succidī	-
-	848	incidō	incidere	incidī	-
-	60	concidō	concidere	concidī	-
-	332	excidō	excidere	excidī	-
-
 5259	uocō	uocāre	uocāuī	uocātu
-	3989	uocō	uocāre	uocāuī	uocātum
-	201	aduocō	aduocāre	aduocāuī	aduocātum
-	518	reuocō	reuocāre	reuocāuī	reuocātum
-	96	inuocō	inuocāre	inuocāuī	inuocātum
-	77	conuocō	conuocāre	conuocāuī	conuocātum
-	61	āuocō	āuocāre	āuocāuī	āuocātum
-	180	ēuocō	ēuocāre	ēuocāuī	ēuocātum
-	11	dēuocō	dēuocāre	dēuocāuī	dēuocātum
-	126	prōuocō	prōuocāre	prōuocāuī	prōuocātum
-
-5224	sequō	sequere	-	secūtu
-	21	secor	secī	-	secutus sum
-	2967	sequor	sequī	-	secūtus sum
-	3	resequor	resequī	-	resecūtus sum
-	138	obsequor	obsequī	-	obsecūtus sum
-	102	subsequor	subsequī	-	subsecūtus sum
-	70	adsequor	adsequī	-	adsecūtus sum
-	269	īnsequor	īnsequī	-	īnsecūtus sum
-	698	cōnsequor	cōnsequī	-	cōnsecūtus sum
-	465	persequor	persequī	-	persecūtus sum
-	193	assequor	assequī	-	assecūtus sum
-	107	exsequor	exsequī	-	exsecūtus sum
-	191	prōsequor	prōsequī	-	prōsecūtus sum
-
+5224	sequor	sequī	-	secūtu
 5141	putō	putāre	putāuī	putātu
-	4328	putō	putāre	putāuī	putātum
-	72	reputō	reputāre	reputāuī	reputātum
-	111	amputō	amputāre	amputāuī	amputātum
-	67	imputō	imputāre	imputāuī	imputātum
-	56	computō	computāre	computāuī	computātum
-	35	inputō	inputāre	inputāuī	inputātum
-	14	conputō	conputāre	conputāuī	conputātum
-	3	supputō	supputāre	supputāuī	supputātum
-	414	disputō	disputāre	disputāuī	disputātum
-	41	dēputō	dēputāre	dēputāuī	dēputātum
-
 5105	fīō	fierere	-	factu
-	5084	fīō	fierī	-	factus sum
-	21	dēfīō	dēfierī	-	dēfactus sum
-
 4937	pellō	pellere	pulī	pulsu
-	838	pellō	pellere	pepulī	pulsum
-	342	repellō	repellere	reppulī	repulsum
-	34	adpellō	adpellere	adpulī	adpulsum
-	426	impellō	impellere	impulī	impulsum
-	182	compellō	compellere	compulī	compulsum
-	123	inpellō	inpellere	inpulī	inpulsum
-	75	conpellō	conpellere	conpulī	conpulsum
-	2294	appellō	appellere	appulī	appulsum
-	26	perpellō	perpellere	perpulī	perpulsum
-	5	aspellō	aspellere	aspulī	aspulsum
-	27	dispellō	dispellere	dispulī	dispulsum
-	292	expellō	expellere	expulī	expulsum
-	181	dēpellō	dēpellere	dēpulī	dēpulsum
-	92	prōpellō	prōpellere	prōpulī	prōpulsum
-
+4737	caedō	caedere	cecīdī	caesu
 4717	petō	petere	petīuī	petītu
-	3168	petō	petere	petīuī	petītum
-	618	repetō	repetere	repetīuī	repetītum
-	143	adpetō	adpetere	adpetīuī	adpetītum
-	25	impetō	impetere	impetīuī	impetītum
-	36	competō	competere	competīuī	competītum
-	6	conpetō	conpetere	conpetīuī	conpetītum
-	165	appetō	appetere	appetīuī	appetītum
-	34	oppetō	oppetere	oppetīuī	oppetītum
-	59	suppetō	suppetere	suppetīuī	suppetītum
-	463	expetō	expetere	expetīuī	expetītum
-
 4415	moueō	mouēre	mōuī	mōtu
-	2722	moueō	mouēre	mōuī	mōtum
-	393	remoueō	remouēre	remōuī	remōtum
-	59	submoueō	submouēre	submōuī	submōtum
-	472	admoueō	admouēre	admōuī	admōtum
-	380	commoueō	commouēre	commōuī	commōtum
-	112	summoueō	summouēre	summōuī	summōtum
-	7	conmoueō	conmouēre	conmōuī	conmōtum
-	71	permoueō	permouēre	permōuī	permōtum
-	52	āmoueō	āmouēre	āmōuī	āmōtum
-	16	ēmoueō	ēmouēre	ēmōuī	ēmōtum
-	7	dēmoueō	dēmouēre	dēmōuī	dēmōtum
-	20	sēmoueō	sēmouēre	sēmōuī	sēmōtum
-	40	dīmoueō	dīmouēre	dīmōuī	dīmōtum
-	64	prōmoueō	prōmouēre	prōmōuī	prōmōtum
-
 4331	quaerō	quaerere	quaesīuī	quaesītu
-	3423	quaerō	quaerere	quaesīuī	quaesītum
-	105	conquaerō	conquaerere	conquaesīuī	conquaesītum
-	387	requīrō	requīrere	requīsīuī	requīsītum
-	72	acquīrō	acquīrere	acquīsīuī	acquīsītum
-	209	inquīrō	inquīrere	inquīsīuī	inquīsītum
-	4	conquīrō	conquīrere	conquīsīuī	conquīsītus
-	12	perquīrō	perquīrere	perquīsīuī	perquīsītum
-	119	exquīrō	exquīrere	exquīsīuī	exquīsītum
-
-4015	stō	stāre	stetī	statu
-	2304	stō	stāre	stetī	statum
-	178	astō	astāre	astetī	astatum
-	1511	praestō	praestāre	praestitī	praestitum
-	22	prōstō	prōstāre	prōstitī	prōstitum
-
 3973	ciō	cere	cī	ctu
-	315	abiciō	abicere	abiēcī	abiectum
-	266	obiciō	obicere	obiēcī	obiectum
-	244	sūbiciō	sūbicere	sūbiēcī	sūbiectum
-	933	adiciō	adicere	adiēcī	adiectum
-	513	iaciō	iacere	iēcī	iactum
-	27	superiaciō	superiacere	superiēcī	superiectum
-	64	interiaciō	interiacere	interiecī	interiectum
-	154	iniciō	inicere	iniēcī	iniectum
-	444	coniciō	conicere	coniēcī	coniectum
-	12	disiciō	disicere	disiēcī	disiectum
-	170	reiciō	reicere	reiēcī	reiectum
-	66	adiiciō	adiicere	adiēcī	adiectum
-	89	trāiciō	trāicere	trāiēcī	trāiectum
-	224	ēiciō	ēicere	ēiēcī	ēiectum
-	364	dēiciō	dēicere	dēiēcī	dēiectum
-	84	prōiciō	prōicere	prōiēcī	prōiectum
-	4	īciō	īcere	īcī	īctum
-
 3854	lēgō	lēgāre	lēgāuī	lēgātu
-	3651	lēgō	lēgāre	lēgāuī	lēgātum
-	121	relēgō	relēgāre	relēgāuī	relēgātum
-	19	ablēgō	ablēgāre	ablēgāuī	ablēgātum
-	14	adlēgō	adlēgāre	adlēgāuī	adlēgātum
-	6	praelēgō	praelēgāre	praelēgāuī	praelēgātum
-	11	allēgō	allēgāre	allēgāuī	allēgātum
-	32	dēlēgō	dēlēgāre	dēlēgāuī	dēlēgātum
-
 3810	legō	legere	lēgī	lēctu
-	3651	legō	legere	lēgī	lēctum
-	121	relegō	relegere	relēgī	relēctum
-	7	sublegō	sublegere	sublēgī	sublēctum
-	14	adlegō	adlegere	adlēgī	adlēctum
-	6	praelegō	praelegere	praelēgī	praelēctum
-	11	allegō	allegere	allēgī	allēctum
-
 3756	speciō	specere	spexī	spectu
-	5	speciō	specere	spexī	spectum
-	770	aspiciō	aspicere	aspexī	aspectum
-	527	respiciō	respicere	respexī	respectum
-	78	dispiciō	dispicere	dispexī	dispectum
-	153	circumspiciō	circumspicere	circumspexī	circumspectum
-	213	īnspiciō	īnspicere	īnspexī	īnspectum
-	543	cōnspiciō	cōnspicere	cōnspexī	cōnspectum
-	356	perspiciō	perspicere	perspexī	perspectum
-	617	suspiciō	suspicere	suspexī	suspectum
-	184	dēspiciō	dēspicere	dēspexī	dēspectum
-	301	prōspiciō	prōspicere	prōspexī	prōspectum
-	9	intrōspiciō	intrōspicere	intrōspexī	intrōspectum
-
 3745	tendō	tendere	tendī	tentu
-	603	tendō	tendere	tetendī	tentum
-	33	obtendō	obtendere	obtendī	obtentum
-	40	adtendō	adtendere	adtendī	adtentum
-	73	praetendō	praetendere	praetetendī	praetentum
-	422	intendō	intendere	intendī	intentum
-	793	contendō	contendere	contendī	contentum
-	168	portendō	portendere	portendī	portentum
-	74	distendō	distendere	distendī	distentum
-	1155	ostendō	ostendere	ostendī	ostentum
-	152	attendō	attendere	attendī	attentum
-	232	extendō	extendere	extendī	extentum
-
 3668	nōscō	nōscere	nōuī	nōtu
-	2789	nōscō	nōscere	nōuī	nōtum
-	21	praenōscō	praenōscere	praenōuī	praenōtum
-	785	ignōscō	ignōscere	ignōuī	ignōtum
-	32	dīgnōscō	dīgnōscere	dīgnōuī	dīgnōtum
-	16	pernōscō	pernōscere	pernōuī	pernōtum
-	25	internōscō	internōscere	internōuī	internōtum
-
+3663	pariō	parere	peperī	partu
 3607	dēbeō	dēbēre	dēbuī	dēbitu
-	3607	dēbeō	dēbēre	dēbuī	dēbitum
-
-3579	cīdō	cīdere	cīdī	cīsu
-	166	recīdō	recīdere	recīdī	recīsum
-	769	accīdō	accīdere	accīdī	accīsum
-	710	occīdō	occīdere	occīdī	occīsum
-	64	succīdō	succīdere	succīdī	succīsum
-	183	praecīdō	praecīdere	praecīdī	praecīsum
-	49	circumcīdō	circumcīdere	circumcīdī	circumcīsum
-	848	incīdō	incīdere	incīdī	incīsum
-	60	concīdō	concīdere	concīdī	concīsum
-	152	abscīdō	abscīdere	abscīdī	abscīsum
-	332	excīdō	excīdere	excīdī	excīsum
-	246	dēcīdō	dēcīdere	dēcīdī	dēcīsum
-
-3569	periō	perīre	peperuī	pertu
-	1002	aperiō	aperīre	aperuī	apertum
-	34	adaperiō	adaperīre	adaperuī	adapertum
-	1075	reperiō	reperīre	repperī	repertum
-	189	comperiō	comperīre	comperī	compertum
-	578	operiō	operīre	operuī	opertum
-	21	adoperiō	adoperīre	adoperuī	adopertum
-	22	cooperiō	cooperīre	cooperuī	coopertum
-	648	experior	experīrī	-	expertus sum
-
 3452	iubeō	iubēre	iussī	iussu
-	3452	iubeō	iubēre	iussī	iussum
-
 3397	audiō	audīre	audīuī	audītu
-	3224	audiō	audīre	audīuī	audītum
-	51	inaudiō	inaudīre	inaudīuī	inaudītum
-	122	exaudiō	exaudīre	exaudīuī	exaudītum
-
-3397	crēdō	crēdere	crēdidī	crēditu
-	3373	crēdō	crēdere	crēdidī	crēditum
-	24	concrēdō	concrēdere	concrēdidī	concrēditum
-
 3363	fundō	fundere	fūdī	fūsu
-	1027	fundō	fundere	fūdī	fūsum
-	27	refundō	refundere	refūdī	refūsum
-	42	affundō	affundere	affūdī	affūsum
-	589	effundō	effundere	effūdī	effūsum
-	170	diffundō	diffundere	diffūdī	diffūsum
-	35	offundō	offundere	offudī	offusum
-	66	suffundō	suffundere	suffūdī	suffūsum
-	116	circumfundō	circumfundere	circumfudī	circumfusum
-	356	īnfundō	īnfundere	īnfūdī	īnfūsum
-	268	cōnfundō	cōnfundere	cōnfūdī	cōnfūsum
-	352	profundō	profundere	profūdī	profūsum
-	246	perfundō	perfundere	perfūdī	perfūsum
-	25	superfundō	superfundere	superfudī	superfūsum
-	26	trānsfundō	trānsfundere	trānsfūdī	trānsfūsum
-	18	dēfundō	dēfundere	dēfūdī	dēfūsum
-
 3192	trahō	trahere	trāxī	tractu
-	1440	trahō	trahere	trāxī	tractum
-	101	subtrahō	subtrahere	subtraxī	subtractum
-	32	adtrahō	adtrahere	adtraxī	adtractum
-	68	retrahō	retrahere	retraxī	retractum
-	392	contrahō	contrahere	contraxī	contractum
-	19	pertrahō	pertrahere	pertraxī	pertractum
-	70	abstrahō	abstrahere	abstraxī	abstractum
-	118	distrahō	distrahere	distraxī	distractum
-	31	attrahō	attrahere	attraxī	attractum
-	283	extrahō	extrahere	extraxī	extractum
-	582	dētrahō	dētrahere	dētraxī	dētractum
-	56	prōtrahō	prōtrahere	prōtraxī	prōtractum
-
 3146	currō	currere	currī	cursu
-	1082	currō	currere	cucurrī	cursum
-	69	recurrō	recurrere	recurrī	recursum
-	47	accurrō	accurrere	accucurrī	accursum
-	599	occurrō	occurrere	occurrī	occursum
-	209	succurrō	succurrere	succurrī	succursum
-	15	adcurrō	adcurrere	adcucurrī	adcursum
-	58	praecurrō	praecurrere	praecucurrī	praecursum
-	143	incurrō	incurrere	incurrī	incursum
-	340	concurrō	concurrere	concurrī	concursum
-	93	percurrō	percurrere	percucurrī	percursum
-	9	intercurrō	intercurrere	intercucurrī	intercursum
-	101	discurrō	discurrere	discurrī	discursus
-	72	excurrō	excurrere	excucurrī	excursum
-	193	dēcurrō	dēcurrere	dēcurrī	dēcursum
-	116	prōcurrō	prōcurrere	prōcurrī	prōcursum
-
 3077	gerō	gerere	gessī	gestu
-	1978	gerō	gerere	gessī	gestum
-	37	regerō	regerere	regessī	regestum
-	11	adgerō	adgerere	adgessī	adgestum
-	180	aggerō	aggerere	aggessī	aggestum
-	61	suggerō	suggerere	suggessī	suggestum
-	171	ingerō	ingerere	ingessī	ingestum
-	209	congerō	congerere	congessī	congestum
-	84	ēgerō	ēgerere	ēgessī	ēgestum
-	155	dīgerō	dīgerere	dīgessī	dīgestum
-	11	adgerō	adgerere	adgessī	adgestum
-	180	aggerō	aggerere	aggessī	aggestum
-
 3065	sinō	sinere	sīuī	situ
-	3049	sinō	sinere	sīuī	situm
-	16	dēsinō	dēsinere	dēsiuī	dēsitum
-
 3041	neō	nēre	nēuī	nētu
-	3041	neō	nēre	nēuī	nētum
-
 3031	serō	serere	seruī	sertu
-	2535	serō	serere	seruī	sertum
-	285	īnserō	īnserere	īnseruī	īnsertum
-	211	cōnserō	cōnserere	cōnseruī	cōnsertum
-
 3028	linquō	linquere	līquī	līctu
-	300	linquō	linquere	līquī	līctum
-	2547	relinquō	relinquere	relīquī	relictum
-	23	dērelinquō	dērelinquere	dērelīquī	dērelictum
-	158	dēlinquō	dēlinquere	dēlīquī	dēlictum
-
 2998	statuō	statuere	statuī	statūtu
-	651	statuō	statuere	statuī	statūtum
-	42	substituō	substituere	substituī	substitūtum
-	13	praestituō	praestituere	praestituī	praestitūtum
-	394	restituō	restituere	restituī	restitūtum
-	734	īnstituō	īnstituere	īnstituī	īnstitūtum
-	954	cōnstituō	cōnstituere	cōnstituī	cōnstitūtum
-	174	dēstituō	dēstituere	dēstituī	dēstitūtum
-	36	prōstituō	prōstituere	prōstituī	prōstitūtum
-
 2976	rapiō	rapere	rapuī	raptu
-	1498	rapiō	rapere	rapuī	raptum
-	50	abripiō	abripere	abripuī	abreptum
-	58	praeripiō	praeripere	praeripuī	praereptum
-	83	arripiō	arripere	arripuī	arreptum
-	303	corripiō	corripere	corripuī	correptum
-	96	surripiō	surripere	surripuī	surreptum
-	690	ēripiō	ēripere	ēripuī	ēreptum
-	59	dēripiō	dēripere	dēripuī	dēreptum
-	104	dīripiō	dīripere	dīripuī	dīreptum
-	35	prōripiō	prōripere	prōripuī	prōreptum
-
 2947	uertō	uertere	uertī	uersu
-	738	uertō	uertere	uertī	uersum
-	28	obuertō	obuertere	obuertī	obuersum
-	26	subuertō	subuertere	subuertī	subuersum
-	241	aduertō	aduertere	aduertī	aduersum
-	33	animaduertō	animaduertere	animaduertī	animaduersum
-	9	reuertō	reuertere	reuertī	reuersum
-	6	anteuertō	anteuertere	anteuertī	anteuersum
-	53	inuertō	inuertere	inuertī	inuersum
-	362	conuertō	conuertere	conuertī	conuersum
-	53	peruertō	peruertere	peruertī	peruersum
-	4	interuertō	interuertere	interuertī	interuersum
-	139	trānsuertō	trānsuertere	trānsuertī	trānsuersum
-	478	āuertō	āuertere	āuertī	āuersum
-	102	ēuertō	ēuertere	ēuertī	ēuersum
-	3	dēuertō	dēuertere	dēuertī	dēuersum
-	672	dīuertō	dīuertere	dīuertī	dīuersum
-
 2925	reō	rēre	-	ratu
-	2925	reor	rērī	-	ratus sum
-
 2886	alō	alere	aluī	altu
-	2878	alō	alere	aluī	altum
-	8	coalō	coalere	coaluī	coaltum
-
 2866	suō	suere	suī	sūtu
-	2739	suō	suere	suī	sūtum
-	14	adsuō	adsuere	adsuī	adsūtum
-	26	īnsuō	īnsuere	īnsuī	īnsūtum
-	87	cōnsuō	cōnsuere	cōnsuī	cōnsūtum
-
 2805	uincō	uincere	uīcī	uictu
-	2542	uincō	uincere	uīcī	uictum
-	13	reuincō	reuincere	reuīcī	reuictum
-	92	conuincō	conuincere	conuīcī	conuictum
-	16	peruincō	peruincere	peruīcī	peruictum
-	39	ēuincō	ēuincere	ēuīcī	ēuictum
-	103	dēuincō	dēuincere	dēuicī	dēuictum
-
 2789	cernō	cernere	crēuī	crētu
-	1353	cernō	cernere	crēuī	crētum
-	32	incernō	incernere	incrēuī	incrētum
-	24	concernō	concernere	concrēuī	concrētum
-	188	discernō	discernere	discrēuī	discrētum
-	30	excernō	excernere	excrēuī	excrētum
-	749	dēcernō	dēcernere	dēcrēuī	dēcrētum
-	413	sēcernō	sēcernere	sēcrēuī	sēcrētum
-
 2765	premō	premere	pressī	pressu
-	1144	premō	premere	pressī	pressum
-	154	reprimō	reprimere	repressī	repressum
-	87	imprimō	imprimere	impressī	impressum
-	185	comprimō	comprimere	compressī	compressum
-	465	opprimō	opprimere	oppressī	oppressum
-	95	supprimō	supprimere	suppressī	suppressum
-	500	exprimō	exprimere	expressī	expressum
-	135	dēprimō	dēprimere	dēpressī	dēpressum
-
 2755	serō	serere	sēuī	satu
-	2535	serō	serere	sēuī	satum
-	211	cōnserō	cōnserere	cōnsēuī	cōnsatum
-	9	interserō	interserere	intersēuī	intersatum
-
-2738	fugiō	fugere	fūgī	fugitu
-	1692	fugiō	fugere	fūgī	fugitum
-	367	effugiō	effugere	effūgī	effugitum
-	58	diffugiō	diffugere	diffūgī	diffūgitum
-	160	cōnfugiō	cōnfugere	cōnfūgī	cōnfugitum
-	30	trānsfugiō	trānsfugere	trānsfūgī	trānsfugitum
-	16	dēfugiō	dēfugere	dēfūgī	dēfugitum
-	183	refugiō	refugere	refūgī	-
-	52	perfugiō	perfugere	perfūgī	-
-	7	subterfugiō	subterfugere	subterfūgī	-
-	31	aufugiō	aufugere	aufūgī	-
-	142	prōfugiō	prōfugere	prōfūgī	-
-
+2738	fugiō	fugere	fūgī	-
 2684	pellō	pellāre	pellāuī	pellātu
-	34	adpellō	adpellāre	adpellāuī	adpellātum
-	182	compellō	compellāre	compellāuī	compellātum
-	75	conpellō	conpellāre	conpellāuī	conpellātum
-	2294	appellō	appellāre	appellāuī	appellātum
-	99	interpellō	interpellāre	interpellāuī	interpellātum
-
 2676	serō	serāre	serāuī	serātu
-	2535	serō	serāre	serāuī	serātum
-	78	reserō	reserāre	reserāuī	reserātum
-	63	obserō	obserāre	obserāuī	obserātum
-
-2661	pariō	parere	peperī	partu
-	2661	pariō	parere	peperī	partum
-
 2620	fō	fāre	-	fātu
-	2321	for	fārī	-	fātus sum
-	44	praefor	praefārī	-	praefātus sum
-	100	affor	affārī	-	affātus sum
-	84	effor	effārī	-	effātus sum
-	65	profor	profārī	-	profātus sum
-	6	interfor	interfārī	-	interfātus sum
-
+2567	periō	perīre	peruī	pertu
 2558	regō	regere	rēxī	rēctu
-	1434	regō	regere	rēxī	rēctum
-	188	corrigō	corrigere	corrēxī	corrēctum
-	351	porrigō	porrigere	porrexī	porrectum
-	6	exporrigō	exporrigere	exporrexī	exporrectum
-	404	ērigō	ērigere	ērexī	ērectum
-	175	dīrigō	dīrigere	dīrexī	dīrectum
-
 2510	loquō	loquere	-	locūtu
-	1947	loquor	loquī	-	locūtus sum
-	15	obloquor	obloquī	-	oblocūtus sum
-	5	praeloquor	praeloquī	-	praelocūtus sum
-	131	alloquor	alloquī	-	allocūtus sum
-	24	colloquor	colloquī	-	collocūtus sum
-	43	conloquor	conloquī	-	conlocūtus sum
-	6	interloquor	interloquī	-	interlocūtus sum
-	311	ēloquor	ēloquī	-	ēlocūtus sum
-	28	prōloquor	prōloquī	-	prōlocūtus sum
-
 2504	uīuō	uīuere	uīxī	uīctu
-	2422	uīuō	uīuere	uīxī	uīctum
-	14	reuīuō	reuīuere	reuīxī	reuīctum
-	62	conuīuō	conuīuere	conuīxī	conuīctum
-	6	superuīuō	superuīuere	superuīxī	superuīctum
-
 2493	sūmō	sūmere	sūmpsī	sūmptu
-	1506	sūmō	sūmere	sūmpsī	sūmptum
-	43	resūmō	resūmere	resūmpsī	resūmptum
-	192	absūmō	absūmere	absūmpsī	absūmptum
-	201	adsūmō	adsūmere	adsūmpsī	adsūmptum
-	41	praesūmō	praesūmere	praesūmpsī	praesūmptum
-	22	īnsūmō	īnsūmere	īnsūmpsī	īnsūmptum
-	459	cōnsūmō	cōnsūmere	cōnsūmpsī	cōnsūmptum
-	23	assūmō	assūmere	assūmpsī	assūmptum
-	6	dēsūmō	dēsūmere	dēsūmpsī	dēsūmptum
-
 2489	parō	parāre	parāuī	parātu
-	2221	parō	parāre	parāuī	parātum
-	70	reparō	reparāre	reparāuī	reparātum
-	9	adparō	adparāre	adparāuī	adparātum
-	189	praeparō	praeparāre	praeparāuī	praeparātum
-
 2465	soleō	solēre	-	solitu
-	2451	soleō	solēre	-	solitus sum
-	14	assoleō	assolēre	-	assolitus sum
-
 2407	amō	amāre	amāuī	amātu
-	2362	amō	amāre	amāuī	amātum
-	45	adamō	adamāre	adamāuī	adamātum
-
 2310	lābō	lābere	-	lāpsu
-	1764	lābor	lābī	-	lāpsus sum
-	19	relābor	relābī	-	relāpsus
-	28	allābor	allābī	-	allāpsus
-	67	collābor	collābī	-	collāpsus sum
-	21	perlābor	perlābī	-	perlāpsus sum
-	5	praeterlābor	praeterlābī	-	praeterlāpsus sum
-	109	ēlābor	ēlābī	-	ēlāpsus
-	129	dēlābor	dēlābī	-	dēlapsus sum
-	91	dīlābor	dīlābī	-	dīlapsus sum
-	77	prōlābor	prōlābī	-	prolapsus sum
-
 2294	rogō	rogāre	rogāuī	rogātu
-	1682	rogō	rogāre	rogāuī	rogātum
-	48	abrogō	abrogāre	abrogāuī	abrogātum
-	7	obrogō	obrogāre	obrogāuī	obrogātum
-	11	subrogō	subrogāre	subrogāuī	subrogātum
-	42	adrogō	adrogāre	adrogāuī	adrogātum
-	9	inrogō	inrogāre	inrogāuī	inrogātum
-	24	arrogō	arrogāre	arrogāuī	arrogātum
-	6	perrogō	perrogāre	perrogāuī	perrogātum
-	329	interrogō	interrogāre	interrogāuī	interrogātum
-	7	irrogō	irrogāre	irrogāuī	irrogātum
-	6	corrogō	corrogāre	corrogāuī	corrogātum
-	34	ērogō	ērogāre	ērogāuī	ērogātum
-	17	dērogō	dērogāre	dērogāuī	dērogātum
-	72	prōrogō	prōrogāre	prōrogāuī	prōrogātum
-
 2284	pectō	pectāre	pectāuī	pectātu
-	1195	spectō	spectāre	spectāuī	spectātum
-	16	aspectō	aspectāre	aspectāuī	aspectātum
-	22	respectō	respectāre	respectāuī	respectātum
-	19	circumspectō	circumspectāre	circumspectāuī	circumspectātum
-	34	īnspectō	īnspectāre	īnspectāuī	īnspectātum
-	44	prospectō	prospectāre	prospectāuī	prospectātum
-	693	exspectō	exspectāre	exspectāuī	exspectātum
-	16	dēspectō	dēspectāre	dēspectāuī	dēspectātus
-	245	expectō	expectāre	expectāuī	expectātum
-
 2275	tueō	tuēre	-	tuitu
-	1872	tueor	tuērī	-	tuitus sum
-	39	obtueor	obtuērī	-	obtuitus sum
-	331	intueor	intuērī	-	intuitus sum
-	33	contueor	contuērī	-	contuitus sum
-
 2227	patiō	patere	-	passu
-	2227	patior	patī	-	passus sum
-
-2213	stō	stāre	stitī	stātu
-	87	circumstō	circumstāre	circumstetī	circumstātum
-	509	īnstō	īnstāre	īnstitī	īnstātum
-	1453	cōnstō	cōnstāre	cōnstitī	cōnstātum
-	79	perstō	perstāre	perstitī	perstātum
-	85	superstō	superstāre	superstetī	superstātum
-
 2211	reddō	reddere	reddidī	redditu
-	2211	reddō	reddere	reddidī	redditum
-
 2155	soluō	soluere	soluī	solūtu
-	1234	soluō	soluere	soluī	solūtum
-	277	resoluō	resoluere	resoluī	resolūtum
-	337	absoluō	absoluere	absoluī	absolūtum
-	53	persoluō	persoluere	persoluī	persolūtum
-	178	dissoluō	dissoluere	dissoluī	dissolūtum
-	76	exsoluō	exsoluere	exsoluī	exsolūtum
-
 2152	seruō	seruāre	seruāuī	seruātu
-	1489	seruō	seruāre	seruāuī	seruātum
-	77	reseruō	reseruāre	reseruāuī	reseruātum
-	334	obseruō	obseruāre	obseruāuī	obseruātum
-	55	adseruō	adseruāre	adseruāuī	adseruātum
-	197	cōnseruō	cōnseruāre	cōnseruāuī	cōnseruātum
-
 2112	moriō	morere	-	mortuu
-	1945	morior	morī	-	mortuus sum
-	4	praemorior	praemorī	-	praemortuus sum
-	9	commorior	commorī	-	commortuus sum
-	6	conmorior	conmorī	-	conmortuus sum
-	12	intermorior	intermorī	-	intermortuus sum
-	114	ēmorior	ēmorī	-	ēmortuus sum
-	22	dēmorior	dēmorī	-	dēmortuus sum
-
 2069	aiō	aiere	-	-
-	2069	aiō	aiere	-	-
-
 2059	iungō	iungere	iūnxī	iūnctu
-	1021	iungō	iungere	iūnxī	iūnctum
-	5	abiungō	abiungere	abiūnxī	abiūnctum
-	30	subiungō	subiungere	subiunxī	subiunctum
-	365	adiungō	adiungere	adiūnxī	adiūnctum
-	36	iniungō	iniungere	iniunxī	iniunctum
-	503	coniungō	coniungere	coniunxī	coniunctum
-	5	interiungō	interiungere	interiunxī	interiunctum
-	35	disiungō	disiungere	disiūnxī	disiūnctum
-	3	dēiungō	dēiungere	dēiunxī	dēiunctum
-	56	sēiungō	sēiungere	sēiunxī	sēiunctus
-
 2059	rumpō	rumpere	rūpī	ruptu
-	690	rumpō	rumpere	rūpī	ruptum
-	211	abrumpō	abrumpere	abrūpī	abruptum
-	57	praerumpō	praerumpere	praerūpī	praeruptum
-	80	perrumpō	perrumpere	perrūpī	perruptum
-	66	interrumpō	interrumpere	interrūpī	interruptum
-	167	irrumpō	irrumpere	irrūpī	irruptum
-	422	corrumpō	corrumpere	corrūpī	corruptum
-	9	disrumpō	disrumpere	disrūpī	disruptum
-	275	ērumpō	ērumpere	ērūpī	ēruptum
-	18	dīrumpō	dīrumpere	dīrūpī	dīruptum
-	64	prōrumpō	prōrumpere	prōrūpī	prōruptum
-
 2056	colō	colere	coluī	cultu
-	1735	colō	colere	coluī	cultum
-	23	recolō	recolere	recoluī	recultum
-	66	accolō	accolere	accoluī	accultum
-	79	excolō	excolere	excoluī	excultum
-	153	incolō	incolere	incoluī	-
-
 1970	pleō	plēre	plēuī	plētu
-	692	pleō	plēre	plēuī	plētum
-	139	repleō	replēre	replēuī	replētum
-	476	impleō	implēre	implēuī	implētum
-	223	compleō	complēre	complēuī	complētum
-	123	inpleō	inplēre	inplēuī	inplētum
-	38	conpleō	conplēre	conplēuī	conplētum
-	25	oppleō	opplēre	opplēuī	opplētum
-	50	suppleō	supplēre	supplēuī	supplētum
-	204	expleō	explēre	explēuī	explētum
-
 1965	oriō	orīre	-	ortu
-	1381	orior	orīrī	-	ortus sum
-	57	aborior	aborīrī	-	abortus sum
-	66	oborior	oborīrī	-	obortus sum
-	69	adorior	adorīrī	-	adortus sum
-	71	coorior	coorīrī	-	coortus sum
-	321	exorior	exorīrī	-	exortus sum
-
 1942	cūrō	cūrāre	cūrāuī	cūrātu
-	1505	cūrō	cūrāre	cūrāuī	cūrātum
-	147	accūrō	accūrāre	accūrāuī	accūrātum
-	5	adcūrō	adcūrāre	adcūrāuī	adcūrātum
-	218	obscūrō	obscūrāre	obscūrāuī	obscūrātum
-	67	prōcūrō	prōcūrāre	prōcūrāuī	prōcūrātum
-
 1928	pāreō	pārēre	pāruī	pāritu
-	1165	pāreō	pārēre	pāruī	pāritum
-	20	compāreō	compārēre	compāruī	compāritum
-	3	conpāreō	conpārēre	conpāruī	conpāritum
-	740	appāreō	appārēre	appāruī	appāritum
-
 1922	intellegō	intellegere	intellēxī	intellēctu
-	1922	intellegō	intellegere	intellēxī	intellēctum
-
 1912	gnōscō	gnōscere	gnōuī	gnitu
-	294	agnōscō	agnōscere	agnōuī	agnitum
-	65	recognōscō	recognōscere	recognōuī	recognitum
-	1553	cōgnōscō	cōgnōscere	cōgnōuī	cōgnitum
-
 1911	gradiō	gradere	-	gressu
-	218	gradior	gradī	-	gressus sum
-	27	praegredior	praegredī	-	praegressus sum
-	78	regredior	regredī	-	regressus sum
-	7	antegredior	antegredī	-	antegressus sum
-	244	aggredior	aggredī	-	aggressus sum
-	376	ingredior	ingredī	-	ingressus sum
-	153	congredior	congredī	-	congressus sum
-	22	supergredior	supergredī	-	supergressus sum
-	5	praetergredior	praetergredī	-	praetergressus sum
-	146	trānsgredior	trānsgredī	-	trānsgressus sum
-	362	ēgredior	ēgredī	-	ēgressus sum
-	27	dēgredior	dēgredī	-	dēgressus sum
-	105	dīgredior	dīgredī	-	dīgressus sum
-	141	prōgredior	prōgredī	-	prōgressus sum
-
-1906	dō	dere	didī	ditu
-	180	abdō	abdere	abdidī	abditum
-	11	obdō	obdere	obdidī	obditum
-	160	subdō	subdere	subdidī	subditum
-	1551	addō	addere	addidī	additum
-	4	superaddō	superaddere	superaddidī	superadditum
-
 1889	negō	negāre	negāuī	negātu
-	1810	negō	negāre	negāuī	negātum
-	10	abnegō	abnegāre	abnegāuī	abnegātum
-	14	pernegō	pernegāre	pernegāuī	pernegātum
-	55	dēnegō	dēnegāre	dēnegāuī	dēnegātum
-
-1885	trādō	trādere	trādidī	trāditu
-	1885	trādō	trādere	trādidī	trāditum
-
 1872	ualeō	ualēre	ualuī	ualitu
-	1839	ualeō	ualēre	ualuī	ualitum
-	33	praeualeō	praeualēre	praeualuī	praeualitum
-
 1857	doceō	docēre	docuī	doctu
-	1784	doceō	docēre	docuī	doctum
-	14	perdoceō	perdocēre	perdocuī	perdoctum
-	53	ēdoceō	ēdocēre	ēdocuī	ēdoctum
-	6	dēdoceō	dēdocēre	dēdocuī	dēdoctum
-
 1824	ligō	ligāre	ligāuī	ligātu
-	143	ligō	ligāre	ligāuī	ligātum
-	110	religō	religāre	religāuī	religātum
-	151	obligō	obligāre	obligāuī	obligātum
-	11	subligō	subligāre	subligāuī	subligātum
-	37	adligō	adligāre	adligāuī	adligātum
-	18	praeligō	praeligāre	praeligāuī	praeligātum
-	189	alligō	alligāre	alligāuī	alligātum
-	158	adalligō	adalligāre	adalligāuī	adalligātum
-	3	illigō	illigāre	illigāuī	illigātum
-	614	colligō	colligāre	colligāuī	colligātum
-	27	circumligō	circumligāre	circumligāuī	circumligātum
-	46	inligō	inligāre	inligāuī	inligātum
-	39	conligō	conligāre	conligāuī	conligātum
-	278	dēligō	dēligāre	dēligāuī	dēligātum
-
-1810	cingō	cingere	cinxī	cinctu
-	380	cingō	cingere	cinxī	cinctum
-	1238	recingō	recingere	recinxī	recinctum
-	45	accingō	accingere	accinxī	accinctum
-	63	succingō	succingere	succinxī	succinctum
-	42	praecingō	praecingere	praecinxī	praecinctum
-	21	incingō	incingere	incinxī	incinctum
-	21	discingō	discingere	discinxī	discinctum
-
+1810	cingō	cingere	cīnxī 	cinctu
 1798	probō	probāre	probāuī	probātu
-	1387	probō	probāre	probāuī	probātum
-	124	adprobō	adprobāre	adprobāuī	adprobātum
-	66	improbō	improbāre	improbāuī	improbātum
-	70	comprobō	comprobāre	comprobāuī	comprobātum
-	57	inprobō	inprobāre	inprobāuī	inprobātum
-	38	conprobō	conprobāre	conprobāuī	conprobātum
-	56	approbō	approbāre	approbāuī	approbātum
-
 1783	misceō	miscēre	miscuī	mixtu
-	1253	misceō	miscēre	miscuī	mixtum
-	4	remisceō	remiscēre	remiscuī	remixtum
-	201	admisceō	admiscēre	admiscuī	admixtum
-	48	immisceō	immiscēre	immiscuī	immixtum
-	49	commisceō	commiscēre	commiscuī	commixtum
-	8	inmisceō	inmiscēre	inmiscuī	inmixtum
-	209	permisceō	permiscēre	permiscuī	permixtum
-	11	intermisceō	intermiscēre	intermiscuī	intermixtum
-
 1779	terō	terere	trīuī	trītu
-	1267	terō	terere	trīuī	trītum
-	45	obterō	obterere	obtrīuī	obtrītum
-	6	subterō	subterere	subtrīuī	subtrītum
-	27	adterō	adterere	adtrīuī	adtrītum
-	16	interō	interere	intrīuī	intrītum
-	243	conterō	conterere	contrīuī	contrītum
-	96	atterō	atterere	attrīuī	attrītum
-	46	dēterō	dēterere	dētrīuī	dētrītum
-	33	prōterō	prōterere	prōtrīuī	prōtrītum
-
 1775	nāscō	nāscere	-	nātu
-	1685	nāscor	nāscī	-	nātus sum
-	59	renāscor	renāscī	-	renātus sum
-	14	agnāscor	agnāscī	-	agnātus sum
-	17	ēnāscor	ēnāscī	-	ēnātus sum
-
 1773	sedeō	sedēre	sēdī	sessu
-	1023	sedeō	sedēre	sēdī	sessum
-	133	resideō	residēre	resēdī	resessum
-	9	obsideō	obsidēre	obsēdī	obsessum
-	74	praesideō	praesidēre	praesēdī	praesessum
-	33	circumsedeō	circumsedēre	circumsēdī	circumsessum
-	71	īnsideō	īnsidēre	īnsēdī	īnsessum
-	27	supersedeō	supersedēre	supersēdī	supersessum
-	87	assideō	assidēre	assēdī	assessum
-	12	dissideō	dissidēre	dissēdī	-
-	260	possideō	possidēre	possēdī	possessum
-	44	dēsideō	dēsidēre	dēsēdī	-
-
 1770	mō	mere	mī	mptu
-	297	adimō	adimere	adēmī	ademptum
-	131	redimō	redimere	redēmī	redemptum
-	75	dirimō	dirimere	dirēmī	diremptum
-	36	perimō	perimere	perēmī	peremptum
-	192	interimō	interimere	interimī	interemptum
-	330	eximō	eximere	exēmī	exemptum
-	709	emō	emere	ēmī	ēmptum
-
 1758	cōlō	cōlāre	cōlāuī	cōlātu
-	1735	cōlō	cōlāre	cōlāuī	cōlātum
-	23	percōlō	percōlāre	percōlāuī	percōlātum
-
 1752	tollō	tollere	sustulī	sublātu
-	1387	tollō	tollere	sustulī	sublātum
-	32	adtollō	-	-	-
-	10	sustollō	sustollere	-	-
-	241	attollō	-	-	-
-	82	extollō	extollere	-	-
-
 1731	tegō	tegere	tēxī	tēctu
-	1208	tegō	tegere	tēxī	tēctum
-	42	retegō	retegere	retēxī	retēctum
-	28	obtegō	obtegere	obtēxī	obtēctum
-	67	integō	integere	intēxī	intēctum
-	134	contegō	contegere	contēxī	contēctum
-	107	dētegō	dētegere	dētēxī	dētēctum
-	145	prōtegō	prōtegere	prōtēxī	prōtēctum
-
-1710	fallō	fallere	fellī	falsu
-	90	refellō	refellere	refellī	refelsum
-	1620	fallō	fallere	fefellī	falsum
-
+1710	fallō	fallere	fefellī	falsu
 1705	stimō	stimāre	stimāuī	stimātu
-	405	aestimō	aestimāre	aestimāuī	aestimātum
-	1300	exīstimō	exīstimāre	exīstimāuī	exīstimātum
-
 1705	pugnō	pugnāre	pugnāuī	pugnātu
-	1027	pugnō	pugnāre	pugnāuī	pugnātum
-	235	repugnō	repugnāre	repugnāuī	repugnātum
-	15	obpugnō	obpugnāre	obpugnāuī	obpugnātum
-	10	impugnō	impugnāre	impugnāuī	impugnātum
-	5	inpugnō	inpugnāre	inpugnāuī	inpugnātum
-	169	oppugnō	oppugnāre	oppugnāuī	oppugnātum
-	163	expugnō	expugnāre	expugnāuī	expugnātum
-	51	dēpugnō	dēpugnāre	dēpugnāuī	dēpugnātum
-	30	prōpugnō	prōpugnāre	prōpugnāuī	prōpugnātum
-
 1704	ōrō	ōrāre	ōrāuī	ōrātu
-	1463	ōrō	ōrāre	ōrāuī	ōrātum
-	60	perōrō	perōrāre	perōrāuī	perōrātum
-	181	exōrō	exōrāre	exōrāuī	exōrātum
-
 1698	maneō	manēre	mānsī	mānsu
-	1328	maneō	manēre	mānsī	mānsum
-	177	remaneō	remanēre	remānsī	remānsum
-	193	permaneō	permanēre	permansī	permansum
-
 1696	mīrō	mīrāre	mīrāuī	mīrātu
-	144	mīror	mīrārī	-	mīrātus sum
-	1244	mīrō	mīrāre	mīrāuī	mīrātum
-	284	admīror	admīrārī	-	admīrātus sum
-	24	dēmīror	dēmīrārī	-	dēmīrātus sum
-
 1681	uītō	uītāre	uītāuī	uītātu
-	1265	uītō	uītāre	uītāuī	uītātum
-	368	inuītō	inuītāre	inuītāuī	inuītātum
-	35	ēuītō	ēuītāre	ēuītāuī	ēuītātum
-	13	dēuītō	dēuītāre	dēuītāuī	dēuītātum
-
 1676	citō	citāre	citāuī	citātu
-	289	citō	citāre	citāuī	citātum
-	276	recitō	recitāre	recitāuī	recitātum
-	254	incitō	incitāre	incitāuī	incitātum
-	312	concitō	concitāre	concitāuī	concitātum
-	21	ōscitō	ōscitāre	ōscitāuī	ōscitātus
-	12	nōscitō	nōscitāre	nōscitāuī	nōscitātum
-	512	excitō	excitāre	excitāuī	excitātum
-
 1643	cendō	cendere	cendī	censu
-	425	accendō	accendere	accendī	accensum
-	38	succendō	succendere	succendī	succēnsum
-	324	incendō	incendere	incendī	incēnsum
-	112	ascendō	ascendere	ascendī	ascēnsum
-	60	trānscendō	trānscendere	trānscendī	trānscēnsum
-	114	cōnscendō	cōnscendere	cōnscendī	cōnscēnsum
-	46	ēscendō	ēscendere	ēscendī	ēscēnsum
-	524	dēscendō	dēscendere	dēscendī	dēscēnsum
-
 1615	spondeō	spondēre	spopondī	spōnsu
-	119	spondeō	spondēre	spopondī	spōnsum
-	1419	respondeō	respondēre	respondī	respōnsum
-	77	dēspondeō	dēspondēre	dēspondī	dēspōnsum
-
 1598	sapiō	sapere	sapīuī	-
-	1598	sapiō	sapere	sapīuī	-
-
 1598	locō	locāre	locāuī	locātu
-	1117	locō	locāre	locāuī	locātum
-	147	collocō	collocāre	collocāuī	collocātum
-	334	conlocō	conlocāre	conlocāuī	conlocātum
-
 1597	timeō	timēre	timuī	-
-	1565	timeō	timēre	timuī	-
-	32	pertimeō	pertimēre	pertimuī	-
-
 1583	coepiō	coepere	coepī	coeptu
-	1583	coepiō	coepere	coepī	coeptum
-
 1581	laudō	laudāre	laudāuī	laudātu
-	1543	laudō	laudāre	laudāuī	laudātum
-	12	collaudō	collaudāre	collaudāuī	collaudātum
-	26	conlaudō	conlaudāre	conlaudāuī	conlaudātum
-
 1577	mūtō	mūtāre	mūtāuī	mūtātu
-	1298	mūtō	mūtāre	mūtāuī	mūtātum
-	39	immūtō	immūtāre	immūtāuī	immūtātum
-	114	commūtō	commūtāre	commūtāuī	commūtātum
-	15	inmūtō	inmūtāre	inmūtāuī	inmūtātum
-	98	permūtō	permūtāre	permūtāuī	permūtātum
-	4	trānsmūtō	trānsmūtāre	trānsmūtāuī	trānsmūtātum
-	9	dēmūtō	dēmūtāre	dēmūtāuī	dēmūtātum
-
 1552	meō	meāre	meāuī	meātu
-	1378	meō	meāre	meāuī	meātum
-	132	remeō	remeāre	remeāuī	remeātum
-	20	commeō	commeāre	commeāuī	commeātum
-	17	permeō	permeāre	permeāuī	permeātum
-	5	trānsmeō	trānsmeāre	trānsmeāuī	trānsmeātum
-
 1545	turbō	turbāre	turbāuī	turbātu
-	1160	turbō	turbāre	turbāuī	turbātum
-	10	obturbō	obturbāre	obturbāuī	obturbātum
-	68	conturbō	conturbāre	conturbāuī	conturbātum
-	181	perturbō	perturbāre	perturbāuī	perturbātum
-	30	disturbō	disturbāre	disturbāuī	disturbātum
-	32	exturbō	exturbāre	exturbāuī	exturbātum
-	37	dēturbō	dēturbāre	dēturbāuī	dēturbātum
-	27	prōturbō	prōturbāre	prōturbāuī	prōturbātum
-
 1543	mereō	merēre	meruī	meritu
-	8	mereor	merērī	-	meritus sum
-	1417	mereō	merēre	meruī	meritum
-	21	commereō	commerēre	commeruī	commeritum
-	53	ēmereō	ēmerēre	ēmeruī	ēmeritum
-	9	dēmereō	dēmerēre	dēmeruī	dēmeritum
-	35	prōmereō	prōmerēre	prōmeruī	prōmeritum
-
 1524	ligō	ligere	lēgī	lēctu
-	49	perlegō	perlegere	perlēgī	perlēctum
-	541	ēligō	ēligere	ēlēgī	ēlēctum
-	278	dēligō	dēligere	dēlēgī	dēlēctum
-	21	sēligō	sēligere	sēlēgī	sēlēctum
-	614	colligō	colligere	collēgī	collēctum
-	21	recolligō	recolligere	recollēgī	recollēctum
-
 1524	liceō	licēre	licuī	licitu
-	1524	liceō	licēre	licuī	licitum
-
 1522	fendō	fendere	fendī	fēnsu
-	504	offendō	offendere	offendī	offēnsum
-	1018	dēfendō	dēfendere	dēfendī	dēfēnsum
-
 1514	placeō	placēre	placuī	placitu
-	1391	placeō	placēre	placuī	placitum
-	7	conplaceō	conplacēre	conplacuī	conplacitum
-	116	displiceō	displicēre	displicuī	displicitum
-
 1487	iūdicō	iūdicāre	iūdicāuī	iūdicātu
-	1423	iūdicō	iūdicāre	iūdicāuī	iūdicātum
-	5	abiūdicō	abiūdicāre	abiūdicāuī	abiūdicātum
-	12	adiūdicō	adiūdicāre	adiūdicāuī	adiūdicātum
-	7	praeiūdicō	praeiūdicāre	praeiūdicāuī	praeiūdicātum
-	40	dīiūdicō	dīiūdicāre	dīiūdicāuī	dīiūdicātum
-
 1469	mandō	mandāre	mandāuī	mandātu
-	831	mandō	mandāre	mandāuī	mandātum
-	3	praemandō	praemandāre	praemandāuī	praemandātus
-	3	āmandō	āmandāre	āmandāuī	āmandātum
-	4	dēmandō	dēmandāre	dēmandāuī	dēmandātum
-	380	commendō	commendāre	commendāuī	commendātum
-	248	ēmendō	ēmendāre	ēmendāuī	ēmendātum
-
 1445	audeō	audēre	-	ausu
-	1445	audeō	audēre	-	ausus sum
-
 1427	cēnseō	cēnsēre	cēnsuī	cēnsu
-	1278	cēnseō	cēnsēre	cēnsuī	cēnsum
-	39	recēnseō	recēnsēre	recēnsuī	recēnsum
-	8	succēnseō	succēnsēre	succēnsuī	succēnsum
-	37	percēnseō	percēnsēre	percēnsuī	percēnsum
-	65	suscēnseō	suscēnsēre	suscēnsuī	suscēnsum
-
 1387	coquō	coquere	coxī	coctu
-	491	coquō	coquere	coxī	coctum
-	15	recoquō	recoquere	recoxī	recoctum
-	91	concoquō	concoquere	concoxī	concoctum
-	16	discoquō	discoquere	discoxī	discoctum
-	48	excoquō	excoquere	excoxī	excoctum
-	726	dēcoquō	dēcoquere	dēcoxī	dēcoctum
-
 1385	armō	armāre	armāuī	armātu
-	1381	armō	armāre	armāuī	armātum
-	4	obarmō	obarmāre	obarmāuī	obarmātum
-
 1316	fateō	fatēre	-	fassu
-	680	fateor	fatērī	-	fassus sum
-	5	diffiteor	diffitērī	-	diffessus sum
-	362	cōnfiteor	cōnfitērī	-	cōnfessus sum
-	269	profiteor	profitērī	-	professus sum
-
 1309	uersō	uersāre	uersāuī	uersātu
-	817	uersō	uersāre	uersāuī	uersātum
-	477	aduersō	aduersāre	aduersāuī	aduersātum
-	15	conuersō	conuersāre	conuersāuī	conuersātum
-
 1308	rceō	rcēre	rcuī	rcitu
-	218	coerceō	coercēre	coercuī	coercitum
-	1090	exerceō	exercēre	exercuī	exercitum
-
 1306	taceō	tacēre	tacuī	tacitu
-	1254	taceō	tacēre	tacuī	tacitum
-	52	reticeō	reticēre	reticuī	-
-
 1301	tingō	tingere	tigī	tāctu
-	891	contingō	contingere	contigī	contāctum
-	410	attingō	attingere	attigī	attāctum
-
 1297	perō	perāre	perāuī	perātu
-	719	imperō	imperāre	imperāuī	imperātum
-	476	comparō	comparāre	comparāuī	comparātum
-	102	conparō	conparāre	conparāuī	conparātum
-
 1293	mō	mere	mpsī	mptu
-	324	dēmō	dēmere	dēmpsī	dēmptum
-	768	cōmō	cōmere	cōmpsi	cōmptum
-	115	prōmō	prōmere	prōmpsī	prōmptum
-	56	exprōmō	exprōmere	exprōmpsī	exprōmptum
-	30	dēprōmō	dēprōmere	dēprompsī	dēpromptum
-
 1289	animō	animāre	animāuī	animātu
-	1117	animō	animāre	animāuī	animātum
-	172	exanimō	exanimāre	exanimāuī	exanimātum
-
 1282	cōnsulō	cōnsulere	cōnsuluī	cōnsultu
-	1282	cōnsulō	cōnsulere	cōnsuluī	cōnsultum
-
 1260	iaceō	iacēre	iacuī	iacitu
-	1162	iaceō	iacēre	iacuī	iacitum
-	12	obiaceō	obiacēre	obiacuī	-
-	28	subiaceō	subiacēre	subiacuī	-
-	28	adiaceō	adiacēre	adiacuī	-
-	7	praeiaceō	praeiacēre	praeiacuī	-
-	3	circumiaceō	circumiacēre	circumiacuī	-
-	20	interiaceō	interiacēre	interiacuī	-
-
 1249	sacrō	sacrāre	sacrāuī	sacrātu
-	686	sacrō	sacrāre	sacrāuī	sacrātum
-	3	cōnsacrō	cōnsacrāre	cōnsacrāuī	cōnsacrātum
-	436	obsecrō	obsecrāre	obsecrāuī	obsecrātum
-	104	cōnsecrō	cōnsecrāre	cōnsecrāuī	cōnsecrātum
-	20	exsecror	exsecrārī	-	exsecrātus sum
-
 1229	iuuō	iuuāre	iūuī	iūtu
-	791	iuuō	iuuāre	iūuī	iūtum
-	438	adiuuō	adiuuāre	adiūuī	adiūtum
-
 1224	intrō	intrāre	intrāuī	intrātu
-	1224	intrō	intrāre	intrāuī	intrātum
-
 1191	moneō	monēre	monuī	monitu
-	687	moneō	monēre	monuī	monitum
-	446	admoneō	admonēre	admonuī	admonitum
-	28	praemoneō	praemonēre	praemonuī	praemonitum
-	30	commoneō	commonēre	commonuī	commonitum
-
 1179	mētiō	mētīre	-	mēnsu
-	1003	mētior	mētīrī	-	mēnsus sum
-	18	remētior	remētīrī	-	remēnsus sum
-	7	admētior	admētīrī	-	admēnsus sum
-	13	commētior	commētīrī	-	commēnsus sum
-	24	permētior	permētīrī	-	permēnsus sum
-	75	ēmētior	ēmētīrī	-	ēmēnsus sum
-	15	dēmētior	dēmētīrī	-	dēmensus
-	24	dīmētior	dīmētīrī	-	dīmēnsus sum
-
 1178	fluō	fluere	fluxī	fluxu
-	127	dēfluō	dēfluere	dēfluxī	dēfluxum
-	513	fluō	fluere	fluxī	fluxum
-	49	affluō	affluere	affluxī	affluxum
-	21	diffluō	diffluere	diffluxī	diffluxum
-	28	circumfluō	circumfluere	circumfluxī	circumfluxum
-	70	īnfluō	īnfluere	īnfluxī	īnfluxum
-	19	praefluō	praefluere	praefluxī	-
-	16	refluō	refluere	refluxī	-
-	73	effluō	effluere	effluxī	-
-	72	cōnfluō	cōnfluere	cōnfluxī	-
-	10	perfluō	perfluere	perfluxī	-
-	20	superfluō	superfluere	superfluxī	-
-	8	praeterfluō	praeterfluere	praeterfluxī	-
-	31	interfluō	interfluere	interfluxī	-
-	121	prōfluō	prōfluere	prōfluxī	-
-
 1170	ruō	ruere	ruī	rutu
-	711	ruō	ruere	ruī	rutum
-	356	obruō	obruere	obruī	obrutum
-	28	inruō	inruere	inruī	inrutum
-	4	irruō	irruere	irruī	irrutum
-	38	corruō	corruere	corruī	corrutum
-	33	surruō	surruere	surruī	surrutum
-
 1168	perdō	perdere	perdidī	perditu
-	1135	perdō	perdere	perdidī	perditum
-	12	disperdō	disperdere	disperdidī	disperditum
-	21	dēperdō	dēperdere	dēperdidī	dēperditum
-
 1167	firmō	firmāre	firmāuī	firmātu
-	330	firmō	firmāre	firmāuī	firmātum
-	228	adfirmō	adfirmāre	adfirmāuī	adfirmātum
-	65	affirmō	affirmāre	affirmāuī	affirmātum
-	11	offirmō	offirmāre	offirmāuī	offirmātum
-	104	īnfirmō	īnfirmāre	īnfirmāuī	īnfirmātum
-	429	cōnfirmō	cōnfirmāre	cōnfirmāuī	cōnfirmātum
-
 1164	cupiō	cupere	cupīuī	cupītu
-	1103	cupiō	cupere	cupīuī	cupītum
-	58	concupiō	concupere	concupīuī	concupītum
-	3	discupiō	discupere	discupīuī	discupītum
-
 1161	clūdō	clūdere	clūsī	clūsu
-	6	clūdō	clūdere	clūsī	clūsum
-	24	occlūdō	occlūdere	occlūsī	occlūsum
-	61	praeclūdō	praeclūdere	praeclūsī	praeclūsum
-	83	reclūdō	reclūdere	reclūsī	reclūsum
-	6	circumclūdō	circumclūdere	circumclūsī	circumclūsum
-	466	inclūdō	inclūdere	inclūsī	inclūsum
-	199	conclūdō	conclūdere	conclūsī	conclūsum
-	75	interclūdō	interclūdere	interclūsī	interclūsum
-	13	disclūdō	disclūdere	disclūsī	disclūsum
-	228	exclūdō	exclūdere	exclūsī	exclūsum
-
-1158	caedō	caedere	cecīdī	caesu
-	1158	caedō	caedere	cecīdī	caesum
-
 1148	uetō	uetāre	uetuī	uetitu
-	1148	uetō	uetāre	uetuī	uetitum
-
 1136	plicō	plicāre	plicāuī	plicātu
-	18	replicō	replicāre	replicāuī	replicātum
-	95	multiplicō	multiplicāre	multiplicāuī	multiplicātum
-	172	implicō	implicāre	implicāuī	implicātum
-	6	complicō	complicāre	complicāuī	complicātum
-	3	circumplicō	circumplicāre	circumplicāuī	circumplicātum
-	7	conplicō	conplicāre	conplicāuī	conplicātum
-	122	applicō	applicāre	applicāuī	applicātum
-	124	supplicō	supplicāre	supplicāuī	supplicātum
-	120	duplicō	duplicāre	duplicāuī	duplicātum
-	469	explicō	explicāre	explicāuī	explicātum
-
 1135	uehō	uehere	uēxī	uectu
-	427	uehō	uehere	uēxī	uectum
-	19	subuehō	subuehere	subuexī	subuectum
-	159	aduehō	aduehere	aduexī	aduectum
-	5	praeuehor	praeuehī	-	praeuectur
-	24	reuehō	reuehere	reuexī	reuectum
-	20	circumuehor	circumuehī	-	circumuectus
-	169	inuehō	inuehere	inuexī	inuectum
-	25	conuehō	conuehere	conuexī	conuectum
-	22	peruehō	peruehere	peruexī	peruectum
-	13	praeteruehor	praeteruehī	-	praeteruectus sum
-	23	trānsuehō	trānsuehere	trānsuexī	trānsuectum
-	43	āuehō	āuehere	āuexī	āuectum
-	49	ēuehō	ēuehere	ēuexī	ēuectum
-	51	dēuehō	dēuehere	dēuexī	dēuectum
-	86	prōuehō	prōuehere	prōuexī	prōuectum
-
 1117	ūrō	ūrere	ussī	ustu
-	452	ūrō	ūrere	ussī	ustum
-	107	ambūrō	ambūrere	ambussī	ambustum
-	131	combūrō	combūrere	combussī	combustum
-	160	adūrō	adūrere	adussī	adustum
-	4	praeūrō	praeūrere	praeussī	praeustum
-	47	inūrō	inūrere	inussī	inustum
-	55	perūrō	perūrere	perussī	perustum
-	149	exūrō	exūrere	exūssī	exustum
-	12	dēūrō	dēūrere	dēūssī	dēūstum
-
 1111	torqueō	torquēre	torsī	tortu
-	612	torqueō	torquēre	torsī	tortum
-	41	retorqueō	retorquēre	retorsī	retortum
-	9	obtorqueō	obtorquēre	obtorsī	obtortum
-	91	praetorqueō	praetorquēre	-	praetortum
-	104	intorqueō	intorquēre	intorsī	intortum
-	105	contorqueō	contorquēre	contorsī	contortum
-	21	distorqueō	distorquēre	distorsī	distortum
-	74	extorqueō	extorquēre	extorsī	extortum
-	54	dētorqueō	dētorquēre	dētorsī	dētortum
-
 1104	cōgitō	cōgitāre	cōgitāuī	cōgitātu
-	930	cōgitō	cōgitāre	cōgitāuī	cōgitātum
-	8	recōgitō	recōgitāre	recōgitāuī	recōgitātum
-	166	excōgitō	excōgitāre	excōgitāuī	excōgitātum
-
 1087	ficō	ficāre	ficāuī	ficātu
-	4	pācificō	pācificāre	pācificāuī	pācificātum
-	124	aedificō	aedificāre	aedificāuī	aedificātum
-	9	inaedificō	inaedificāre	inaedificāuī	inaedificātum
-	23	exaedificō	exaedificāre	exaedificāuī	exaedificātum
-	5	modificō	modificāre	modificāuī	modificātum
-	10	nīdificō	nīdificāre	nīdificāuī	nīdificātum
-	60	lūdificō	lūdificāre	lūdificāuī	lūdificātum
-	47	amplificō	amplificāre	amplificāuī	amplificātum
-	58	magnificō	magnificāre	magnificāuī	magnificātum
-	583	significō	significāre	significāuī	significātum
-	3	adsignificō	adsignificāre	adsignificāuī	adsignificātum
-	71	sacrificō	sacrificāre	sacrificāuī	sacrificātum
-	6	honōrificō	honōrificāre	honōrificāuī	honōrificātum
-	9	pūrificō	pūrificāre	pūrificāuī	pūrificātum
-	10	laetificō	laetificāre	laetificāuī	laetificātum
-	30	testificor	testificārī	-	testificātum
-	15	grātificor	grātificārī	-	grātificātus sum
-	5	fētificō	fētificāre	fētificāuī	-
-	15	sacruficō	sacruficāre	sacruficāuī	sacruficātum
-
 1084	generō	generāre	generāuī	generātu
-	977	generō	generāre	generāuī	generātum
-	15	ingenerō	ingenerāre	ingenerāuī	ingenerātum
-	92	dēgenerō	dēgenerāre	dēgenerāuī	dēgenerātum
-
 1073	patrō	patrāre	patrāuī	patrātu
-	688	patrō	patrāre	patrāuī	patrātum
-	364	impetrō	impetrāre	impetrāuī	impetrātum
-	21	perpetrō	perpetrāre	perpetrāuī	perpetrātum
-
 1066	arbitrō	arbitrāre	-	arbitrātu
-	1066	arbitror	arbitrārī	-	arbitrātus sum
-
 1065	nōminō	nōmināre	nōmināuī	nōminātu
-	910	nōminō	nōmināre	nōmināuī	nōminātum
-	151	cognōminō	cognōmināre	cognōmināuī	cognōminātum
-	4	dēnōminō	dēnōmināre	dēnōmināuī	dēnōminātum
-
 1061	spērō	spērāre	spērāuī	spērātu
-	889	spērō	spērāre	spērāuī	spērātum
-	172	dēspērō	dēspērāre	dēspērāuī	dēspērātum
-
 1048	uoluō	uoluere	uoluī	uolūtu
-	691	uoluō	uoluere	uoluī	uolūtum
-	11	obuoluō	obuoluere	obuoluī	obuolūtum
-	19	aduoluō	aduoluere	aduoluī	aduolūtum
-	78	reuoluō	reuoluere	reuoluī	reuolūtum
-	3	circumuoluō	circumuoluere	circumuoluī	circumuolūtum
-	148	inuoluō	inuoluere	inuoluī	inuolūtum
-	17	conuoluō	conuoluere	conuoluī	conuolūtum
-	61	ēuoluō	ēuoluere	ēuoluī	ēuolūtum
-	7	dēuoluō	dēuoluere	dēuoluī	dēuolūtum
-	13	prōuoluō	prōuoluere	prōuoluī	prōuolūtum
-
 1042	sīderō	sīderāre	sīderāuī	sīderātu
-	367	cōnsīderō	cōnsīderāre	cōnsīderāuī	cōnsīderātum
-	675	dēsīderō	dēsīderāre	dēsīderāuī	dēsīderātum
-
 1041	cūsō	cūsāre	cūsāuī	cūsātu
-	308	recūsō	recūsāre	recūsāuī	recūsātum
-	527	accūsō	accūsāre	accūsāuī	accūsātum
-	47	incūsō	incūsāre	incūsāuī	incūsātum
-	159	excūsō	excūsāre	excūsāuī	excūsātum
-
 1039	signō	signāre	signāuī	signātu
-	670	signō	signāre	signāuī	signātum
-	12	resignō	resignāre	resignāuī	resignātum
-	56	obsignō	obsignāre	obsignāuī	obsignātum
-	5	subsignō	subsignāre	subsignāuī	subsignātum
-	95	adsignō	adsignāre	adsignāuī	adsignātum
-	26	cōnsignō	cōnsignāre	cōnsignāuī	cōnsignātum
-	12	assignō	assignāre	assignāuī	assignātum
-	163	dēsignō	dēsignāre	dēsignāuī	dēsignātum
-
 1037	uādō	uādere	uāsī	uāsu
-	384	uādō	uādere	uāsī	-
-	344	inuādō	inuādere	inuāsī	inuāsum
-	22	peruādō	peruādere	peruāsī	peruāsum
-	287	ēuādō	ēuādere	ēuāsī	ēuāsum
-
 1027	fundō	fundāre	fundāuī	fundātu
-	1027	fundō	fundāre	fundāuī	fundātum
-
 1024	gignō	gignere	genuī	genitu
-	998	gignō	gignere	genuī	genitum
-	5	ingignō	ingignere	ingenuī	ingenitum
-	21	prōgignō	prōgignere	prōgenuī	prōgenitum
-
 1014	diō	dīre	dīuī	dītu
-	351	impediō	impedīre	impedīuī	impedītum
-	616	expediō	expedīre	expedīuī	expedītum
-	47	oboediō	oboedīre	oboedīuī	oboedītum
-
 1008	caueō	cauēre	cāuī	cautu
-	995	caueō	cauēre	cāuī	cautum
-	13	praecaueō	praecauēre	praecāuī	praecautum
-
 1005	tentō	tentāre	tentāuī	tentātu
-	653	tentō	tentāre	tentāuī	tentātum
-	4	adtentō	adtentāre	adtentāuī	adtentātum
-	48	intentō	intentāre	intentāuī	intentātum
-	30	pertentō	pertentāre	pertentāuī	pertentātum
-	165	ostentō	ostentāre	ostentāuī	ostentātum
-	96	sustentō	sustentāre	sustentāuī	sustentātum
-	9	attentō	attentāre	attentāuī	attentātum
-
 998	fīdō	fīdere	-	fīsu
-	593	fīdō	fīdere	-	fīsus sum
-	90	diffīdō	diffīdere	-	diffīsus sum
-	315	cōnfīdō	cōnfīdere	-	cōnfīsus sum
-
 997	haereō	haerēre	haesī	haesu
-	600	haereō	haerēre	haesī	haesum
-	126	adhaereō	adhaerēre	adhaesī	adhaesum
-	149	inhaereō	inhaerēre	inhaesī	inhaesum
-	122	cohaereō	cohaerēre	cohaesī	cohaesum
-
 994	prehendō	prehendere	prehendī	prehensu
-	106	prehendō	prehendere	prehendī	prehensum
-	103	adprehendō	adprehendere	adprehendī	adprehensum
-	335	reprehendō	reprehendere	reprehendī	reprehēnsum
-	375	comprehendō	comprehendere	comprehendī	comprehēnsum
-	8	apprehendō	apprehendere	apprehendī	apprehēnsum
-	67	dēprehendō	dēprehendere	dēprehendī	dēprehēnsum
-
 990	optō	optāre	optāuī	optātu
-	796	optō	optāre	optāuī	optātum
-	97	adoptō	adoptāre	adoptāuī	adoptātum
-	10	praeoptō	praeoptāre	praeoptāuī	praeoptātum
-	24	cooptō	cooptāre	cooptāuī	cooptātum
-	63	exoptō	exoptāre	exoptāuī	exoptātum
-
-976	surgō	surgere	surrēxī	surrēctu
-	555	surgō	surgere	surrēxī	surrēctum
-	54	resurgō	resurgere	resurrexī	resurrectum
-	55	īnsurgō	īnsurgere	īnsurrexī	īnsurrectum
-	156	cōnsurgō	cōnsurgere	cōnsurrexī	cōnsurrectum
-	89	assurgō	assurgere	assurrexī	assurrectum
-	67	exsurgō	exsurgere	exsurrexī	exsurrectum
-
+976	surgō	surgere	surrēxī	surrectu
 975	tangō	tangere	tetigī	tāctu
-	63	obtingō	obtingere	obtigī	-
-	33	adtingō	adtingere	adtigī	adtāctum
-	879	tangō	tangere	tetigī	tāctum
-
 974	gaudeō	gaudēre	-	gāuīsu
-	974	gaudeō	gaudēre	-	gāuīsus sum
-
-973	indō	indere	indidī	inditu
-	973	indō	indere	indidī	inditum
-
 963	frangō	frangere	frēgī	frāctu
-	963	frangō	frangere	frēgī	frāctum
-
 959	dīligō	dīligere	dīlēxī	dīlēctu
-	959	dīligō	dīligere	dīlēxī	dīlēctum
-
 951	tribuō	tribuere	tribuī	tribūtu
-	663	tribuō	tribuere	tribuī	tribūtum
-	58	adtribuō	adtribuere	adtribuī	adtribūtum
-	31	contribuō	contribuere	contribuī	contribūtum
-	126	distribuō	distribuere	distribuī	distribūtum
-	73	attribuō	attribuere	attribuī	attribūtum
-
 943	multō	multāre	multāuī	multātu
-	943	multō	multāre	multāuī	multātum
-
 941	bibō	bibere	bibī	bibitu
-	902	bibō	bibere	bibī	bibitum
-	4	adbibō	adbibere	adbibī	adbibitum
-	8	combibō	combibere	combibī	combibitum
-	6	conbibō	conbibere	conbibī	conbibitum
-	21	ēbibō	ēbibere	ēbibī	ēbibitum
-
 938	rrō	rrāre	rrāuī	rrātu
-	817	errō	errāre	errāuī	errātum
-	41	aberrō	aberrāre	aberrāuī	aberrātum
-	21	oberrō	oberrāre	oberrāuī	oberrātum
-	59	pererrō	pererrāre	pererrāuī	pererrātum
-
 937	rīdeō	rīdēre	rīsī	rīsu
-	602	rīdeō	rīdēre	rīsī	rīsum
-	14	subrīdeō	subrīdēre	subrīsī	subrīsum
-	33	adrīdeō	adrīdēre	adrīsī	adrīsum
-	48	arrīdeō	arrīdēre	arrīsī	arrīsum
-	133	irrīdeō	irrīdēre	irrīsī	irrīsum
-	107	dērīdeō	dērīdēre	dērīsī	dērīsum
-
 933	fīgō	fīgere	fīxī	fīxu
-	455	fīgō	fīgere	fīxī	fīxum
-	38	praefīgō	praefīgere	praefīxī	praefīxum
-	124	affīgō	affīgere	affīxī	affīxum
-	28	suffīgō	suffīgere	suffīxī	suffīxum
-	92	īnfīgō	īnfīgere	īnfīxī	īnfīxum
-	45	cōnfīgō	cōnfīgere	cōnfīxī	cōnfīxum
-	3	perfīgō	perfīgere	perfīxī	perfīxum
-	31	trānsfīgō	trānsfīgere	trānsfīxī	trānsfīxum
-	117	dēfīgō	dēfīgere	dēfīxī	dēfīxum
-
 931	certō	certāre	certāuī	certātu
-	880	certō	certāre	certāuī	certātum
-	5	concertō	concertāre	concertāuī	concertātum
-	46	dēcertō	dēcertāre	dēcertāuī	dēcertātum
-
 930	dubitō	dubitāre	dubitāuī	dubitātu
-	916	dubitō	dubitāre	dubitāuī	dubitātum
-	14	addubitō	addubitāre	addubitāuī	addubitātum
-
 928	dōnō	dōnāre	dōnāuī	dōnātu
-	907	dōnō	dōnāre	dōnāuī	dōnātum
-	21	condōnō	condōnāre	condōnāuī	condōnātum
-
 922	nouō	nouāre	nouāuī	nouātu
-	782	nouō	nouāre	nouāuī	nouātum
-	140	renouō	renouāre	renouāuī	renouātum
-
 918	damnō	damnāre	damnāuī	damnātu
-	824	damnō	damnāre	damnāuī	damnātum
-	94	condemnō	condemnāre	condemnāuī	condemnātum
-
 917	lūdō	lūdere	lūsī	lūsu
-	684	lūdō	lūdere	lūsī	lūsum
-	15	adlūdō	adlūdere	adlūsī	adlūsum
-	5	praelūdō	praelūdere	praelūsī	praelūsum
-	3	allūdō	allūdere	allūsī	allūsum
-	55	illūdō	illūdere	illūsī	illūsum
-	3	collūdō	collūdere	collūsī	collūsum
-	5	conlūdō	conlūdere	conlūsī	conlūsum
-	109	ēlūdō	ēlūdere	ēlūsī	ēlūsum
-	38	dēlūdō	dēlūdere	dēlūsī	dēlūsum
-
 917	struō	struere	struxī	structu
-	310	struō	struere	struxī	structum
-	13	astruō	astruere	astruxī	astructum
-	46	obstruō	obstruere	obstruxī	obstructum
-	8	substruō	substruere	substruxī	substructum
-	5	praestruō	praestruere	praestruxī	praestructum
-	380	īnstruō	īnstruere	īnstruxī	īnstrūctum
-	58	cōnstruō	cōnstruere	cōnstruxī	cōnstructum
-	67	exstruō	exstruere	exstruxī	exstructum
-	30	dēstruō	dēstruere	dēstruxī	dēstructum
-
 916	portō	portāre	portāuī	portātu
-	629	portō	portāre	portāuī	portātum
-	71	reportō	reportāre	reportāuī	reportātum
-	5	subportō	subportāre	subportāuī	subportātum
-	13	importō	importāre	importāuī	importātum
-	18	comportō	comportāre	comportāuī	comportātum
-	20	inportō	inportāre	inportāuī	inportātum
-	5	conportō	conportāre	conportāuī	conportātum
-	34	apportō	apportāre	apportāuī	apportātum
-	8	supportō	supportāre	supportāuī	supportātum
-	14	asportō	asportāre	asportāuī	asportātum
-	22	trānsportō	trānsportāre	trānsportāuī	trānsportātum
-	13	exportō	exportāre	exportāuī	exportātum
-	64	dēportō	dēportāre	dēportāuī	dēportātum
-
 913	numerō	numerāre	numerāuī	numerātu
-	758	numerō	numerāre	numerāuī	numerātum
-	55	adnumerō	adnumerāre	adnumerāuī	adnumerātum
-	4	pernumerō	pernumerāre	pernumerāuī	pernumerātum
-	82	ēnumerō	ēnumerāre	ēnumerāuī	ēnumerātum
-	14	dīnumerō	dīnumerāre	dīnumerāuī	dīnumerātum
-
 910	mōnstrō	mōnstrāre	mōnstrāuī	mōnstrātu
-	512	mōnstrō	mōnstrāre	mōnstrāuī	mōnstrātum
-	10	praemōnstrō	praemōnstrāre	praemōnstrāuī	praemōnstrātum
-	16	commōnstrō	commōnstrāre	commōnstrāuī	commōnstrātum
-	372	dēmōnstrō	dēmōnstrāre	dēmōnstrāuī	dēmōnstrātum
-
 909	pateō	patēre	patuī	-
-	909	pateō	patēre	patuī	-
-
 903	cieō	ciēre	cīuī	citu
-	830	cieō	ciēre	cīuī	citum
-	73	concieō	conciēre	concīuī	concitum
-
 903	lateō	latēre	latuī	-
-	903	lateō	latēre	latuī	-
-
 902	clāmō	clāmāre	clāmāuī	clāmātu
-	459	clāmō	clāmāre	clāmāuī	clāmātum
-	3	acclāmō	acclāmāre	acclāmāuī	acclāmātum
-	4	succlāmō	succlāmāre	succlāmāuī	succlāmātum
-	12	adclāmō	adclāmāre	adclāmāuī	adclāmātum
-	30	reclāmō	reclāmāre	reclāmāuī	reclāmātum
-	23	inclāmō	inclāmāre	inclāmāuī	inclāmātum
-	80	conclāmō	conclāmāre	conclāmāuī	conclāmātum
-	142	exclāmō	exclāmāre	exclāmāuī	exclāmātum
-	100	dēclāmō	dēclāmāre	dēclāmāuī	dēclāmātum
-	49	prōclāmō	prōclāmāre	prōclāmāuī	prōclāmātum
-
 893	labōrō	labōrāre	labōrāuī	labōrātu
-	803	labōrō	labōrāre	labōrāuī	labōrātum
-	90	ēlabōrō	ēlabōrāre	ēlabōrāuī	ēlabōrātum
-
 892	noceō	nocēre	nocuī	nocitu
-	892	noceō	nocēre	nocuī	nocitum
-
 890	nō	nāre	nāuī	-
-	890	nō	nāre	nāuī	-
-
 885	pendō	pendere	pendī	pēnsu
-	125	pendō	pendere	pependī	pēnsum
-	187	impendō	impendere	impendī	impēnsum
-	46	inpendō	inpendere	inpendī	inpēnsum
-	5	appendō	appendere	appendī	appēnsum
-	24	perpendō	perpendere	perpependī	perpēnsum
-	353	suspendō	suspendere	suspendī	suspēnsum
-	70	expendō	expendere	expendī	expēnsum
-	75	dēpendō	dēpendere	dēpependī	dēpēnsum
-
 880	līberō	līberāre	līberāuī	līberātu
-	740	līberō	līberāre	līberāuī	līberātum
-	140	dēlīberō	dēlīberāre	dēlīberāuī	dēlīberātum
-
 875	discō	discere	didicī	discitu
-	875	discō	discere	didicī	discitum
-
-874	prōdō	prōdere	prōdidī	prōditu
-	874	prōdō	prōdere	prōdidī	prōditum
-
 871	quiēscō	quiēscere	quiēuī	quiētu
-	665	quiēscō	quiēscere	quiēuī	quiētum
-	82	requiēscō	requiēscere	requiēuī	requiētum
-	13	acquiēscō	acquiēscere	acquiēuī	acquiētum
-	51	adquiēscō	adquiēscere	adquiēuī	adquiētum
-	60	conquiēscō	conquiēscere	conquiēuī	conquiētum
-
 866	terreō	terrēre	terruī	territu
-	448	terreō	terrēre	terruī	territum
-	45	conterreō	conterrēre	conterruī	conterritum
-	101	perterreō	perterrēre	perterruī	perterritum
-	25	absterreō	absterrēre	absterruī	absterritum
-	95	exterreō	exterrēre	exterruī	exterritum
-	144	dēterreō	dēterrēre	dēterruī	dēterritum
-	8	prōterreō	prōterrēre	prōterruī	prōterritum
-
 866	creō	creāre	creāuī	creātu
-	614	creō	creāre	creāuī	creātum
-	115	recreō	recreāre	recreāuī	recreātum
-	38	excreō	excreāre	excreāuī	excreātum
-	99	prōcreō	prōcreāre	prōcreāuī	prōcreātum
-
 866	ōrnō	ōrnāre	ōrnāuī	ōrnātu
-	698	ōrnō	ōrnāre	ōrnāuī	ōrnātum
-	19	subōrnō	subōrnāre	subōrnāuī	subornātum
-	55	adōrnō	adōrnāre	adōrnāuī	adōrnātum
-	94	exōrnō	exōrnāre	exōrnāuī	exōrnātum
-
 865	fruō	fruere	-	fructu
-	828	fruor	fruī	-	fructus sum
-	37	perfruor	perfruī	-	perfructus sum
-
 862	augeō	augēre	auxī	auctu
-	842	augeō	augēre	auxī	auctum
-	20	adaugeō	adaugēre	adauxī	adauctum
-
 862	occupō	occupāre	occupāuī	occupātu
-	843	occupō	occupāre	occupāuī	occupātum
-	19	praeoccupō	praeoccupāre	praeoccupāuī	praeoccupātum
-
 861	careō	carēre	caruī	caritu
-	861	careō	carēre	caruī	caritum
-
 850	querō	querere	-	questu
-	794	queror	querī	-	questus sum
-	56	conqueror	conquerī	-	conquestus sum
-
-849	sistō	sistere	stitī	stitu
-	284	resistō	resistere	restitī	-
-	58	absistō	absistere	abstitī	-
-	75	obsistō	obsistere	obstitī	obstitum
-	62	subsistō	subsistere	substitī	-
-	113	īnsistō	īnsistere	īnstitī	-
-	104	assistō	assistere	astitī	-
-	153	exsistō	exsistere	exstitī	-
-
+849	sistō	sistere	stitī	-
 839	poscō	poscere	poposcī	-
-	654	poscō	poscere	poposcī	-
-	75	reposcō	-	-	-
-	48	exposcō	exposcere	expoposcī	-
-	62	dēposcō	dēposcere	dēpoposcī	-
-
 835	stringō	stringere	strīnxī	strīctu
-	237	stringō	stringere	strīnxī	strīctum
-	47	astringō	astringere	astrīnxī	astrictum
-	53	obstringō	obstringere	obstrinxī	obstrictum
-	168	adstringō	adstringere	adstrīnxī	adstrictum
-	34	praestringō	praestringere	praestrinxī	praestrictum
-	22	restringō	restringere	restrīnxī	restrictum
-	50	distringō	distringere	distrinxī	districtum
-	3	īnstringō	īnstringere	īnstrīnxī	īnstrictum
-	100	cōnstringō	cōnstringere	cōnstrīnxī	cōnstrictum
-	40	perstringō	perstringere	perstrinxī	perstrictum
-	81	dēstringō	dēstringere	dēstrinxī	dēstrictum
-
 833	natō	natāre	natāuī	natātu
-	396	natō	natāre	natāuī	natātum
-	340	adnatō	adnatāre	adnatāuī	adnatātum
-	68	innatō	innatāre	innatāuī	innatātum
-	13	supernatō	supernatāre	supernatāuī	supernatātum
-	5	trānsnatō	trānsnatāre	trānsnatāuī	trānsnatātum
-	11	ēnatō	ēnatāre	ēnatāuī	ēnatātum
-
 832	suādeō	suādēre	suāsī	suāsu
-	460	suādeō	suādēre	suāsī	suāsum
-	4	cōnsuādeō	cōnsuādēre	cōnsuāsī	cōnsuāsum
-	334	persuādeō	persuādēre	persuāsī	persuāsum
-	34	dissuādeō	dissuādēre	dissuāsī	dissuāsum
-
 831	mandō	mandere	mandī	mānsu
-	831	mandō	mandere	mandī	mānsum
-
 828	canō	canere	cecinī	cantu
-	828	canō	canere	cecinī	cantum
-
 825	sonō	sonāre	sonuī	sonitu
-	764	sonō	sonāre	sonuī	sonitum
-	27	īnsonō	īnsonāre	īnsonuī	-
-	30	cōnsonō	cōnsonāre	cōnsonuī	-
-	4	exsonō	exsonāre	exsonuī	-
-
 821	iūrō	iūrāre	iūrāuī	iūrātu
-	4	dēiurō	dēiurāre	dēiurāuī	dēiurātum
-	715	iūrō	iūrāre	iūrāuī	iūrātum
-	5	abiūrō	abiūrāre	abiūrāuī	abiūrātum
-	27	adiūrō	adiūrāre	adiūrāuī	adiūrātum
-	50	coniūrō	coniūrāre	coniūrāuī	coniūrātum
-	9	periūrō	periūrāre	periūrāuī	periūrātum
-	11	ēiūrō	ēiūrāre	ēiūrāuī	ēiūrātum
-
 821	aequō	aequāre	aequāuī	aequātu
-	738	aequō	aequāre	aequāuī	aequātum
-	16	adaequō	adaequāre	adaequāuī	adaequātum
-	11	coaequō	coaequāre	coaequāuī	coaequātum
-	56	exaequō	exaequāre	exaequāuī	exaequātum
-
 816	metuō	metuere	metuī	metūtu
-	816	metuō	metuere	metuī	metūtum
-
 803	ārdeō	ārdēre	ārsī	ārsu
-	63	exardeō	exardēre	exarsī	exarsum
-	740	ārdeō	ārdēre	ārsī	ārsum
-
 796	leuō	leuāre	leuāuī	leuātu
-	678	leuō	leuāre	leuāuī	leuātum
-	24	releuō	releuāre	releuāuī	releuātum
-	25	subleuō	subleuāre	subleuāuī	subleuātum
-	40	adleuō	adleuāre	adleuāuī	adleuātum
-	3	alleuō	alleuāre	alleuāuī	alleuātum
-	26	ēleuō	ēleuāre	ēleuāuī	ēleuātum
-
 794	dīuidō	dīuidere	dīuīsī	dīuīsu
-	794	dīuidō	dīuidere	dīuīsī	dīuīsum
-
 787	lībō	lībāre	lībāuī	lībātu
-	764	lībō	lībāre	lībāuī	lībātum
-	23	dēlībō	dēlībāre	dēlībāuī	dēlībātum
-
 782	dūrō	dūrāre	dūrāuī	dūrātu
-	723	dūrō	dūrāre	dūrāuī	dūrātum
-	10	obdūrō	obdūrāre	obdūrāuī	obdūrātum
-	37	indūrō	indūrāre	indūrāuī	indūrātum
-	12	perdūrō	perdūrāre	perdūrāuī	perdūrātum
-
 780	uerrō	uerrere	uerrī	uersu
-	692	uerrō	uerrere	uerrī	uersum
-	88	ēuerrō	ēuerrere	ēuerrī	ēuersum
-
 778	sistō	sistere	stitī	statu
-	380	sistō	sistere	stitī	statum
-	17	circumsistō	circumsistere	circumstitī	circumstatum
-	311	cōnsistō	cōnsistere	cōnstitī	cōnstitum
-	70	dēsistō	dēsistere	dēstitī	dēstitum
-
 778	mulceō	mulcēre	mulsī	mulsu
-	389	mulceō	mulcēre	mulsī	mulsum
-	6	remulceō	remulcēre	remulsī	remulsum
-	383	permulceō	permulcēre	permulsī	permulsum
-
 774	serō	serere	seruī	sertu
-	28	exserō	exserere	exseruī	exsertum
-	746	dēserō	dēserere	dēseruī	dēsertum
-
 771	postulō	postulāre	postulāuī	postulātu
-	746	postulō	postulāre	postulāuī	postulātum
-	25	expostulō	expostulāre	expostulāuī	expostulātum
-
 761	fodiō	fodere	fōdī	fossu
-	374	fodiō	fodere	fōdī	fossum
-	3	subfodiō	subfodere	subfōdī	subfossum
-	3	praefodiō	praefodere	praefōdī	praefossum
-	119	effodiō	effodere	effōdī	effossum
-	14	suffodiō	suffodere	suffōdī	suffossum
-	15	circumfodiō	circumfodere	circumfōdī	circumfossum
-	22	īnfodiō	īnfodere	īnfōdī	īnfossum
-	61	cōnfodiō	cōnfodere	cōnfōdī	cōnfossum
-	60	perfodiō	perfodere	perfōdī	perfossum
-	12	trānsfodiō	trānsfodere	trānsfōdī	trānsfossum
-	78	dēfodiō	dēfodere	dēfōdī	dēfossum
-
 759	fingō	fingere	finxī	fictu
-	665	fingō	fingere	finxī	fictum
-	11	affingō	affingere	affinxī	affictum
-	51	effingō	effingere	effinxī	effictum
-	32	cōnfingō	cōnfingere	cōnfinxī	cōnfictum
-
 757	uereō	uerēre	-	ueritu
-	757	uereor	uerērī	-	ueritus sum
-
 755	memorō	memorāre	memorāuī	memorātu
-	529	memorō	memorāre	memorāuī	memorātum
-	226	commemorō	commemorāre	commemorāuī	commemorātum
-
 747	sternō	sternere	strāuī	strātu
-	433	sternō	sternere	strāuī	strātum
-	52	substernō	substernere	substrāuī	substrātum
-	20	insternō	insternere	instrāuī	instrātum
-	74	cōnsternō	cōnsternere	cōnstrāuī	cōnstrātum
-	168	prōsternō	prōsternere	prōstrāuī	prōstrātum
-
 747	praebeō	praebēre	praebuī	praebitu
-	747	praebeō	praebēre	praebuī	praebitum
-
 747	ctō	ctāre	ctāuī	ctātu
-	535	iactō	iactāre	iactāuī	iactātum
-	113	obiectō	obiectāre	obiectāuī	obiectātum
-	43	coniectō	coniectāre	coniectāuī	coniectātum
-	43	disiectō	disiectāre	disiectāuī	disiectātum
-	13	ēiectō	ēiectāre	ēiectāuī	ēiectātum
-
 746	flōreō	flōrēre	flōruī	-
-	746	flōreō	flōrēre	flōruī	-
-
 742	pendeō	pendēre	pendī	prōpēnsu
-	590	pendeō	pendēre	pependī	-
-	50	impendeō	impendēre	-	-
-	47	dēpendeō	dēpendēre	dēpendī	-
-	55	prōpendeō	prōpendēre	prōpendī	prōpēnsum
-
 739	spargō	spargere	sparsī	sparsu
-	731	spargō	spargere	sparsī	sparsum
-	8	cōnspargō	cōnspargere	cōnsparsī	cōnsparsum
-
 737	condō	condere	condidī	conditu
-	496	condō	condere	condidī	conditum
-	111	recondō	recondere	recondidī	reconditum
-	130	abscondō	abscondere	abscondī	absconditum
-
 734	circō	circāre	circāuī	circātu
-	734	circō	circāre	circāuī	circātum
-
 732	luō	luere	luī	lutu
-	75	abluō	abluere	abluī	ablūtum
-	7	subluō	subluere	subluī	sublūtum
-	198	luō	luere	luī	-
-	46	adluō	adluere	adluī	-
-	11	alluō	alluere	alluī	-
-	116	polluō	polluere	polluī	pollūtum
-	19	perluō	perluere	perluī	perlutum
-	76	ēluō	ēluere	ēluī	ēlutum
-	184	dīluō	dīluere	dīluī	dīlūtum
-
 729	uulgō	uulgāre	uulgāuī	uulgātu
-	701	uulgō	uulgāre	uulgāuī	uulgātum
-	23	peruulgō	peruulgāre	peruulgāuī	peruulgātum
-	5	dīuulgō	dīuulgāre	dīuulgāuī	dīuulgātum
-
 724	fleō	flēre	flēuī	flētu
-	703	fleō	flēre	flēuī	flētum
-	21	dēfleō	dēflēre	dēflēuī	dēflētum
-
 721	lēuō	lēuāre	lēuāuī	lēuātu
-	678	lēuō	lēuāre	lēuāuī	lēuātum
-	40	adlēuō	adlēuāre	adlēuāuī	adlēuātum
-	3	allēuō	allēuāre	allēuāuī	allēuātum
-
 718	mūniō	mūnīre	mūnīuī	mūnītu
-	270	mūniō	mūnīre	mūnīuī	mūnītum
-	8	praemūniō	praemūnīre	praemūnīuī	praemūnītum
-	423	commūniō	commūnīre	commūnīuī	commūnītum
-	7	circummūniō	circummūnire	circummūnīuī	circummūnītum
-	10	ēmūniō	ēmūnīre	ēmūnīuī	ēmūnītum
-
 716	oleō	olēre	oluī	-
-	703	oleō	olēre	oluī	-
-	6	oboleō	obolēre	oboluī	-
-	7	suboleō	subolēre	suboluī	-
-
 712	lūceō	lūcēre	luxī	-
-	501	lūceō	lūcēre	luxī	-
-	33	relūceō	relūcēre	reluxī	-
-	4	sublūceō	sublūcēre	subluxī	-
-	11	praelūceō	praelūcēre	praeluxī	-
-	31	collūceō	collūcēre	colluxī	-
-	21	inlūceō	inlūcēre	inluxī	-
-	34	perlūceō	perlūcēre	perluxī	-
-	5	interlūceō	interlūcēre	interluxī	-
-	36	trānslūceō	trānslūcēre	trānsluxī	-
-	33	ēlūceō	ēlūcēre	ēluxī	-
-	3	dīlūceō	dīlūcēre	dīluxī	-
-
 705	tractō	tractāre	tractāuī	tractātu
-	31	obtrectō	obtrectāre	obtrectāuī	obtrectātum
-	20	contrectō	contrectāre	contrectāuī	contrectātum
-	9	attrectō	attrectāre	attrectāuī	attrectātum
-	555	tractō	tractāre	tractāuī	tractātum
-	48	retractō	retractāre	retractāuī	retractātum
-	27	pertractō	pertractāre	pertractāuī	pertractātum
-	15	dētractō	dētractāre	dētractāuī	dētractātum
-
 704	serpō	serpere	serpsī	serptu
-	704	serpō	serpere	serpsī	serptum
-
 700	mentiō	mentīre	-	mentītu
-	674	mentior	mentīrī	-	mentītus sum
-	26	ēmentior	ēmentīrī	-	ēmentītus sum
-
 700	crēscō	crēscere	crēuī	crētu
-	504	crēscō	crēscere	crēuī	crētum
-	8	accrēscō	accrēscere	accrēuī	accrētum
-	11	adcrēscō	adcrēscere	adcrēuī	adcrētum
-	79	incrēscō	incrēscere	incrēuī	incrētum
-	32	concrēscō	concrēscere	concrēuī	concrētum
-	66	dēcrēscō	dēcrēscere	dēcrēuī	dēcrētum
-
 697	seruiō	seruīre	seruīuī	seruītu
-	639	seruiō	seruīre	seruīuī	seruītum
-	48	īnseruiō	īnseruīre	īnseruīuī	īnseruitum
-	10	dēseruiō	dēseruīre	dēseruiuī	dēseruitum
-
 695	morō	morāre	-	morātu
-	633	moror	morārī	-	morātus sum
-	32	remoror	remorārī	-	remorātus sum
-	6	immoror	immorārī	-	immorātus sum
-	24	dēmoror	dēmorārī	-	dēmorātus sum
-
 693	domō	domāre	domuī	domitu
-	649	domō	domāre	domuī	domitum
-	44	perdomō	perdomāre	perdomuī	perdomitum
-
 687	narrō	narrāre	narrāuī	narrātu
-	660	narrō	narrāre	narrāuī	narrātum
-	27	ēnārrō	ēnārrāre	ēnārrāuī	ēnārrātum
-
 678	lectō	lectāre	lectāuī	lectātu
-	57	oblectō	oblectāre	oblectāuī	oblectātum
-	3	adlectō	adlectāre	adlectāuī	adlectātum
-	610	dēlectō	dēlectāre	dēlectāuī	dēlectātum
-	8	prōlectō	prōlectāre	prōlectāuī	prōlectātum
-
 671	hauriō	haurīre	hausī	haustu
-	454	hauriō	haurīre	hausī	haustum
-	217	exhauriō	exhaurīre	exhausī	exhaustum
-
 671	rēgnō	rēgnāre	rēgnāuī	rēgnātu
-	671	rēgnō	rēgnāre	rēgnāuī	rēgnātum
-
 670	flectō	flectere	flexī	flexu
-	504	flectō	flectere	flexī	flexum
-	41	reflectō	reflectere	reflexī	reflexum
-	6	circumflectō	circumflectere	circumflexī	circumflexum
-	67	īnflectō	īnflectere	īnflēxī	īnflexus
-	52	dēflectō	dēflectere	dēflexī	dēflexum
-
 667	plācō	plācāre	plācāuī	plācātu
-	667	plācō	plācāre	plācāuī	plācātum
-
 665	pāscō	pāscere	pāuī	pāstu
-	623	pāscō	pāscere	pāuī	pāstum
-	42	dēpāscō	dēpāscere	dēpāuī	dēpāstum
-
 663	doleō	dolēre	doluī	dolitu
-	660	doleō	dolēre	doluī	dolitum
-	3	perdoleō	perdolēre	perdoluī	perdolitum
-
 661	contemnō	contemnere	contempsī	contemptu
-	661	contemnō	contemnere	contempsī	contemptum
-
 660	pingō	pingere	pinxī	pictu
-	620	pingō	pingere	pinxī	pictum
-	40	dēpingō	dēpingere	dēpinxī	dēpictum
-
 654	comitō	comitāre	comitāuī	comitātu
-	654	comitō	comitāre	comitāuī	comitātum
-
 650	fīniō	fīnīre	fīnīuī	fīnītu
-	640	fīniō	fīnīre	fīnīuī	fīnītum
-	10	dēfīniō	dēfīnīre	dēfīnīuī	dēfīnītum
-
 647	fortūnō	fortūnāre	fortūnāuī	fortūnātu
-	647	fortūnō	fortūnāre	fortūnāuī	fortūnātum
-
 647	mīlitō	mīlitāre	mīlitāuī	mīlitātu
-	647	mīlitō	mīlitāre	mīlitāuī	mīlitātum
-
 645	undō	undāre	undāuī	undātu
-	393	undō	undāre	undāuī	undātum
-	252	abundō	abundāre	abundāuī	abundātum
-
 641	minuō	minuere	minuī	minūtu
-	500	minuō	minuere	minuī	minūtum
-	31	imminuō	imminuere	imminuī	imminūtum
-	41	comminuō	comminuere	comminuī	comminūtum
-	18	inminuō	inminuere	inminuī	inminūtum
-	48	dēminuō	dēminuere	dēminuī	dēminūtum
-	3	dīminuō	dīminuere	dīminuī	dīminūtum
-
 636	nūbō	nūbere	nūpsī	nūptu
-	636	nūbō	nūbere	nūpsī	nūptum
-
 633	aurō	aurāre	aurāuī	aurātu
-	592	aurō	aurāre	aurāuī	aurātum
-	41	inaurō	inaurāre	inaurāuī	inaurātum
-
 632	superō	superāre	superāuī	superātu
-	598	superō	superāre	superāuī	superātum
-	34	exsuperō	exsuperāre	exsuperāuī	exsuperātum
-
 626	feriō	ferīre	ferīuī	ferītu
-	626	feriō	ferīre	ferīuī	ferītum
-
 624	mergō	mergere	mersī	mersu
-	386	mergō	mergere	mersī	mersum
-	16	submergō	submergere	submersī	submersum
-	27	immergō	immergere	immersī	immersum
-	3	summergō	summergere	summersī	summersum
-	116	ēmergō	ēmergere	ēmersī	ēmersum
-	76	dēmergō	dēmergere	dēmersī	dēmersum
-
 623	flō	flāre	flāuī	flātu
-	274	flō	flāre	flāuī	flātum
-	112	afflō	afflāre	afflāuī	afflātum
-	39	efflō	efflāre	efflāuī	efflātum
-	8	sufflō	sufflāre	sufflāuī	sufflātum
-	113	īnflō	īnflāre	īnflāuī	īnflātum
-	46	cōnflō	cōnflāre	cōnflāuī	cōnflātum
-	31	perflō	perflāre	perflāuī	perflātum
-
 622	prīuō	prīuāre	prīuāuī	prīuātu
-	622	prīuō	prīuāre	prīuāuī	prīuātum
-
 621	secō	secāre	secuī	sectu
-	433	secō	secāre	secuī	sectum
-	57	resecō	resecāre	resecuī	resectum
-	24	īnsecō	īnsecāre	īnsecuī	īnsectum
-	13	cōnsecō	cōnsecāre	cōnsecuī	cōnsectum
-	20	dissecō	dissecāre	dissecuī	dissectum
-	25	exsecō	exsecāre	exsecuī	exsectum
-	38	dēsecō	dēsecāre	dēsecuī	dēsectum
-	11	prōsecō	prōsecāre	prōsecuī	prōsectum
-
 621	dignō	dignāre	dignāuī	dignātu
-	393	dignō	dignāre	dignāuī	dignātum
-	228	indignor	indignārī	-	indignātus sum
-
 618	claudō	claudere	clausī	clausu
-	618	claudō	claudere	clausī	clausum
-
 618	peccō	peccāre	peccāuī	peccātu
-	618	peccō	peccāre	peccāuī	peccātum
-
 614	gemō	gemere	gemuī	gemitu
-	521	gemō	gemere	gemuī	gemitum
-	85	ingemō	ingemere	ingemuī	ingemitum
-	8	congemō	congemere	congemuī	congemitum
-
 611	parcō	parcere	pepercī	parsu
-	611	parcō	parcere	pepercī	parsum
-
 608	cubō	cubāre	cubuī	cubitu
-	298	cubō	cubāre	cubuī	cubitum
-	55	accubō	accubāre	-	-
-	8	occubō	occubāre	occubuī	occubitum
-	179	incubō	incubāre	incubuī	incubitum
-	60	excubō	excubāre	excubuī	excubitum
-	8	sēcubō	sēcubāre	sēcubuī	sēcubitum
-
 601	niteō	nitēre	nituī	-
-	269	niteō	nitēre	nituī	-
-	9	reniteō	renitēre	renituī	-
-	265	paeniteō	paenitēre	paenituī	-
-	9	praeniteō	praenitēre	praenituī	-
-	8	interniteō	internitēre	internituī	-
-	41	ēniteō	ēnitēre	-	-
-
 598	simulō	simulāre	simulāuī	simulātu
-	282	simulō	simulāre	simulāuī	simulātum
-	48	adsimulō	adsimulāre	adsimulāuī	adsimulātum
-	48	īnsimulō	īnsimulāre	īnsimulāuī	īnsimulātum
-	6	assimulō	assimulāre	assimulāuī	assimulātum
-	214	dissimulō	dissimulāre	dissimulāuī	dissimulātum
-
 594	temperō	temperāre	temperāuī	temperātu
-	538	temperō	temperāre	temperāuī	temperātum
-	56	obtemperō	obtemperāre	obtemperāuī	obtemperātum
-
 593	sserō	sserere	sseruī	ssertu
-	99	asserō	asserere	asseruī	assertum
-	479	disserō	disserere	disseruī	dissertum
-	15	ēdisserō	ēdisserere	ēdisseruī	ēdissertum
-
 592	rēpō	rēpere	rēpsī	rēptu
-	388	rēpō	rēpere	rēpsī	rēptum
-	34	obrēpō	obrēpere	obrēpsī	obrēptum
-	24	subrēpō	subrēpere	subrēpsī	subrēptum
-	27	inrēpō	inrēpere	inrēpsī	inrēptum
-	87	arrēpō	arrēpere	arrēpsī	arrēptum
-	8	irrēpō	irrēpere	irrēpsī	irrēptum
-	5	corrēpō	corrēpere	corrēpsī	corrēptum
-	5	surrēpō	surrēpere	surrēpsī	surrēptum
-	14	ērēpō	ērēpere	ērēpsī	ērēptum
-
 590	arceō	arcēre	arcuī	arcitu
-	590	arceō	arcēre	arcuī	arcitum
-
 586	pēdō	pēdere	pepēdī	pēditu
-	586	pēdō	pēdere	pepēdī	pēditum
-
 586	pedō	pedāre	pedāuī	pedātu
-	586	pedō	pedāre	pedāuī	pedātum
-
 582	molliō	mollīre	mollīuī	mollītu
-	509	molliō	mollīre	mollīuī	mollītum
-	73	ēmolliō	ēmollīre	ēmollīuī	ēmollītum
-
 580	umbrō	umbrāre	umbrāuī	umbrātu
-	533	umbrō	umbrāre	umbrāuī	umbrātum
-	26	obumbrō	obumbrāre	obumbrāuī	obumbrātum
-	21	adumbrō	adumbrāre	adumbrāuī	adumbrātum
-
 575	laedō	laedere	laesī	laesu
-	575	laedō	laedere	laesī	laesum
-
 574	ferō	ferāre	ferāuī	ferātu
-	5	uōciferor	uōciferārī	-	uōciferātus sum
-	569	efferō	efferāre	efferāuī	efferātum
-
 574	properō	properāre	properāuī	properātu
-	558	properō	properāre	properāuī	properātum
-	16	approperō	approperāre	approperāuī	approperātum
-
 574	plōrō	plōrāre	plōrāuī	plōrātu
-	101	plōrō	plōrāre	plōrāuī	plōrātum
-	67	implōrō	implōrāre	implōrāuī	implōrātum
-	10	complōrō	complōrāre	complōrāuī	complōrātum
-	25	inplōrō	inplōrāre	inplōrāuī	inplōrātum
-	301	explōrō	explōrāre	explōrāuī	explōrātum
-	70	dēplōrō	dēplōrāre	dēplōrāuī	dēplōrātum
-
 572	uinciō	uincīre	uinxī	uinctu
-	453	uinciō	uincīre	uinxī	uinctum
-	26	reuinciō	reuincīre	reuinxī	reuinctum
-	21	ēuinciō	ēuincīre	ēuinxī	ēuinctum
-	72	dēuinciō	dēuincīre	dēuinxī	dēuinctum
-
 570	aceō	acēre	acuī	-
-	570	aceō	acēre	acuī	-
-
 569	fōrmō	fōrmāre	fōrmāuī	fōrmātu
-	403	fōrmō	fōrmāre	fōrmāuī	fōrmātum
-	20	refōrmō	refōrmāre	refōrmāuī	refōrmātum
-	39	īnfōrmō	īnfōrmāre	īnfōrmāuī	īnfōrmātum
-	33	cōnfōrmō	cōnfōrmāre	cōnfōrmāuī	cōnfōrmātum
-	7	trānsfōrmō	trānsfōrmāre	trānsfōrmāuī	trānsfōrmātum
-	67	dēfōrmō	dēfōrmāre	dēfōrmāuī	dēfōrmātum
-
 565	sanciō	sancīre	sānxī	sānctu
-	565	sanciō	sancīre	sānxī	sānctum
-
 562	cunctō	cunctāre	cunctāuī	cunctātu
-	562	cunctō	cunctāre	cunctāuī	cunctātum
-
 559	aptō	aptāre	aptāuī	aptātu
-	309	aptō	aptāre	aptāuī	aptātum
-	163	captō	captāre	captāuī	captātum
-	6	acceptō	acceptāre	acceptāuī	acceptātum
-	9	inceptō	inceptāre	inceptāuī	inceptātum
-	65	disceptō	disceptāre	disceptāuī	disceptātum
-	7	exceptō	exceptāre	exceptāuī	exceptātum
-
 554	siccō	siccāre	siccāuī	siccātu
-	538	siccō	siccāre	siccāuī	siccātum
-	4	adsiccō	adsiccāre	adsiccāuī	adsiccātum
-	12	exsiccō	exsiccāre	exsiccāuī	exsiccātum
-
 554	lībrō	lībrāre	lībrāuī	lībrātu
-	554	lībrō	lībrāre	lībrāuī	lībrātum
-
 552	horreō	horrēre	horruī	horruitu
-	408	horreō	horrēre	horruī	horruitum
-	114	abhorreō	abhorrēre	abhorruī	-
-	23	inhorreō	inhorrēre	inhorruī	-
-	7	perhorreō	perhorrēre	perhorruī	-
-
 550	salūtō	salūtāre	salūtāuī	salūtātu
-	524	salūtō	salūtāre	salūtāuī	salūtātum
-	8	resalūtō	resalūtāre	resalūtāuī	resalūtātum
-	13	cōnsalūtō	cōnsalūtāre	cōnsalūtāuī	cōnsalūtātum
-	5	persalūtō	persalūtāre	persalūtāuī	persalūtātum
-
 544	sānō	sānāre	sānāuī	sānātu
-	544	sānō	sānāre	sānāuī	sānātum
-
 543	īgnōrō	īgnōrāre	īgnōrāuī	īgnōrātu
-	543	īgnōrō	īgnōrāre	īgnōrāuī	īgnōrātum
-
 537	pudeō	pudēre	puduī	puditu
-	537	pudeō	pudēre	puduī	puditum
-
-534	dēdō	dēdere	dēdidī	dēditu
-	534	dēdō	dēdere	dēdidī	dēditum
-
 532	īrāscō	īrāscere	-	īrātu
-	532	īrāscor	īrāscī	-	īrātus sum
-
 531	stinguō	stinguere	stīnxī	stīnctu
-	86	restinguō	restinguere	restīnxī	restīnctum
-	326	distinguō	distinguere	distīnxī	distīnctum
-	5	interstinguō	interstinguere	interstīnxī	interstīnctum
-	114	exstinguō	exstinguere	exstīnxī	exstīnctum
-
 524	agitō	agitāre	agitāuī	agitātu
-	465	agitō	agitāre	agitāuī	agitātum
-	59	exagitō	exagitāre	exagitāuī	exagitātum
-
 523	laetō	laetāre	laetāuī	laetātu
-	523	laetō	laetāre	laetāuī	laetātum
-
 521	tonō	tonāre	tonuī	tonitu
-	230	tonō	tonāre	tonuī	tonitum
-	20	adtonō	adtonāre	adtonuī	adtonitum
-	262	attonō	attonāre	attonuī	attonitum
-	9	dētonō	dētonāre	dētonuī	dētonitum
-
 512	uireō	uirēre	uiruī	-
-	512	uireō	uirēre	uiruī	-
-
 512	cōnō	cōnāre	-	cōnātu
-	512	cōnor	cōnārī	-	cōnātus sum
-
 507	lūgeō	lūgēre	lūxī	lūctu
-	507	lūgeō	lūgēre	lūxī	lūctum
-
 506	furō	furere	furuī	-
-	506	furō	furere	furuī	-
-
 505	iugō	iugāre	iugāuī	iugātu
-	501	iugō	iugāre	iugāuī	iugātum
-	4	coniugō	coniugāre	coniugāuī	coniugātum
-
 505	arō	arāre	arāuī	arātu
-	474	arō	arāre	arāuī	arātum
-	4	perarō	perarāre	perarāuī	perarātum
-	27	exarō	exarāre	exarāuī	exarātum
-
 503	uulnerō	uulnerāre	uulnerāuī	uulnerātu
-	503	uulnerō	uulnerāre	uulnerāuī	uulnerātum
-
 503	quitō	quitāre	quitāuī	quitātu
-	8	adequitō	adequitāre	adequitāuī	adequitātum
-	3	perequitō	perequitāre	perequitāuī	perequitātum
-	492	equitō	equitāre	equitāuī	equitātum
-
 501	condiō	condīre	condīuī	condītu
-	501	condiō	condīre	condīuī	condītum
-
 500	medeō	medēre	-	-
-	500	medeor	medērī	-	-
-
 497	stō	stāre	stitī	-
-	3	abstō	abstāre	abstitī	-
-	6	antestō	antestāre	antestitī	-
-	328	distō	distāre	distitī	-
-	160	exstō	exstāre	-	-
-
 490	fūrō	fūrāre	-	fūrātu
-	490	fūror	fūrārī	-	fūrātus sum
-
 488	suēscō	suēscere	suēuī	suētu
-	53	suēscō	suēscere	suēuī	suētum
-	25	mānsuēscō	mānsuēscere	mānsuēuī	mānsuētum
-	8	īnsuēscō	īnsuēscere	īnsuēuī	īnsuētum
-	152	cōnsuēscō	cōnsuēscere	cōnsuēuī	cōnsuētum
-	250	assuēscō	assuēscere	assuēuī	assuētum
-
 485	operō	operāre	operāuī	operātu
-	485	operō	operāre	operāuī	operātum
-
 484	urgeō	urgēre	ursī	-
-	467	urgeō	urgēre	ursī	-
-	17	exurgeō	exurgēre	-	-
-
 481	ēducō	ēducāre	ēducāuī	ēducātu
-	481	ēducō	ēducāre	ēducāuī	ēducātum
-
 479	disserō	disserere	dissēuī	dissitu
-	479	disserō	disserere	dissēuī	dissitum
-
 478	notō	notāre	notāuī	notātu
-	404	notō	notāre	notāuī	notātum
-	56	adnotō	adnotāre	adnotāuī	adnotātum
-	4	praenotō	praenotāre	praenotāuī	praenotātum
-	14	dēnotō	dēnotāre	dēnotāuī	dēnotātum
-
 476	pūblicō	pūblicāre	pūblicāuī	pūblicātu
-	476	pūblicō	pūblicāre	pūblicāuī	pūblicātum
-
 472	frūstrō	frūstrāre	frūstrāuī	frūstrātu
-	472	frūstrō	frūstrāre	frūstrāuī	frūstrātum
-
-471	mineō	minēre	minuī	minitu
-	157	immineō	imminēre	imminuī	imminitum
-	7	superēmineō	superēminēre	superēminuī	-
-	60	prōmineō	prōminēre	prōminuī	-
-	247	ēmineō	ēminēre	ēminuī	-
-
+471	mineō	minēre	minuī	-
 470	acuō	acuere	acuī	acūtu
-	439	acuō	acuere	acuī	acūtum
-	31	exacuō	exacuere	exacuī	exacūtum
-
 469	miserō	miserāre	miserāuī	miserātu
-	450	miserō	miserāre	miserāuī	miserātum
-	19	miseror	miserārī	-	miserātus sum
-
 469	lātrō	lātrāre	lātrāuī	lātrātu
-	463	lātrō	lātrāre	lātrāuī	lātrātum
-	6	adlātrō	adlātrāre	adlātrāuī	adlātrātum
-
 466	opīnō	opīnāre	-	opīnātu
-	466	opīnor	opīnārī	-	opīnātus sum
-
 464	uacō	uacāre	uacāuī	uacātu
-	464	uacō	uacāre	uacāuī	uacātum
-
 463	excellō	excellere	excelluī	excelsu
-	463	excellō	excellere	excelluī	excelsum
-
 459	neglegō	neglegere	neglēxī	neglēctu
-	459	neglegō	neglegere	neglēxī	neglēctum
-
 458	carpō	carpere	carpsī	carptu
-	288	carpō	carpere	carpsī	carptum
-	6	praecerpō	praecerpere	praecerpsī	praecerptum
-	12	concerpō	concerpere	concerpsī	concerptum
-	34	discerpō	discerpere	discerpsī	discerptum
-	38	excerpō	excerpere	excerpsī	excerptum
-	80	dēcerpō	dēcerpere	dēcerpsī	dēcerptum
-
 458	forō	forāre	forāuī	forātu
-	409	forō	forāre	forāuī	forātum
-	49	perforō	perforāre	perforāuī	perforātum
-
 452	sileō	silēre	siluī	-
-	452	sileō	silēre	siluī	-
-
 449	spīrō	spīrāre	spīrāuī	spīrātu
-	224	spīrō	spīrāre	spīrāuī	spīrātum
-	17	aspīrō	aspīrāre	aspīrāuī	aspīrātum
-	27	adspīrō	adspīrāre	adspīrāuī	adspīrātum
-	49	respīrō	respīrāre	respīrāuī	respīrātum
-	33	īnspīrō	īnspīrāre	īnspīrāuī	īnspīrātum
-	18	cōnspīrō	cōnspīrāre	cōnspīrāuī	cōnspīrātum
-	40	suspīrō	suspīrāre	suspīrāuī	suspīrātum
-	41	exspīrō	exspīrāre	exspīrāuī	exspīrātum
-
 444	artō	artāre	artāuī	artātu
-	420	artō	artāre	artāuī	artātum
-	24	coartō	coartāre	coartāuī	coartātum
-
 437	castrō	castrāre	castrāuī	castrātu
-	437	castrō	castrāre	castrāuī	castrātum
-
 433	commodō	commodāre	commodāuī	commodātu
-	225	commodō	commodāre	commodāuī	commodātum
-	174	accommodō	accommodāre	accommodāuī	accommodātum
-	27	adcommodō	adcommodāre	adcommodāuī	adcommodātum
-	7	incommodō	incommodāre	incommodāuī	incommodātum
-
 432	pūrgō	pūrgāre	pūrgāuī	pūrgātu
-	432	pūrgō	pūrgāre	pūrgāuī	pūrgātum
-
 431	brō	brāre	brāuī	brātu
-	14	concelēbrō	concelēbrāre	concelēbrāuī	concelēbrātum
-	417	celebrō	celebrāre	celebrāuī	celebrātum
-
 427	uēndō	uēndere	uēndidī	uēnditu
-	422	uēndō	uēndere	uēndidī	uēnditum
-	5	dīuēndō	dīuēndere	dīuēndidī	dīuēnditum
-
 427	imitō	imitāre	imitāuī	imitātu
-	427	imitō	imitāre	imitāuī	imitātum
-
 424	mordeō	mordēre	mordī	morsu
-	413	mordeō	mordēre	momordī	morsum
-	6	remordeō	remordēre	remordī	remorsum
-	5	admordeō	admordēre	admomordī	admorsum
-
-424	restō	restāre	restitī	restātu
-	424	restō	restāre	restitī	restātum
-
 423	pōtō	pōtāre	pōtāuī	pōtu
-	403	pōtō	pōtāre	pōtāuī	pōtum
-	7	perpōtō	perpōtāre	perpōtāuī	perpōtum
-	13	ēpōtō	ēpōtāre	ēpōtāuī	ēpōtum
-
 420	nūdō	nūdāre	nūdāuī	nūdātu
-	409	nūdō	nūdāre	nūdāuī	nūdātum
-	11	dēnūdō	dēnūdāre	dēnūdāuī	dēnūdātum
-
 420	fugō	fugāre	fugāuī	fugātu
-	420	fugō	fugāre	fugāuī	fugātum
-
 418	spatiō	spatiāre	-	spatiātu
-	418	spatior	spatiārī	-	spatiātus sum
-
 417	cumbō	cumbere	cubuī	cubitu
-	62	accumbō	accumbere	accubuī	accubitum
-	71	succumbō	succumbere	succubuī	succubitum
-	8	concumbō	concumbere	concubuī	concubitum
-	37	discumbō	discumbere	discubuī	discubitum
-	149	prōcumbō	prōcumbere	prōcubuī	prōcubitum
-	65	recumbō	recumbere	recubuī	-
-	25	dēcumbō	dēcumbere	dēcubuī	-
-
 415	saliō	salīre	saluī	salītu
-	415	saliō	salīre	saluī	salītum
-
 415	saliō	salīre	saluī	saltu
-	415	saliō	salīre	saluī	saltum
-
 415	cērō	cērāre	cērāuī	cērātu
-	415	cērō	cērāre	cērāuī	cērātum
-
 414	ōrdinō	ōrdināre	ōrdināuī	ōrdinātu
-	414	ōrdinō	ōrdināre	ōrdināuī	ōrdinātum
-
 414	honōrō	honōrāre	honōrāuī	honōrātu
-	396	honōrō	honōrāre	honōrāuī	honōrātum
-	18	inhonōrō	inhonōrāre	inhonōrāuī	inhonōrātum
-
 412	uariō	uariāre	uariāuī	uariātu
-	412	uariō	uariāre	uariāuī	uariātum
-
 410	sīdō	sīdere	sēdī	ssu
-	31	resīdō	resīdere	resēdī	resēssum
-	87	subsīdō	subsīdere	subsēdī	subsessum
-	25	īnsīdō	īnsīdere	īnsēdī	īnsessus
-	267	cōnsīdō	cōnsīdere	cōnsēdī	cōnsēssum
-
 410	uindicō	uindicāre	uindicāuī	uindicātu
-	410	uindicō	uindicāre	uindicāuī	uindicātum
-
 410	continuō	continuāre	continuāuī	continuātu
-	410	continuō	continuāre	continuāuī	continuātum
-
 405	dolō	dolāre	dolāuī	dolātu
-	399	dolō	dolāre	dolāuī	dolātum
-	6	dēdolō	dēdolāre	dēdolāuī	dēdolātum
-
 405	epitō	epitāre	epitāuī	epitātu
-	317	praecipitō	praecipitāre	praecipitāuī	praecipitātum
-	43	crepitō	crepitāre	crepitāuī	crepitātum
-	45	increpitō	increpitāre	increpitāuī	increpitātum
-
 401	pāciscō	pāciscere	-	pāctu
-	26	compaciscor	compaciscī	-	compactus
-	4	dēpeciscor	dēpeciscī	-	dēpectus
-	371	pāciscor	pāciscī	-	pāctus sum
-
 400	fatīscō	-	-	-
-	400	fatīscō	-	-	-
-
 400	tergeō	tergēre	tersī	tersu
-	312	tergeō	tergēre	tersī	tersum
-	5	pertergeō	pertergēre	pertersī	pertersum
-	29	abstergeō	abstergēre	abstersī	abstersum
-	54	dētergeō	dētergēre	dētersī	dētersum
-
 399	pergō	pergere	perrexī	perrectu
-	399	pergō	pergere	perrexī	perrectum
-
 396	foueō	fouēre	fōuī	fōtu
-	365	foueō	fouēre	fōuī	fōtum
-	31	refoueō	refouēre	refōuī	refōtum
-
 394	oblīuiscō	oblīuiscere	-	oblītu
-	394	oblīuiscor	oblīuiscī	-	oblītus sum
-
 394	caelō	caelāre	caelāuī	caelātu
-	394	caelō	caelāre	caelāuī	caelātum
-
 394	cessō	cessāre	cessāuī	cessātu
-	394	cessō	cessāre	cessāuī	cessātum
-
 391	poliō	poliāre	poliāuī	poliātu
-	325	spoliō	spoliāre	spoliāuī	spoliātum
-	3	exspoliō	exspoliāre	exspoliāuī	exspoliātum
-	23	dēspoliō	dēspoliāre	dēspoliāuī	dēspoliātum
-	40	expoliō	expoliāre	expoliāuī	expoliātum
-
 391	festō	festāre	festāuī	festātu
-	112	manifestō	manifestāre	manifestāuī	manifestātum
-	279	īnfestō	īnfestāre	īnfestāuī	īnfestātum
-
 389	lauō	lauāre	lāuī	lauātu
-	389	lauō	lauāre	lāuī	lauātum
-
 388	flammō	flammāre	flammāuī	flammātu
-	297	flammō	flammāre	flammāuī	flammātum
-	91	īnflammō	īnflammāre	īnflammāuī	īnflammātum
-
 384	lēniō	lēnīre	lēnīuī	lēnītu
-	358	lēniō	lēnīre	lēnīuī	lēnītum
-	26	dēlēniō	dēlēnīre	dēlēnīuī	dēlēnītum
-
 384	uadō	uadāre	uadāuī	uadātu
-	384	uadō	uadāre	uadāuī	uadātum
-
 384	uādō	uādere	uāsī	-
-	384	uādō	uādere	uāsī	-
-
 384	cēnō	cēnāre	cēnāuī	cēnātu
-	384	cēnō	cēnāre	cēnāuī	cēnātum
-
 381	habitō	habitāre	habitāuī	habitātu
-	365	habitō	habitāre	habitāuī	habitātum
-	16	inhabitō	inhabitāre	inhabitāuī	inhabitātum
-
 380	minō	mināre	mināuī	minātu
-	380	minō	mināre	mināuī	minātum
-
 379	aliēnō	aliēnāre	aliēnāuī	aliēnātu
-	355	aliēnō	aliēnāre	aliēnāuī	aliēnātum
-	24	abaliēnō	abaliēnāre	abaliēnāuī	abaliēnātum
-
 377	orbō	orbāre	orbāuī	orbātu
-	377	orbō	orbāre	orbāuī	orbātum
-
 377	ltō	ltāre	ltāuī	ltātu
-	4	exaltō	exaltāre	exaltāuī	exaltātum
-	273	occultō	occultāre	occultāuī	occultātum
-	100	auscultō	auscultāre	auscultāuī	auscultātum
-
 375	fungō	fungere	-	fūnctu
-	198	fungor	fungī	-	fūnctus sum
-	25	perfungor	perfungī	-	perfūnctus sum
-	152	dēfungor	dēfungī	-	dēfūnctus sum
-
 371	tremō	tremere	tremuī	tremitu
-	371	tremō	tremere	tremuī	tremitum
-
 369	cūstōdiō	cūstōdīre	cūstōdīuī	cūstōdītu
-	369	cūstōdiō	cūstōdīre	cūstōdīuī	cūstōdītum
-
 369	fulgeō	fulgēre	fulsī	-
-	262	fulgeō	fulgēre	fulsī	-
-	55	refulgeō	refulgēre	refulsī	-
-	14	praefulgeō	praefulgēre	praefulsī	-
-	14	affulgeō	affulgēre	affulsī	-
-	24	effulgeō	effulgēre	effulsī	-
-
 369	precō	precāre	-	precātu
-	212	precor	precārī	-	precātus sum
-	7	imprecor	imprecārī	-	imprecātus sum
-	150	dēprecor	dēprecārī	-	dēprecātus sum
-
 368	clīnō	clīnāre	clīnāuī	clīnātu
-	3	acclīnō	acclīnāre	acclīnāuī	acclīnātum
-	15	reclīnō	reclīnāre	reclīnāuī	reclīnātum
-	218	inclīnō	inclīnāre	inclīnāuī	inclīnātum
-	116	dēclīnō	dēclīnāre	dēclīnāuī	dēclīnātum
-	16	prōclīnō	prōclīnāre	prōclīnāuī	prōclīnātum
-
 367	glōriō	glōriāre	-	glōriātu
-	367	glōrior	glōriārī	-	glōriātus sum
-
 364	lustrō	lustrāre	lustrāuī	lustrātu
-	275	lustrō	lustrāre	lustrāuī	lustrātum
-	14	illūstrō	illūstrāre	illūstrāuī	illūstrātum
-	75	inlūstrō	inlūstrāre	inlūstrāuī	inlūstrātum
-
 361	mōliō	mōlīre	mōlīuī	mōlītu
-	295	mōliō	mōlīre	-	-
-	15	mōlior	mōlīrī	-	mōlītus sum
-	27	āmōlior	āmōlīrī	-	āmōlītus sum
-	5	ēmōlior	ēmōlīrī	-	ēmōlītus sum
-	19	dēmōliō	dēmōlīre	dēmōlīuī	dēmōlītum
-
 359	formīdō	formīdāre	formīdāuī	formīdātu
-	303	formīdō	formīdāre	formīdāuī	formīdātum
-	56	reformīdō	reformīdāre	reformīdāuī	reformīdātum
-
 359	ministrō	ministrāre	ministrāuī	ministrātu
-	155	ministrō	ministrāre	ministrāuī	ministrātum
-	38	subministrō	subministrāre	subministrāuī	subministrātum
-	162	administrō	administrāre	administrāuī	administrātum
-	4	sumministrō	sumministrāre	sumministrāuī	sumministrātum
-
 358	trepidō	trepidāre	trepidāuī	trepidātu
-	358	trepidō	trepidāre	trepidāuī	trepidātum
-
-357	obstō	obstāre	obstitī	obstātu
-	357	obstō	obstāre	obstitī	obstātum
-
 355	uoueō	uouēre	uōuī	uōtu
-	334	uoueō	uouēre	uōuī	uōtum
-	21	dēuoueō	dēuouēre	dēuōuī	dēuōtum
-
 353	sēdō	sēdāre	sēdāuī	sēdātu
-	353	sēdō	sēdāre	sēdāuī	sēdātum
-
 352	lacrimō	lacrimāre	lacrimāuī	lacrimātu
-	329	lacrimō	lacrimāre	lacrimāuī	lacrimātum
-	23	inlacrimō	inlacrimāre	inlacrimāuī	inlacrimātum
-
 350	arguō	arguere	arguī	argūtu
-	275	arguō	arguere	arguī	argūtum
-	17	redarguō	redarguere	redarguī	redargūtum
-	58	coarguō	coarguere	coarguī	coargūtum
-
 350	torreō	torrēre	torruī	tostu
-	350	torreō	torrēre	torruī	tostum
-
 348	serō	serere	sēuī	situ
-	63	obserō	obserere	obsēuī	obsitum
-	285	īnserō	īnserere	īnsēuī	īnsitum
-
 347	dīuīnō	dīuīnāre	dīuīnāuī	dīuīnātu
-	347	dīuīnō	dīuīnāre	dīuīnāuī	dīuīnātum
-
 345	ouō	ouāre	ouāuī	ouātu
-	345	ouō	ouāre	ouāuī	ouātum
-
 338	fremō	fremere	fremuī	fremitu
-	331	fremō	fremere	fremuī	fremitum
-	7	īnfremō	īnfremere	īnfremuī	-
-
 337	auctōrō	auctōrāre	auctōrāuī	auctōrātu
-	329	auctōrō	auctōrāre	auctōrāuī	auctōrātum
-	8	exauctōrō	exauctōrāre	exauctōrāuī	exauctōrātum
-
 337	nāuō	nāuāre	nāuāuī	nāuātu
-	337	nāuō	nāuāre	nāuāuī	nāuātum
-
 335	egeō	egēre	eguī	-
-	335	egeō	egēre	eguī	-
-
 334	spicō	spicāre	-	spicātu
-	54	cōnspicor	cōnspicārī	-	cōnspicātus sum
-	280	suspicor	suspicārī	-	suspicātus sum
-
 332	labō	labāre	labāuī	labātu
-	332	labō	labāre	labāuī	labātum
-
 331	faueō	fauēre	fāuī	fautu
-	331	faueō	fauēre	fāuī	fautum
-
 330	tundō	tundere	tudī	tūnsu
-	290	tundō	tundere	tutudī	tūnsum
-	40	retundō	retundere	rettudī	retunsum
-
 327	conciliō	conciliāre	conciliāuī	conciliātu
-	286	conciliō	conciliāre	conciliāuī	conciliātum
-	41	reconciliō	reconciliāre	reconciliāuī	reconciliātum
-
 323	uēlō	uēlāre	uēlāuī	uēlātu
-	314	uēlō	uēlāre	uēlāuī	uēlātum
-	9	reuēlō	reuēlāre	reuēlāuī	reuēlātum
-
 323	figūrō	figūrāre	figūrāuī	figūrātu
-	312	figūrō	figūrāre	figūrāuī	figūrātum
-	11	trānsfigūrō	trānsfigūrāre	trānsfigūrāuī	trānsfigūrātum
-
 322	geminō	gemināre	gemināuī	geminātu
-	295	geminō	gemināre	gemināuī	geminātum
-	27	ingeminō	ingemināre	ingemināuī	ingeminātum
-
 319	fatīgō	fatīgāre	fatīgāuī	fatīgātu
-	289	fatīgō	fatīgāre	fatīgāuī	fatīgātum
-	30	dēfatīgō	dēfatīgāre	dēfatīgāuī	dēfatīgātum
-
 316	rōdō	rōdere	rōsī	rōsu
-	256	rōdō	rōdere	rōsī	rōsum
-	6	corrōdō	corrōdere	corrōsī	corrōsum
-	54	ērōdō	ērōdere	ērōsī	ērōsum
-
 315	scindō	scindere	scidī	scissu
-	145	scindō	scindere	scidī	scissum
-	16	abscindō	abscindere	abscidī	abscissum
-	62	rescindō	rescindere	rescidī	rescissum
-	3	interscindō	interscindere	interscidī	interscissum
-	14	exscindō	exscindere	exscidī	exscissum
-	34	dīscindō	dīscindere	dīscidī	dīscissum
-	41	prōscindō	prōscindere	prōscidī	prōscissum
-
 313	mānō	mānāre	mānāuī	mānātu
-	268	mānō	mānāre	mānāuī	mānātum
-	22	permānō	permānāre	permānāuī	permānātum
-	23	ēmānō	ēmānāre	ēmānāuī	ēmānātum
-
 313	onerō	onerāre	onerāuī	onerātu
-	271	onerō	onerāre	onerāuī	onerātum
-	42	exonerō	exonerāre	exonerāuī	exonerātum
-
 312	foedō	foedāre	foedāuī	foedātu
-	312	foedō	foedāre	foedāuī	foedātum
-
 312	colōrō	colōrāre	colōrāuī	colōrātu
-	307	colōrō	colōrāre	colōrāuī	colōrātum
-	5	dēcolōrō	dēcolōrāre	dēcolōrāuī	dēcolōrātum
-
 311	cōnsiliō	cōnsiliāre	-	cōnsiliātu
-	311	cōnsilior	cōnsiliārī	-	cōnsiliātus sum
-
 309	necō	necāre	necāuī	necātu
-	309	necō	necāre	necāuī	necātum
-
 309	flagrō	flagrāre	flagrāuī	flagrātu
-	276	flagrō	flagrāre	flagrāuī	-
-	22	cōnflagrō	cōnflagrāre	cōnflagrāuī	cōnflagrātum
-	11	dēflagrō	dēflagrāre	dēflagrāuī	dēflagrātum
-
 308	pulsō	pulsāre	pulsāuī	pulsātu
-	263	pulsō	pulsāre	pulsāuī	pulsātum
-	45	prōpulsō	prōpulsāre	prōpulsāuī	prōpulsātum
-
 307	induō	induere	induī	indūtu
-	307	induō	induere	induī	indūtum
-
 307	laxō	laxāre	laxāuī	laxātu
-	249	laxō	laxāre	laxāuī	laxātum
-	58	relaxō	relaxāre	relaxāuī	relaxātum
-
 305	ruō	ruere	ruī	rutu
-	202	ēruō	ēruere	ēruī	ērutum
-	80	dīruō	dīruere	dīruī	dīrutum
-	23	prōruō	prōruere	prōruī	prōrutum
-
 302	uenēnō	uenēnāre	uenēnāuī	uenēnātu
-	302	uenēnō	uenēnāre	uenēnāuī	uenēnātum
-
 302	sollicitō	sollicitāre	sollicitāuī	sollicitātu
-	302	sollicitō	sollicitāre	sollicitāuī	sollicitātum
-
 298	circumdō	circumdare	circumdedī	circumdatu
-	298	circumdō	circumdare	circumdedī	circumdatum
-
 295	uiolō	uiolāre	uiolāuī	uiolātu
-	295	uiolō	uiolāre	uiolāuī	uiolātum
-
 294	uastō	uastāre	uastāuī	uastātu
-	291	uastō	uastāre	uastāuī	uastātum
-	3	dēuastō	dēuastāre	dēuastāuī	dēuastātum
-
 293	nāuigō	nāuigāre	nāuigāuī	nāuigātu
-	293	nāuigō	nāuigāre	nāuigāuī	nāuigātum
-
 292	indulgeō	indulgēre	indulsī	indultu
-	292	indulgeō	indulgēre	indulsī	indultum
-
 292	micō	micāre	micuī	micātu
-	183	micō	micāre	micuī	-
-	109	ēmicō	ēmicāre	ēmicuī	ēmicātum
-
 290	arcessō	arcessere	arcessīuī	arcessītu
-	290	arcessō	arcessere	arcessīuī	arcessītum
-
 290	odōrō	odōrāre	odōrāuī	odōrātu
-	290	odōrō	odōrāre	odōrāuī	odōrātum
-
 288	dēstinō	dēstināre	dēstināuī	dēstinātu
-	288	dēstinō	dēstināre	dēstināuī	dēstinātum
-
 284	spernō	spernere	sprēuī	sprētu
-	284	spernō	spernere	sprēuī	sprētum
-
 283	nectō	nectere	nexī	nexu
-	283	nectō	nectere	nexī	nexum
-
 282	uerberō	uerberāre	uerberāuī	uerberātu
-	263	uerberō	uerberāre	uerberāuī	uerberātum
-	4	reuerberō	reuerberāre	reuerberāuī	reuerberātum
-	15	trānsuerberō	trānsuerberāre	trānsuerberāuī	trānsuerberātum
-
 281	fringō	fringere	frēgī	fractu
-	28	refringō	refringere	refrēgī	refractum
-	37	effringō	effringere	effrēgī	effractum
-	100	īnfringō	īnfringere	īnfrēgī	īnfractum
-	43	cōnfringō	cōnfringere	cōnfrēgī	cōnfractum
-	70	perfringō	perfringere	perfrēgī	perfractum
-	3	suffringō	-	-	-
-
 281	occulō	occulere	occuluī	occultu
-	281	occulō	occulere	occuluī	occultum
-
 281	cēlō	cēlāre	cēlāuī	cēlātu
-	281	cēlō	cēlāre	cēlāuī	cēlātum
-
 277	dormiō	dormīre	dormīuī	dormītu
-	262	dormiō	dormīre	dormīuī	dormītum
-	6	obdormiō	obdormīre	obdormīuī	obdormītum
-	5	indormiō	indormīre	indormīuī	indormītum
-	4	ēdormiō	ēdormīre	ēdormīuī	ēdormītum
-
 277	uīsō	uīsere	uīsī	uīsu
-	190	uīsō	uīsere	uīsī	uīsum
-	61	reuīsō	reuīsere	reuīsī	reuīsum
-	23	inuīsō	inuīsere	inuīsī	inuīsum
-	3	interuīsō	interuīsere	interuīsī	interuīsum
-
 277	cruciō	cruciāre	cruciāuī	cruciātu
-	204	cruciō	cruciāre	cruciāuī	cruciātum
-	14	discruciō	discruciāre	discruciāuī	discruciātum
-	59	excruciō	excruciāre	excruciāuī	excruciātum
-
 275	uagō	uagāre	uagāuī	-
-	275	uagō	uagāre	uagāuī	-
-
 274	ōrdiō	ōrdīre	-	ōrsu
-	76	exordior	exordīrī	-	exorsus sum
-	198	ōrdior	ōrdīrī	-	ōrsus sum
-
 273	ferueō	feruēre	ferbuī	feruitu
-	273	ferueō	feruēre	ferbuī	feruitum
-
 271	uellō	uellere	uellī	uulsu
-	65	conuellō	conuellere	conuellī	conuulsum
-	80	ēuellō	ēuellere	ēuellī	ēuulsum
-	30	dīuellō	dīuellere	dīuellī	dīuulsum
-	96	reuellō	reuellere	reuellī	reuulsum
-
 270	molō	molere	moluī	molitu
-	270	molō	molere	moluī	molitum
-
 270	uigilō	uigilāre	uigilāuī	uigilātu
-	227	uigilō	uigilāre	uigilāuī	uigilātum
-	13	inuigilō	inuigilāre	inuigilāuī	inuigilātum
-	22	peruigilō	peruigilāre	peruigilāuī	peruigilātum
-	8	ēuigilō	ēuigilāre	ēuigilāuī	ēuigilātum
-
 269	sēminō	sēmināre	sēmināuī	sēminātu
-	269	sēminō	sēmināre	sēmināuī	sēminātum
-
 269	lacerō	lacerāre	lacerāuī	lacerātu
-	261	lacerō	lacerāre	lacerāuī	lacerātum
-	8	dīlacerō	dīlacerāre	dīlacerāuī	dīlacerātum
-
 268	ambulō	ambulāre	ambulāuī	ambulātu
-	226	ambulō	ambulāre	ambulāuī	ambulātum
-	9	obambulō	obambulāre	obambulāuī	obambulātum
-	4	adambulō	adambulāre	adambulāuī	-
-	4	deambulō	deambulāre	deambulāuī	deambulātum
-	14	inambulō	inambulāre	inambulāuī	-
-	11	perambulō	perambulāre	perambulāuī	perambulātum
-
 268	corōnō	corōnāre	corōnāuī	corōnātu
-	268	corōnō	corōnāre	corōnāuī	corōnātum
-
 266	crepō	crepāre	crepuī	crepitu
-	104	crepō	crepāre	crepuī	crepitum
-	136	increpō	increpāre	increpuī	increpitum
-	26	concrepō	concrepāre	concrepuī	concrepitum
-
 264	ērudiō	ērudīre	ērudīuī	ērudītu
-	264	ērudiō	ērudīre	ērudīuī	ērudītum
-
 263	frequentō	frequentāre	frequentāuī	frequentātu
-	263	frequentō	frequentāre	frequentāuī	frequentātum
-
 256	poliō	polīre	polīuī	polītu
-	201	poliō	polīre	polīuī	polītum
-	15	perpoliō	perpolīre	perpolīuī	perpolītum
-	40	expoliō	expolīre	expolīuī	expolītum
-
 255	centuriō	centuriāre	centuriāuī	centuriātu
-	255	centuriō	centuriāre	centuriāuī	centuriātum
-
 255	crīminō	crīmināre	crīmināuī	crīminātu
-	172	crīminō	crīmināre	crīmināuī	crīminātum
-	83	discrīminō	discrīmināre	discrīmināuī	discrīminātum
-
 253	rubeō	rubēre	rubuī	-
-	253	rubeō	rubēre	rubuī	-
-
 252	festīnō	festīnāre	festīnāuī	festīnātu
-	252	festīnō	festīnāre	festīnāuī	festīnātum
-
-251	saeuiō	saeuīre	saeuiuī	saeuītu
-	240	saeuiō	saeuīre	saeuiī	saeuītum
-	11	dēsaeuiō	dēsaeuīre	dēsaeuīuī	dēsaeuītum
-
+251	saeuiō	saeuīre	saeuiī	saeuītu
 251	scelerō	scelerāre	scelerāuī	scelerātu
-	251	scelerō	scelerāre	scelerāuī	scelerātum
-
 250	triumphō	triumphāre	triumphāuī	triumphātu
-	250	triumphō	triumphāre	triumphāuī	triumphātum
-
 249	uellō	uellere	uulsī	uulsu
-	156	uellō	uellere	uulsī	uulsum
-	93	āuellō	āuellere	āuulsī	āuulsum
-
 249	metō	metere	messuī	messu
-	221	metō	metere	messuī	messum
-	28	dēmetō	dēmetere	dēmessuī	dēmessum
-
 249	frondeō	frondēre	fronduī	-
-	249	frondeō	frondēre	fronduī	-
-
 246	nectō	nectere	nexuī	nexu
-	33	subnectō	subnectere	subnexuī	subnexum
-	63	adnectō	adnectere	adnexuī	adnexum
-	43	innectō	innectere	innexuī	innexum
-	107	cōnectō	cōnectere	cōnexuī	cōnexum
-
 244	tundō	tundere	tudī	tūsu
-	60	obtundō	obtundere	obtudī	obtūsum
-	166	contundō	contundere	contudī	contūsum
-	18	pertundō	pertundere	pertutudī	pertūsum
-
 243	īnsāniō	īnsānīre	īnsānīuī	īnsānītu
-	243	īnsāniō	īnsānīre	īnsānīuī	īnsānītum
-
 243	spūmō	spūmāre	spūmāuī	spūmātu
-	231	spūmō	spūmāre	spūmāuī	spūmātum
-	12	dēspūmō	dēspūmāre	dēspūmāuī	dēspūmātum
-
 242	uomō	uomere	uomuī	uomitu
-	225	uomō	uomere	uomuī	uomitum
-	17	ēuomō	ēuomere	ēuomuī	ēuomitum
-
 241	sūdō	sūdāre	sūdāuī	sūdātu
-	232	sūdō	sūdāre	sūdāuī	sūdātum
-	9	desūdō	desūdāre	desūdāuī	desūdātum
-
 240	auxiliō	auxiliāre	auxiliāuī	auxiliātu
-	240	auxiliō	auxiliāre	auxiliāuī	auxiliātus
-
+240	uolō	uolāre	uolāuī	uolātu
 237	clārō	clārāre	clārāuī	clārātu
-	8	clārō	clārāre	clārāuī	clārātum
-	229	dēclārō	dēclārāre	dēclārāuī	dēclārātum
-
 235	rītō	rītāre	rītāuī	rītātu
-	228	irrītō	irrītāre	irrītāuī	irrītātum
-	7	prōrītō	prōrītāre	prōrītāuī	prōrītātum
-
 235	propinquō	propinquāre	propinquāuī	propinquātu
-	162	propinquō	propinquāre	propinquāuī	propinquātum
-	73	appropinquō	appropinquāre	appropinquāuī	appropinquātum
-
 234	cāneō	cānēre	cānuī	-
-	234	cāneō	cānēre	cānuī	-
-
-234	hiō	hiāre	hiāuī	hiātu
-	201	hiō	hiāre	hiāuī	-
-	33	inhiō	inhiāre	inhiāuī	inhiātum
-
+234	hiō	hiāre	hiāuī	-
 234	lūnō	lūnāre	lūnāuī	lūnātu
-	234	lūnō	lūnāre	lūnāuī	lūnātum
-
 234	culpō	culpāre	culpāuī	culpātu
-	234	culpō	culpāre	culpāuī	culpātum
-
 233	humō	humāre	humāuī	humātu
-	233	humō	humāre	humāuī	humātum
-
 232	pandō	pandere	pandī	passu
-	232	pandō	pandere	pandī	passum
-
 232	pandō	pandāre	pandāuī	pandātu
-	232	pandō	pandāre	pandāuī	pandātum
-
 229	uallō	uallāre	uallāuī	uallātu
-	229	uallō	uallāre	uallāuī	uallātum
-
 228	rigō	rigāre	rigāuī	rigātu
-	197	rigō	rigāre	rigāuī	rigātum
-	18	inrigō	inrigāre	inrigāuī	inrigātum
-	13	irrigō	irrigāre	irrigāuī	irrigātum
-
 226	nancīscō	nancīscere	-	nactu
-	226	nancīscor	nancīscī	-	nactus sum
-
 226	rudō	rudere	rudīuī	rudītu
-	226	rudō	rudere	rudīuī	rudītum
-
 226	uēxō	uēxāre	uēxāuī	uēxātu
-	226	uēxō	uēxāre	uēxāuī	uēxātum
-
 224	cālīgō	cālīgāre	cālīgāuī	cālīgātu
-	224	cālīgō	cālīgāre	cālīgāuī	cālīgātum
-
 224	penetrō	penetrāre	penetrāuī	penetrātu
-	224	penetrō	penetrāre	penetrāuī	penetrātum
-
 222	flīgō	flīgere	flīxī	flīctu
-	209	afflīgō	afflīgere	afflīxī	afflīctum
-	13	īnflīgō	īnflīgere	īnflīxī	īnflīctum
-
 222	texō	texere	texuī	textu
-	27	subtexō	subtexere	subtexuī	subtextum
-	98	praetexō	praetexere	praetexuī	praetextum
-	39	intexō	intexere	intexuī	intextum
-	58	contexō	contexere	contexuī	contextum
-
 222	moderō	moderāre	moderāuī	moderātu
-	215	moderō	moderāre	moderāuī	moderātus
-	7	moderor	moderārī	-	moderātus sum
-
 219	bellō	bellāre	bellāuī	bellātu
-	112	bellor	bellārī	-	bellātus sum
-	52	rebellō	rebellāre	rebellāuī	rebellātum
-	55	dēbellō	dēbellāre	dēbellāuī	dēbellātum
-
 219	gerō	gerāre	gerāuī	gerātu
-	180	aggerō	aggerāre	aggerāuī	aggerātum
-	11	adgerō	adgerāre	adgerāuī	adgerātum
-	5	adaggerō	adaggerāre	adaggerāuī	adaggerātum
-	23	exaggerō	exaggerāre	exaggerāuī	exaggerātum
-
 218	plaudō	plaudere	plausī	plausu
-	211	plaudō	plaudere	plausī	plausum
-	7	applaudō	applaudere	applausī	applausum
-
 217	sociō	sociāre	sociāuī	sociātu
-	185	sociō	sociāre	sociāuī	sociātum
-	16	cōnsociō	cōnsociāre	cōnsociāuī	cōnsociātum
-	16	dissociō	dissociāre	dissociāuī	dissociātum
-
 216	angō	angere	anxī	anctu
-	216	angō	angere	anxī	anctum
-
 216	studeō	studēre	studuī	-
-	216	studeō	studēre	studuī	-
-
 216	sultō	sultāre	sultāuī	sultātu
-	68	īnsultō	īnsultāre	īnsultāuī	īnsultātum
-	67	cōnsultō	cōnsultāre	cōnsultāuī	cōnsultātum
-	12	persultō	persultāre	persultāuī	persultātum
-	69	exsultō	exsultāre	exsultāuī	exsultātum
-
 215	mūnerō	mūnerāre	mūnerāuī	mūnerātu
-	193	mūnerō	mūnerāre	mūnerāuī	mūnerātum
-	22	remūnerō	remūnerāre	remūnerāuī	remūnerātum
-
 215	cantō	cantāre	cantāuī	cantātu
-	188	cantō	cantāre	cantāuī	cantātum
-	9	incantō	incantāre	incantāuī	incantātum
-	4	excantō	excantāre	excantāuī	excantātum
-	14	dēcantō	dēcantāre	dēcantāuī	dēcantātum
-
 214	lacessō	lacessere	lacessīuī	lacessītu
-	214	lacessō	lacessere	lacessīuī	lacessītum
-
 214	tolerō	tolerāre	tolerāuī	tolerātu
-	214	tolerō	tolerāre	tolerāuī	tolerātum
-
 214	quādrō	quādrāre	quādrāuī	quādrātu
-	214	quādrō	quādrāre	quādrāuī	quādrātum
-
 213	tondeō	tondēre	tondī	tōnsu
-	143	tondeō	tondēre	totondī	tōnsum
-	58	intondeō	intondēre	intondī	intōnsum
-	9	attondeō	attondēre	attondī	attōnsum
-	3	dētondeō	dētondēre	dētondī	dētōnsum
-
 212	ulcīscō	ulcīscere	-	ultu
-	212	ulcīscor	ulcīscī	-	ultus sum
-
 210	rādō	rādere	rāsī	rāsu
-	128	rādō	rādere	rāsī	rāsum
-	9	abrādō	abrādere	abrāsī	abrāsum
-	4	circumrādō	circumrādere	circumrāsī	circumrāsum
-	36	ērādō	ērādere	ērāsī	ērāsum
-	33	dērādō	dērādere	dērāsī	dērāsum
-
 209	palmō	palmāre	palmāuī	palmātu
-	209	palmō	palmāre	palmāuī	palmātum
-
 208	findō	findere	fidī	fissu
-	198	findō	findere	fidī	fissum
-	10	diffindō	diffindere	diffidī	diffissum
-
 208	hiemō	hiemāre	hiemāuī	hiemātu
-	208	hiemō	hiemāre	hiemāuī	hiemātum
-
 205	frēnō	frēnāre	frēnāuī	frēnātu
-	147	frēnō	frēnāre	frēnāuī	frēnātum
-	22	refrēnō	refrēnāre	refrēnāuī	refrēnātum
-	31	effrēnō	effrēnāre	effrēnāuī	effrēnātum
-	5	īnfrēnō	īnfrēnāre	īnfrēnāuī	īnfrēnātum
-
 204	tenuō	tenuāre	tenuāuī	tenuātu
-	45	tenuō	tenuāre	tenuāuī	tenuātum
-	11	adtenuō	adtenuāre	adtenuāuī	adtenuātum
-	11	attenuō	attenuāre	attenuāuī	attenuātum
-	137	extenuō	extenuāre	extenuāuī	extenuātum
-
 203	nūtriō	nūtrīre	nūtrīuī	nūtrītu
-	193	nūtriō	nūtrīre	nūtrīuī	nūtrītum
-	4	innūtriō	innūtrīre	innūtrīuī	innūtrītum
-	6	ēnūtriō	ēnūtrīre	ēnūtrīuī	ēnūtrītum
-
 202	exuō	exuere	exuī	exūtu
-	202	exuō	exuere	exuī	exūtum
-
 201	cohortō	cohortāre	cohortāuī	cohortātu
-	201	cohortō	cohortāre	cohortāuī	cohortātum
-
 199	seuērō	seuērāre	seuērāuī	seuērātu
-	179	perseuērō	perseuērāre	perseuērāuī	perseuērātum
-	20	asseuērō	asseuērāre	asseuērāuī	asseuērātum
-
 198	dīmidiō	dīmidiāre	dīmidiāuī	dīmidiātu
-	198	dīmidiō	dīmidiāre	dīmidiāuī	dīmidiātum
-
 198	uenerō	uenerāre	-	uenerātu
-	198	ueneror	uenerārī	-	uenerātus sum
-
 197	fraudō	fraudāre	fraudāuī	fraudātu
-	186	fraudō	fraudāre	fraudāuī	fraudātum
-	11	dēfraudō	dēfraudāre	dēfraudāuī	dēfraudātum
-
 196	madeō	madēre	maduī	-
-	196	madeō	madēre	maduī	-
-
 196	tardō	tardāre	tardāuī	tardātu
-	162	tardō	tardāre	tardāuī	tardātum
-	34	retardō	retardāre	retardāuī	retardātum
-
 196	ītō	ītāre	ītāuī	ītātu
-	14	dormītō	dormītāre	dormītāuī	dormītātum
-	182	marītō	marītāre	marītāuī	marītātum
-
 195	īnsigniō	īnsignīre	īnsignīuī	īnsignītu
-	195	īnsigniō	īnsignīre	īnsignīuī	īnsignītum
-
 195	cremō	cremāre	cremāuī	cremātu
-	182	cremō	cremāre	cremāuī	cremātum
-	13	concremō	concremāre	concremāuī	concremātum
-
 195	curuō	curuāre	curuāuī	curuātu
-	162	curuō	curuāre	curuāuī	curuātum
-	14	recuruō	recuruāre	recuruāuī	recuruātum
-	19	incuruō	incuruāre	incuruāuī	incuruātum
-
 194	poeniō	poenīre	poenīuī	poenitu
-	194	poeniō	poenīre	poenīuī	poenitum
-
 194	nuō	nuere	nuī	nūtu
-	25	renuō	renuere	renuī	renūtum
-	160	annuō	annuere	annuī	annūtum
-	9	innuō	innuere	innuī	innūtum
-
 194	dēleō	dēlēre	dēlēuī	dēlētu
-	194	dēleō	dēlēre	dēlēuī	dēlētum
-
 193	sepeliō	sepelīre	sepelīuī	sepultu
-	193	sepeliō	sepelīre	sepelīuī	sepultum
-
 193	sōlō	sōlāre	sōlāuī	sōlātu
-	168	cōnsōlō	cōnsōlāre	cōnsōlāuī	cōnsōlātum
-	4	cōnsōlor	cōnsōlārī	-	cōnsōlātus sum
-	21	dēsōlō	dēsōlāre	dēsōlāuī	dēsōlātum
-
 192	paueō	pauēre	pāuī	-
-	192	paueō	pauēre	pāuī	-
-
 192	somniō	somniāre	somniāuī	somniātu
-	192	somniō	somniāre	somniāuī	somniātum
-
 192	fūmō	fūmāre	fūmāuī	fūmātu
-	192	fūmō	fūmāre	fūmāuī	fūmātum
-
 191	tendō	tendere	tendī	tēnsu
-	150	retendō	retendere	retendī	retēnsum
-	36	prōtendō	prōtendere	prōtendī	prōtēnsum
-	5	pertendō	pertendere	pertendī	pertēnsum
-
 191	caleō	calēre	caluī	-
-	186	caleō	calēre	caluī	-
-	5	concaleō	concalēre	concaluī	-
-
 191	calceō	calceāre	calceāuī	calceātu
-	191	calceō	calceāre	calceāuī	calceātum
-
 190	tingō	tingere	tinxī	tinctu
-	179	tingō	tingere	tinxī	tinctum
-	11	intingō	intingere	intinxī	intinctum
-
 189	ngruō	ngruere	ngruī	-
-	45	ingruō	ingruere	ingruī	-
-	144	congruō	congruere	congruī	-
-
 189	aueō	auēre	-	-
-	189	aueō	auēre	-	-
-
 189	sēparō	sēparāre	sēparāuī	sēparātu
-	189	sēparō	sēparāre	sēparāuī	sēparātum
-
 188	nōbilitō	nōbilitāre	nōbilitāuī	nōbilitātu
-	188	nōbilitō	nōbilitāre	nōbilitāuī	nōbilitātum
-
 187	palleō	pallēre	palluī	-
-	187	palleō	pallēre	palluī	-
-
 187	cordō	cordāre	cordāuī	cordātu
-	117	recordor	recordārī	-	recordātus sum
-	26	concordō	concordāre	concordāuī	concordātum
-	44	discordō	discordāre	discordāuī	discordātum
-
 187	mātūrō	mātūrāre	mātūrāuī	mātūrātu
-	187	mātūrō	mātūrāre	mātūrāuī	mātūrātum
-
 186	maereō	maerēre	-	-
-	186	maereō	maerēre	-	-
-
 186	decorō	decorāre	decorāuī	decorātu
-	168	decorō	decorāre	decorāuī	decorātum
-	5	condecorō	condecorāre	condecorāuī	condecorātum
-	13	dēdecorō	dēdecorāre	dēdecorāuī	dēdecorātum
-
 185	stupeō	stupēre	stupuī	stupītu
-	181	stupeō	stupēre	stupuī	stupītum
-	4	astupeō	astupēre	astupuī	-
-
 185	ōsculō	ōsculāre	ōsculāuī	ōsculātu
-	173	ōsculō	ōsculāre	ōsculāuī	ōsculātum
-	12	deōsculor	deōsculārī	-	deōsculātus sum
-
 184	medicō	medicāre	medicāuī	medicātu
-	184	medicō	medicāre	medicāuī	medicātum
-
 183	cruentō	cruentāre	cruentāuī	cruentātu
-	183	cruentō	cruentāre	cruentāuī	cruentātum
-
 180	rubēscō	rubēscere	rubuī	-
-	45	rubēscō	rubēscere	rubuī	-
-	135	ērubēscō	ērubēscere	ērubuī	-
-
 180	dīmicō	dīmicāre	dīmicāuī	dīmicātu
-	180	dīmicō	dīmicāre	dīmicāuī	dīmicātum
-
 179	trūdō	trūdere	trūsī	trūsu
-	39	trūdō	trūdere	trūsī	trūsum
-	3	obtrūdō	obtrūdere	obtrūsī	obtrūsum
-	3	retrūdō	retrūdere	retrūsī	retrūsum
-	6	contrūdō	contrūdere	contrūsī	contrūsum
-	34	abstrūdō	abstrūdere	abstrūsī	abstrūsum
-	38	extrūdō	extrūdere	extrūsī	extrūsum
-	44	dētrūdō	dētrūdere	dētrūsī	dētrūsum
-	12	prōtrūdō	prōtrūdere	prōtrūsī	prōtrūsum
-
 177	dēferuescō	dēferuescere	dēferuī	-
-	177	dēferuescō	dēferuescere	dēferuī	-
-
 177	pīlō	pīlāre	pīlāuī	pīlātu
-	144	pīlō	pīlāre	pīlāuī	pīlātum
-	11	compīlō	compīlāre	compīlāuī	compīlātum
-	6	conpīlō	conpīlāre	conpīlāuī	conpīlātum
-	5	suppīlō	suppīlāre	suppīlāuī	suppīlātum
-	11	expīlō	expīlāre	expīlāuī	expīlātum
-
 176	tumeō	tumēre	-	-
-	176	tumeō	tumēre	-	-
-
 176	mundō	mundāre	mundāuī	mundātu
-	164	mundō	mundāre	mundāuī	mundātum
-	12	ēmundō	ēmundāre	ēmundāuī	ēmundātum
-
 176	hībernō	hībernāre	hībernāuī	hībernātu
-	176	hībernō	hībernāre	hībernāuī	hībernātum
-
 175	truncō	truncāre	truncāuī	truncātu
-	128	truncō	truncāre	truncāuī	truncātum
-	47	obtruncō	obtruncāre	obtruncāuī	obtruncātum
-
 174	foederō	foederāre	foederāuī	foederātu
-	174	foederō	foederāre	foederāuī	foederātum
-
 174	saluō	saluāre	saluāuī	saluātu
-	174	saluō	saluāre	saluāuī	saluātum
-
 173	līmō	līmāre	līmāuī	līmātu
-	119	līmō	līmāre	līmāuī	līmātum
-	4	oblīmō	oblīmāre	oblīmāuī	oblīmātum
-	45	sublīmō	sublīmāre	sublīmāuī	sublīmātum
-	5	ēlīmō	ēlīmāre	ēlīmāuī	ēlīmātum
-
 172	saepiō	saepīre	saepsī	saeptu
-	145	saepiō	saepīre	saepsī	saeptum
-	8	obsaepiō	obsaepīre	obsaepsī	obsaeptum
-	5	circumsaepiō	circumsaepīre	circumsaepsī	circumsaeptum
-	14	cōnsaepiō	cōnsaepīre	cōnsaepsī	cōnsaeptum
-
 171	incohō	incohāre	incohāuī	incohātu
-	171	incohō	incohāre	incohāuī	incohātum
-
 171	sonō	sonāre	sonuī	sonātu
-	19	circumsonō	circumsonāre	circumsonuī	circumsonātum
-	152	personō	personāre	personuī	personātum
-
 171	gestō	gestāre	gestāuī	gestātu
-	171	gestō	gestāre	gestāuī	gestātum
-
 170	lapidō	lapidāre	lapidāuī	lapidātu
-	170	lapidō	lapidāre	lapidāuī	lapidātum
-
 168	incumbō	incumbere	incumbuī	-
-	168	incumbō	incumbere	incumbuī	-
-
 168	negōtiō	negōtiāre	-	negōtiātu
-	168	negōtior	negōtiārī	-	negōtiātus sum
-
 168	rōborō	rōborāre	rōborāuī	rōborātu
-	139	rōborō	rōborāre	rōborāuī	rōborātum
-	10	conrōborō	conrōborāre	conrōborāuī	conrōborātum
-	19	corrōborō	corrōborāre	corrōborāuī	corrōborātum
-
 167	cumulō	cumulāre	cumulāuī	cumulātu
-	145	cumulō	cumulāre	cumulāuī	cumulātum
-	15	accumulō	accumulāre	accumulāuī	accumulātum
-	7	adcumulō	adcumulāre	adcumulāuī	adcumulātum
-
 167	pēnsō	pēnsāre	pēnsāuī	pēnsātu
-	113	pēnsō	pēnsāre	pēnsāuī	pēnsātum
-	14	compēnsō	compēnsāre	compēnsāuī	compēnsātum
-	40	dispēnsō	dispēnsāre	dispēnsāuī	dispēnsātum
-
 165	pālō	pālāre	pālāuī	pālātu
-	165	pālō	pālāre	pālāuī	pālātum
-
 164	blandiō	blandīre	blandīuī	blandītu
-	151	blandiō	blandīre	blandīuī	blandītum
-	13	ēblandior	ēblandīrī	-	ēblandītus sum
-
 164	rotō	rotāre	rotāuī	rotātu
-	164	rotō	rotāre	rotāuī	rotātum
-
 163	calō	calāre	calāuī	calātu
-	149	calō	calāre	calāuī	calātum
-	14	intercalō	intercalāre	intercalāuī	intercalātum
-
 162	gemmō	gemmāre	gemmāuī	gemmātu
-	162	gemmō	gemmāre	gemmāuī	gemmātum
-
 162	stagnō	stagnāre	stagnāuī	stagnātu
-	162	stagnō	stagnāre	stagnāuī	stagnātum
-
 161	līdō	līdere	līsī	līsu
-	4	oblīdō	oblīdere	oblīsī	oblīsum
-	5	illīdō	illīdere	illīsī	illīsum
-	15	collīdō	collīdere	collīsī	collīsum
-	137	ēlīdō	ēlīdere	ēlīsī	ēlīsum
-
 161	honestō	honestāre	honestāuī	honestātu
-	153	honestō	honestāre	honestāuī	honestātum
-	4	dehonestō	dehonestāre	dehonestāuī	dehonestātum
-	4	cohonestō	cohonestāre	cohonestāuī	cohonestātum
-
 160	largiō	largīre	-	largītu
-	156	largior	largīrī	-	largītus sum
-	4	dīlargior	dīlargīrī	-	dīlargītus sum
-
 160	plangō	plangere	plānxī	plānctu
-	160	plangō	plangere	plānxī	plānctum
-
 160	mercō	mercāre	-	mercātu
-	160	mercor	mercārī	-	mercātus sum
-
 160	grauō	grauāre	grauāuī	grauātu
-	146	grauō	grauāre	grauāuī	grauātum
-	9	adgrauō	adgrauāre	adgrauāuī	adgrauātum
-	5	ingrauō	ingrauāre	ingrauāuī	ingrauātum
-
 158	luxuriō	luxuriāre	luxuriāuī	luxuriātu
-	158	luxuriō	luxuriāre	luxuriāuī	luxuriātum
-
 158	lassō	lassāre	lassāuī	lassātu
-	158	lassō	lassāre	lassāuī	lassātum
-
 157	fastīdiō	fastīdīre	fastīdīuī	fastīditu
-	157	fastīdiō	fastīdīre	fastīdīuī	fastīditum
-
 157	indigeō	indigēre	indiguī	-
-	157	indigeō	indigēre	indiguī	-
-
 156	polliceō	pollicēre	-	pollicitu
-	156	polliceor	pollicērī	-	pollicitus sum
-
 154	fulciō	fulcīre	fulsī	fultu
-	154	fulciō	fulcīre	fulsī	fultum
-
 154	spergō	spergere	spersī	spersu
-	23	aspergō	aspergere	aspersī	aspersum
-	3	adspergō	adspergere	adspersī	adspersum
-	36	dispergō	dispergere	dispersī	dispersum
-	25	cōnspergō	cōnspergere	cōnspersī	cōnspersum
-	67	rēspergō	rēspergere	rēspersī	rēspersum
-
 154	perpetiō	perpetere	-	perpessu
-	154	perpetior	perpetī	-	perpessus sum
-
 153	ctō	ctāre	ctāuī	ctātu
-	48	uectō	uectāre	uectāuī	uectātum
-	105	dictō	dictāre	dictāuī	dictātum
-
 152	īnsidiō	īnsidiāre	-	īnsidiātu
-	152	īnsidior	īnsidiārī	-	īnsidiātus sum
-
 151	cellō	cellere	culī	culsu
-	13	antecellō	antecellere	-	-
-	138	percellō	percellere	perculī	perculsum
-
 150	stimulō	stimulāre	stimulāuī	stimulātu
-	150	stimulō	stimulāre	stimulāuī	stimulātum
-
 150	ueterō	ueterāre	ueterāuī	ueterātu
-	82	ueterō	ueterāre	ueterāuī	ueterātum
-	68	inueterō	inueterāre	inueterāuī	inueterātum
-
 149	senēscō	senēscere	senuī	-
-	110	senēscō	senēscere	senuī	-
-	39	cōnsenēscō	cōnsenēscere	cōnsenuī	-
-
 149	stillō	stillāre	stillāuī	stillātu
-	42	stillō	stillāre	stillāuī	stillātum
-	77	īnstillō	īnstillāre	īnstillāuī	īnstillātum
-	30	dēstillō	dēstillāre	dēstillāuī	dēstillātum
-
 149	aspernō	aspernāre	-	aspernātu
-	149	aspernor	aspernārī	-	aspernātus sum
-
 148	gustō	gustāre	gustāuī	gustātu
-	96	gustō	gustāre	gustāuī	gustātum
-	9	praegustō	praegustāre	praegustāuī	praegustātum
-	11	angustō	angustāre	angustāuī	angustātum
-	32	dēgustō	dēgustāre	dēgustāuī	dēgustātum
-
 147	sīdō	sīdere	sīdī	-
-	147	sīdō	sīdere	sīdī	-
-
 147	pilō	pilāre	pilāuī	pilātu
-	144	pilō	pilāre	pilāuī	pilātum
-	3	dēpilō	dēpilāre	dēpilāuī	dēpilātum
-
 146	pigeō	pigēre	piguī	pigitu
-	146	pigeō	pigēre	piguī	pigitum
-
 146	sagittō	sagittāre	sagittāuī	sagittātu
-	146	sagittō	sagittāre	sagittāuī	sagittātum
-
 145	grātulō	grātulāre	-	grātulātu
-	145	grātulor	grātulārī	-	grātulātus sum
-
 145	ponderō	ponderāre	ponderāuī	ponderātu
-	138	ponderō	ponderāre	ponderāuī	ponderātum
-	7	praeponderō	praeponderāre	praeponderāuī	praeponderātum
-
 144	capessō	capessere	capessīuī	capessitu
-	144	capessō	capessere	capessīuī	capessitum
-
 144	dominō	domināre	-	dominātu
-	144	dominor	dominārī	-	dominātus sum
-
 142	mītigō	mītigāre	mītigāuī	mītigātu
-	142	mītigō	mītigāre	mītigāuī	mītigātum
-
 141	fūnerō	fūnerāre	fūnerāuī	fūnerātu
-	141	fūnerō	fūnerāre	fūnerāuī	fūnerātum
-
 140	pungō	pungere	pupugī	pūnctu
-	140	pungō	pungere	pupugī	pūnctum
-
 140	āreō	ārēre	āruī	-
-	140	āreō	ārēre	āruī	-
-
 139	līquō	līquere	-	-
-	139	līquor	līquī	-	-
-
 138	praedō	praedāre	praedāuī	praedātu
-	39	praedor	praedārī	-	praedātus sum
-	99	praedō	praedāre	praedāuī	praedātum
-
 138	uēnō	uēnāre	-	uēnātu
-	138	uēnor	uēnārī	-	uēnātus sum
-
 138	litō	litāre	litāuī	litātu
-	138	litō	litāre	litāuī	litātum
-
 137	ferciō	fercīre	fersī	fertu
-	96	referciō	refercīre	refersī	refertum
-	41	cōnferciō	cōnfercīre	cōnfersī	cōnfertus
-
 137	siliō	silīre	siluī	sultu
-	7	subsiliō	subsilīre	subsiluī	-
-	3	circumsiliō	circumsilīre	circumsiluī	-
-	44	exsiliō	exsilīre	exsiluī	-
-	83	prōsiliō	prōsilīre	prōsiluī	prōsultum
-
 137	refrīgerō	refrīgerāre	refrīgerāuī	refrīgerātu
-	137	refrīgerō	refrīgerāre	refrīgerāuī	refrīgerātum
-
 137	migrō	migrāre	migrāuī	migrātu
-	87	migrō	migrāre	migrāuī	migrātum
-	9	remigrō	remigrāre	remigrāuī	remigrātum
-	4	immigrō	immigrāre	immigrāuī	immigrātum
-	16	commigrō	commigrāre	commigrāuī	commigrātum
-	5	ēmigrō	ēmigrāre	ēmigrāuī	ēmigrātum
-	16	dēmigrō	dēmigrāre	dēmigrāuī	dēmigrātum
-
 136	uorō	uorāre	uorāuī	uorātu
-	26	uorō	uorāre	uorāuī	uorātum
-	110	dēuorō	dēuorāre	dēuorāuī	dēuorātum
-
 135	discō	discere	didicī	-
-	23	addiscō	addiscere	addidicī	-
-	27	condiscō	condiscere	condidicī	-
-	56	ēdiscō	ēdiscere	ēdidicī	-
-	29	dēdiscō	dēdiscere	dēdidicī	-
-
 135	candeō	candēre	canduī	-
-	135	candeō	candēre	canduī	-
-
 135	repudiō	repudiāre	repudiāuī	repudiātu
-	135	repudiō	repudiāre	repudiāuī	repudiātum
-
 134	iugulō	iugulāre	iugulāuī	iugulātu
-	134	iugulō	iugulāre	iugulāuī	iugulātum
-
 133	timēscō	timēscere	timuī	-
-	47	pertimēscō	pertimēscere	pertimuī	-
-	86	extimēscō	extimēscere	extimuī	-
-
 132	augurō	augurāre	augurāuī	augurātu
-	120	augurō	augurāre	augurāuī	augurātum
-	12	inaugurō	inaugurāre	inaugurāuī	inaugurātum
-
 129	liquō	liquāre	liquāuī	liquātu
-	129	liquō	liquāre	liquāuī	liquātum
-
 128	puō	puere	puī	pūtu
-	28	spuō	spuere	spuī	spūtum
-	86	respuō	respuere	respuī	respūtum
-	4	cōnspuō	cōnspuere	cōnspuī	cōnspūtum
-	6	exspuō	exspuere	exspuī	exsputum
-	4	expuō	expuere	expuī	exputum
-
 128	adoleō	adolēre	adoluī	adultu
-	88	adoleō	adolēre	adoluī	adultum
-	40	redoleō	redolēre	redoluī	-
-
 128	gregō	gregāre	gregāuī	gregātu
-	17	adgregō	adgregāre	adgregāuī	adgregātum
-	72	congregō	congregāre	congregāuī	congregātum
-	39	sēgregō	sēgregāre	sēgregāuī	sēgregātum
-
 127	scīscō	scīscere	scīuī	scītu
-	8	scīscō	scīscere	scīuī	scītum
-	3	ascīscō	ascīscere	ascīuī	ascītum
-	33	adscīscō	adscīscere	adscīuī	adscītum
-	26	rescīscō	rescīscere	rescīuī	rescītum
-	13	cōnscīscō	cōnscīscere	cōnscīuī	cōnscītum
-	44	dēscīscō	dēscīscere	dēscīuī	dēscītum
-
 127	concupīscō	concupīscere	concupīuī	concupītu
-	127	concupīscō	concupīscere	concupīuī	concupītum
-
 127	sonō	sonāre	sonāuī	sonātu
-	108	resonō	resonāre	resonāuī	resonātum
-	19	obsonō	obsonāre	obsōnāuī	obsōnātum
-
 127	mācerō	mācerāre	mācerāuī	mācerātu
-	127	mācerō	mācerāre	mācerāuī	mācerātum
-
 127	purpurō	purpurāre	purpurāuī	purpurātu
-	127	purpurō	purpurāre	purpurāuī	purpurātum
-
 126	stīpō	stīpāre	stīpāuī	stīpātu
-	126	stīpō	stīpāre	stīpāuī	stīpātum
-
 126	adulterō	adulterāre	adulterāuī	adulterātu
-	126	adulterō	adulterāre	adulterāuī	adulterātum
-
 126	aestuō	aestuāre	aestuāuī	aestuātu
-	92	aestuō	aestuāre	aestuāuī	aestuātum
-	34	exaestuō	exaestuāre	exaestuāuī	exaestuātum
-
 125	adolēscō	adolēscere	adolēuī	adultu
-	125	adolēscō	adolēscere	adolēuī	adultum
-
 122	merīdiō	merīdiāre	merīdiāuī	merīdiātu
-	122	merīdiō	merīdiāre	merīdiāuī	merīdiātum
-
 122	flāgitō	flāgitāre	flāgitāuī	flāgitātu
-	111	flāgitō	flāgitāre	flāgitāuī	flāgitātum
-	11	efflāgitō	efflāgitāre	efflāgitāuī	efflāgitātum
-
 121	potiō	potīre	-	potītu
-	121	potior	potīrī	-	potītus sum
-
 121	tūtō	tūtāre	tūtāuī	tūtātu
-	121	tūtō	tūtāre	tūtāuī	tūtātum
-
 120	tumēscō	tumēscere	tumuī	-
-	33	tumēscō	tumēscere	tumuī	-
-	87	intumēscō	intumēscere	intumuī	-
-
 120	reciperō	reciperāre	reciperāuī	reciperātu
-	120	reciperō	reciperāre	reciperāuī	reciperātum
-
 119	cauō	cauāre	cauāuī	cauātu
-	110	cauō	cauāre	cauāuī	cauātum
-	9	excauō	excauāre	excauāuī	excauātum
-
 118	ūsūrpō	ūsūrpāre	ūsūrpāuī	ūsūrpātu
-	118	ūsūrpō	ūsūrpāre	ūsūrpāuī	ūsūrpātum
-
 117	strīdeō	strīdēre	-	-
-	117	strīdeō	strīdēre	-	-
-
 117	uigeō	uigēre	uiguī	-
-	117	uigeō	uigēre	uiguī	-
-
 117	anhēlō	anhēlāre	anhēlāuī	anhēlātu
-	117	anhēlō	anhēlāre	anhēlāuī	anhēlātum
-
 117	alternō	alternāre	alternāuī	alternātu
-	117	alternō	alternāre	alternāuī	alternātum
-
 117	uolitō	uolitāre	uolitāuī	uolitātu
-	117	uolitō	uolitāre	uolitāuī	uolitātus
-
 116	opperiō	opperīre	-	opperītu
-	116	opperior	opperīrī	-	opperītus sum
-
 116	polleō	pollēre	praepolluī	-
-	111	polleō	pollēre	-	-
-	5	praepolleō	praepollēre	praepolluī	-
-
 116	misereō	miserēre	miseruī	miseritu
-	97	misereō	miserēre	miseruī	miseritum
-	19	misereor	miserērī	-	miseritus sum
-
 116	langueō	languēre	-	-
-	116	langueō	languēre	-	-
-
 116	uibrō	uibrāre	uibrāuī	uibrātu
-	116	uibrō	uibrāre	uibrāuī	uibrātum
-
 115	pīpō	pīpāre	-	-
-	115	pīpō	pīpāre	-	-
-
 115	dōtō	dōtāre	dōtāuī	dōtātu
-	115	dōtō	dōtāre	dōtāuī	dōtātum
-
 114	torpeō	torpēre	torpuī	-
-	114	torpeō	torpēre	torpuī	-
-
 114	mactō	mactāre	mactāuī	mactātu
-	114	mactō	mactāre	mactāuī	mactātum
-
 113	ārēscō	ārēscere	āruī	-
-	40	ārēscō	ārēscere	āruī	-
-	52	inārēscō	inārēscere	ināruī	-
-	21	exārēscō	exārēscere	exaruī	-
-
 113	castīgō	castīgāre	castīgāuī	castīgātu
-	113	castīgō	castīgāre	castīgāuī	castīgātum
-
 113	āminō	āmināre	āmināuī	āminātu
-	38	contāminō	contāmināre	contāmināuī	contāminātum
-	75	exāminō	exāmināre	exāmināuī	exāminātum
-
 112	prōpāgō	prōpāgāre	prōpāgāuī	prōpāgātu
-	112	prōpāgō	prōpāgāre	prōpāgāuī	prōpāgātum
-
 111	plumbō	plumbāre	plumbāuī	plumbātu
-	53	plumbō	plumbāre	plumbāuī	plumbātum
-	58	applumbō	applumbāre	applumbāuī	applumbātum
-
 111	cārinō	cārināre	cārināuī	cārinātu
-	111	cārinō	cārināre	cārināuī	cārinātum
-
 111	carīnō	carīnāre	carīnāuī	carīnātu
-	111	carīnō	carīnāre	carīnāuī	carīnātum
-
 110	proficīscō	proficīscere	-	profectu
-	110	proficīscor	proficīscī	-	profectus sum
-
 110	piō	piāre	piāuī	piātu
-	37	piō	piāre	piāuī	piātum
-	73	expiō	expiāre	expiāuī	expiātum
-
 110	maculō	maculāre	maculāuī	maculātu
-	107	maculō	maculāre	maculāuī	maculātum
-	3	commaculō	commaculāre	commaculāuī	commaculātum
-
 109	nūtō	nūtāre	nūtāuī	nūtātu
-	106	nūtō	nūtāre	nūtāuī	nūtātum
-	3	abnūtō	abnūtāre	abnūtāuī	-
-
 108	compescō	compescere	compescuī	-
-	108	compescō	compescere	compescuī	-
-
 108	trucīdō	trucīdāre	trucīdāuī	trucīdātu
-	103	trucīdō	trucīdāre	trucīdāuī	trucīdātum
-	5	contrucīdō	contrucīdāre	contrucīdāuī	contrucīdātum
-
 108	dēbilitō	dēbilitāre	dēbilitāuī	dēbilitātu
-	108	dēbilitō	dēbilitāre	dēbilitāuī	dēbilitātum
-
 107	mūgiō	mūgīre	mūgīuī	mūgītu
-	95	mūgiō	mūgīre	mūgīuī	mūgītum
-	12	remūgiō	remūgīre	remūgīuī	remūgītum
-
 107	ungō	ungere	ūnxī	ūnctu
-	107	ungō	ungere	ūnxī	ūnctum
-
 107	adōrō	adōrāre	adōrāuī	adōrātu
-	107	adōrō	adōrāre	adōrāuī	adōrātum
-
 106	terminō	termināre	termināuī	terminātu
-	47	terminō	termināre	termināuī	terminātum
-	18	disterminō	distermināre	distermināuī	disterminātum
-	13	exterminō	extermināre	extermināuī	exterminātum
-	28	dēterminō	dētermināre	dētermināuī	dēterminātum
-
 105	acciō	accīre	accīuī	accītu
-	105	acciō	accīre	accīuī	accītum
-
 105	catēnō	catēnāre	catēnāuī	catēnātu
-	105	catēnō	catēnāre	catēnāuī	catēnātum
-
 104	horrēscō	horrēscere	horruī	-
-	37	horrēscō	horrēscere	horruī	-
-	19	inhorrēscō	inhorrēscere	inhorruī	-
-	18	perhorrēscō	perhorrēscere	perhorruī	-
-	30	exhorrēscō	exhorrēscere	exhorruī	-
-
 104	abnuō	abnuere	abnuī	abnuitu
-	104	abnuō	abnuere	abnuī	abnuitum
-
 103	iocō	iocāre	-	iocātu
-	103	iocor	iocārī	-	iocātus sum
-
 103	cursō	cursāre	cursāuī	cursātu
-	30	cursō	cursāre	cursāuī	-
-	28	occursō	occursāre	occursāuī	occursātum
-	27	incursō	incursāre	incursāuī	incursātum
-	18	concursō	concursāre	concursāuī	concursātum
-
 103	quassō	quassāre	quassāuī	quassātu
-	96	quassō	quassāre	quassāuī	quassātum
-	7	conquassō	conquassāre	conquassāuī	conquassātum
-
 102	exciō	excīre	excīuī	excitu
-	102	exciō	excīre	excīuī	excitum
-
 102	gubernō	gubernāre	gubernāuī	gubernātu
-	102	gubernō	gubernāre	gubernāuī	gubernātum
-
 101	scandō	scandere	scandī	scānsu
-	101	scandō	scandere	scandī	scānsum
-
 101	sorbeō	sorbēre	sorbuī	sorbitu
-	101	sorbeō	sorbēre	sorbuī	sorbitum
-
 101	tunicō	tunicāre	tunicāuī	tunicātu
-	101	tunicō	tunicāre	tunicāuī	tunicātum
-
 100	fulminō	fulmināre	fulmināuī	fulminātu
-	100	fulminō	fulmināre	fulmināuī	fulminātum
-
 100	iterō	iterāre	iterāuī	iterātu
-	100	iterō	iterāre	iterāuī	iterātum
-
 99	uergō	uergere	-	-
-	99	uergō	uergere	-	-
-
 99	asserō	asserere	assēuī	assitu
-	99	asserō	asserere	assēuī	assitum
-
 99	speculō	speculāre	-	speculātu
-	99	speculor	speculārī	-	speculātus sum
-
 99	hebetō	hebetāre	hebetāuī	hebetātu
-	99	hebetō	hebetāre	hebetāuī	hebetātum
-
 96	immolō	immolāre	immolāuī	immolātu
-	96	immolō	immolāre	immolāuī	immolātum
-
 96	tumulō	tumulāre	tumulāuī	tumulātu
-	96	tumulō	tumulāre	tumulāuī	tumulātum
-
 95	rōrō	rōrāre	rōrāuī	rōrātu
-	95	rōrō	rōrāre	rōrāuī	rōrātum
-
 94	fabricō	fabricāre	fabricāuī	fabricātu
-	94	fabricō	fabricāre	fabricāuī	fabricātum
-
 94	sulcō	sulcāre	sulcāuī	sulcātu
-	94	sulcō	sulcāre	sulcāuī	sulcātum
-
 94	radiō	radiāre	radiāuī	radiātu
-	94	radiō	radiāre	radiāuī	radiātum
-
 93	mātūrēscō	mātūrēscere	mātūruī	-
-	93	mātūrēscō	mātūrēscere	mātūruī	-
-
 93	sordeō	sordēre	sorduī	-
-	93	sordeō	sordēre	sorduī	-
-
 93	probrō	probrāre	probrāuī	probrātu
-	6	opprobrō	opprobrāre	opprobrāuī	opprobrātum
-	87	exprōbrō	exprōbrāre	exprōbrāuī	exprōbrātum
-
 92	iūrgō	iūrgāre	iūrgāuī	iūrgātu
-	12	iūrgō	iūrgāre	iūrgāuī	iūrgātum
-	80	obiūrgō	obiūrgāre	obiūrgāuī	obiūrgātum
-
 92	contemplō	contemplāre	contemplāuī	contemplātu
-	92	contemplō	contemplāre	contemplāuī	contemplātum
-
 92	exulcerō	exulcerāre	exulcerāuī	exulcerātu
-	92	exulcerō	exulcerāre	exulcerāuī	exulcerātum
-
 91	imbuō	imbuere	imbuī	imbūtu
-	91	imbuō	imbuere	imbuī	imbūtum
-
 91	glūtinō	glūtināre	glūtināuī	glūtinātu
-	63	glūtinō	glūtināre	glūtināuī	glūtinātum
-	9	adglūtinō	adglūtināre	adglūtināuī	adglūtinātum
-	19	conglūtinō	conglūtināre	conglūtināuī	conglūtinātum
-
 90	stabiliō	stabilīre	stabilīuī	stabilītu
-	90	stabiliō	stabilīre	stabilīuī	stabilītum
-
 90	squāleō	squālēre	squāluī	-
-	90	squāleō	squālēre	squāluī	-
-
 89	cōnsummō	cōnsummāre	cōnsummāuī	cōnsummātu
-	89	cōnsummō	cōnsummāre	cōnsummāuī	cōnsummātum
-
 88	rogitō	rogitāre	rogitāuī	rogitātu
-	88	rogitō	rogitāre	rogitāuī	rogitātum
-
 87	perungō	perungere	perunxī	perunctu
-	87	perungō	perungere	perunxī	perunctum
-
 87	ēliciō	ēlicere	ēlicuī	ēlicitu
-	87	ēliciō	ēlicere	ēlicuī	ēlicitum
-
 87	commūnicō	commūnicāre	commūnicāuī	commūnicātu
-	87	commūnicō	commūnicāre	commūnicāuī	commūnicātum
-
 87	sinuō	sinuāre	sinuāuī	sinuātu
-	36	sinuō	sinuāre	sinuāuī	sinuātum
-	51	īnsinuō	īnsinuāre	īnsinuāuī	īnsinuātum
-
 86	tābeō	tābēre	tābuī	-
-	86	tābeō	tābēre	tābuī	-
-
 84	ululō	ululāre	ululāuī	ululātu
-	75	ululō	ululāre	ululāuī	ululātum
-	9	exululō	exululāre	exululāuī	exululātum
-
 84	plantō	plantāre	plantāuī	plantātu
-	81	plantō	plantāre	plantāuī	plantātum
-	3	supplantō	supplantāre	supplantāuī	supplantātum
-
 83	iaculō	iaculāre	-	iaculātu
-	75	iaculor	iaculārī	-	iaculātus sum
-	8	eiaculor	eiaculārī	-	eiaculātus sum
-
 83	inquinō	inquināre	inquināuī	inquinātu
-	76	inquinō	inquināre	inquināuī	inquinātum
-	7	coinquinō	coinquināre	coinquināuī	coinquinātum
-
 83	fluctuō	fluctuāre	fluctuāuī	fluctuātu
-	83	fluctuō	fluctuāre	fluctuāuī	fluctuātum
-
 81	īnfitiō	īnfitiāre	-	īnfitiātu
-	81	īnfitior	īnfitiārī	-	īnfitiātus sum
-
 81	aegrōtō	aegrōtāre	aegrōtāuī	aegrōtātu
-	81	aegrōtō	aegrōtāre	aegrōtāuī	aegrōtātum
-
 80	sōpiō	sōpīre	sōpīuī	sōpītu
-	75	sōpiō	sōpīre	sōpīuī	sōpītum
-	5	cōnsōpiō	cōnsōpīre	cōnsōpīuī	cōnsōpītum
-
 80	dūrēscō	dūrēscere	dūruī	-
-	27	dūrēscō	dūrēscere	dūruī	-
-	9	obdūrēscō	obdūrēscere	obdūruī	-
-	44	indūrēscō	indūrēscere	indūruī	-
-
 80	ēnecō	ēnecāre	ēnecuī	ēnectu
-	80	ēnecō	ēnecāre	ēnecuī	ēnectum
-
 80	laniō	laniāre	laniāuī	laniātu
-	80	laniō	laniāre	laniāuī	laniātum
-
 80	hērēditō	hērēditāre	hērēditāuī	hērēditātu
-	80	hērēditō	hērēditāre	hērēditāuī	hērēditātum
-
 80	raptō	raptāre	raptāuī	raptātu
-	80	raptō	raptāre	raptāuī	raptātum
-
 79	rigeō	rigēre	-	-
-	79	rigeō	rigēre	-	-
-
 79	germinō	germināre	germināuī	germinātu
-	79	germinō	germināre	germināuī	germinātum
-
 78	splendeō	splendēre	splenduī	-
-	71	splendeō	splendēre	splenduī	-
-	7	resplendeō	resplendēre	resplenduī	-
-
 78	glomerō	glomerāre	glomerāuī	glomerātu
-	70	glomerō	glomerāre	glomerāuī	glomerātum
-	8	adglomerō	adglomerāre	adglomerāuī	adglomerātum
-
 78	asperō	asperāre	asperāuī	asperātu
-	25	asperō	asperāre	asperāuī	asperātum
-	53	exasperō	exasperāre	exasperāuī	exasperātum
-
 78	aduentō	aduentāre	aduentāuī	aduentātu
-	78	aduentō	aduentāre	aduentāuī	aduentātum
-
 77	suffiō	suffīre	suffīuī	suffītu
-	77	suffiō	suffīre	suffīuī	suffītum
-
 77	discrepō	discrepāre	discrepuī	discrepātu
-	77	discrepō	discrepāre	discrepuī	discrepātum
-
 77	discrepō	discrepāre	discrepāuī	discrepātu
-	77	discrepō	discrepāre	discrepāuī	discrepātum
-
 77	exercitō	exercitāre	exercitāuī	exercitātu
-	77	exercitō	exercitāre	exercitāuī	exercitātum
-
 77	lāmentō	lāmentāre	lāmentāuī	lāmentātu
-	77	lāmentō	lāmentāre	lāmentāuī	lāmentātum
-
 75	fruticō	fruticāre	fruticāuī	fruticātu
-	75	fruticō	fruticāre	fruticāuī	fruticātum
-
 74	pingō	pingere	pēgī	pāctu
-	50	impingō	impingere	impēgī	impāctum
-	18	compingō	compingere	compēgī	compāctum
-	6	inpingō	inpingere	inpēgī	inpāctum
-
 74	cōnsternō	cōnsternāre	cōnsternāuī	cōnsternātu
-	74	cōnsternō	cōnsternāre	cōnsternāuī	cōnsternātum
-
 73	lambō	lambere	lambī	lambitu
-	73	lambō	lambere	lambī	lambitum
-
 73	mandūcō	mandūcāre	mandūcāuī	mandūcātu
-	16	mandūcō	mandūcāre	mandūcāuī	mandūcātum
-	44	commandūcō	commandūcāre	commandūcāuī	commandūcātum
-	13	conmandūcō	conmandūcāre	conmandūcāuī	conmandūcātum
-
 73	fābulō	fābulāre	-	fābulātu
-	69	fābulor	fābulārī	-	fābulātus sum
-	4	cōnfābulor	cōnfābulārī	-	cōnfābulātus sum
-
 72	languēscō	languēscere	languī	-
-	43	languēscō	languēscere	languī	-
-	9	relanguēscō	relanguēscere	relanguī	-
-	20	ēlanguēscō	ēlanguēscere	ēlanguī	-
-
 72	suscitō	suscitāre	suscitāuī	suscitātu
-	62	suscitō	suscitāre	suscitāuī	suscitātus
-	3	resuscitō	resuscitāre	resuscitāuī	resuscitātum
-	7	exsuscitō	exsuscitāre	exsuscitāuī	exsuscitātum
-
 71	calleō	callēre	calluī	-
-	64	calleō	callēre	calluī	-
-	7	percalleō	percallēre	percalluī	-
-
 71	nōdō	nōdāre	nōdāuī	nōdātu
-	51	nōdō	nōdāre	nōdāuī	nōdātum
-	4	adnōdō	adnōdāre	adnōdāuī	adnōdātum
-	16	ēnōdō	ēnōdāre	ēnōdāuī	ēnōdātum
-
 71	suppeditō	suppeditāre	suppeditāuī	suppeditātu
-	71	suppeditō	suppeditāre	suppeditāuī	suppeditātum
-
 70	celerō	celerāre	celerāuī	celerātu
-	30	celerō	celerāre	celerāuī	celerātum
-	15	accelerō	accelerāre	accelerāuī	accelerātum
-	25	adcelerō	adcelerāre	adcelerāuī	adcelerātum
-
 69	liqueō	liquēre	licuī	-
-	69	liqueō	liquēre	licuī	-
-
 69	fricō	fricāre	fricuī	fricātu
-	6	refricō	refricāre	refricuī	refricātum
-	5	affricō	affricāre	affricuī	affricātum
-	58	perfricō	perfricāre	perfricuī	perfricātum
-
 69	secundō	secundāre	secundāuī	secundātu
-	69	secundō	secundāre	secundāuī	secundātum
-
-68	hīscō	hīscere	hīuī	-
-	18	hīscō	-	-	-
-	50	dehīscō	dehīscere	dehīuī	-
-
+68	dehīscō	dehīscere	dehīuī	-
 68	tepeō	tepēre	tepuī	-
-	61	tepeō	tepēre	tepuī	-
-	7	intepeō	intepēre	intepuī	-
-
 68	uituperō	uituperāre	uituperāuī	uituperātu
-	68	uituperō	uituperāre	uituperāuī	uituperātum
-
 68	fectō	fectāre	fectāuī	fectātu
-	58	labefactō	labefactāre	labefactāuī	labefactātum
-	10	affectō	affectāre	affectāuī	affectātum
-
 67	redundō	redundāre	redundāuī	redundātu
-	67	redundō	redundāre	redundāuī	redundātum
-
 66	cōnfligō	cōnfligere	cōnflixī	cōnflictu
-	66	cōnfligō	cōnfligere	cōnflixī	cōnflictum
-
 65	strepō	strepere	strepuī	strepitu
-	55	obstrepō	obstrepere	obstrepuī	obstrepitum
-	10	perstrepō	perstrepere	perstrepuī	perstrepitum
-
 65	marceō	marcēre	marcuī	-
-	65	marceō	marcēre	marcuī	-
-
 65	īnstaurō	īnstaurāre	īnstaurāuī	īnstaurātu
-	65	īnstaurō	īnstaurāre	īnstaurāuī	īnstaurātum
-
 65	repraesentō	repraesentāre	repraesentāuī	repraesentātu
-	65	repraesentō	repraesentāre	repraesentāuī	repraesentātum
-
 64	fluitō	fluitāre	fluitāuī	fluitātu
-	64	fluitō	fluitāre	fluitāuī	fluitātum
-
 63	uestīgō	uestīgāre	uestīgāuī	uestīgātu
-	36	uestīgō	uestīgāre	uestīgāuī	uestīgātum
-	27	inuestīgō	inuestīgāre	inuestīgāuī	inuestīgātum
-
 63	sībilō	sībilāre	sībilāuī	sībilātu
-	57	sībilō	sībilāre	sībilāuī	sībilātum
-	6	exsībilō	exsībilāre	exsībilāuī	exsībilātum
-
 63	sagīnō	sagīnāre	sagīnāuī	sagīnātu
-	63	sagīnō	sagīnāre	sagīnāuī	sagīnātum
-
 63	clāmitō	clāmitāre	clāmitāuī	clāmitātu
-	56	clāmitō	clāmitāre	clāmitāuī	clāmitātum
-	7	dēclāmitō	dēclāmitāre	dēclāmitāuī	dēclāmitātum
-
 62	linō	linere	lēuī	litu
-	11	oblinō	oblinere	oblēuī	oblitum
-	9	illinō	illinere	illeuī	illitum
-	9	collinō	collinere	collēuī	collitum
-	30	circumlinō	circumlinere	circumlēuī	circumlitum
-	3	interlinō	interlinere	interlēuī	interlitum
-
 62	claudeō	claudēre	-	-
-	62	claudeō	claudēre	-	-
-
 62	puteō	putēre	-	-
-	62	puteō	putēre	-	-
-
 62	strangulō	strangulāre	strangulāuī	strangulātu
-	62	strangulō	strangulāre	strangulāuī	strangulātum
-
 62	uocitō	uocitāre	uocitāuī	uocitātu
-	62	uocitō	uocitāre	uocitāuī	uocitātum
-
 62	lātō	lātāre	lātāuī	lātātu
-	54	dīlātō	dīlātāre	dīlātāuī	dīlātātum
-	8	prōlātō	prōlātāre	prōlātāuī	prōlātātum
-
 61	cinō	cināre	-	cinātu
-	22	uāticinor	uāticinārī	-	uāticinātus sum
-	24	ratiōcinor	ratiōcinārī	-	ratiōcinātus sum
-	15	latrōcinor	latrōcinārī	-	latrōcinātus sum
-
 60	pauēscō	pauēscere	pāuī	-
-	10	pauēscō	-	-	-
-	50	expauēscō	expauēscere	expāuī	-
-
 60	nūncupō	nūncupāre	nūncupāuī	nūncupātu
-	60	nūncupō	nūncupāre	nūncupāuī	nūncupātum
-
 60	peragrō	peragrāre	peragrāuī	peragrātu
-	60	peragrō	peragrāre	peragrāuī	peragrātum
-
 59	conualēscō	conualēscere	conualuī	-
-	59	conualēscō	conualēscere	conualuī	-
-
 59	fricō	fricāre	fricuī	frictu
-	59	fricō	fricāre	fricuī	frictum
-
 59	glaciō	glaciāre	glaciāuī	glaciātu
-	56	glaciō	glaciāre	glaciāuī	glaciātum
-	3	conglaciō	conglaciāre	conglaciāuī	conglaciātum
-
 59	sauciō	sauciāre	sauciāuī	sauciātu
-	59	sauciō	sauciāre	sauciāuī	sauciātum
-
 59	assō	assāre	assāuī	assātu
-	59	assō	assāre	assāuī	assātum
-
 58	flōrēscō	flōrēscere	flōruī	-
-	13	flōrēscō	-	-	-
-	11	efflōrēscō	efflōrēscere	efflōruī	-
-	34	dēflōrēscō	dēflōrēscere	dēflōruī	-
-
 58	scalpō	scalpere	scalpsī	scalptu
-	58	scalpō	scalpere	scalpsī	scalptum
-
 58	purgō	purgāre	purgāuī	purgātu
-	23	repurgō	repurgāre	repurgāuī	repurgātum
-	6	perpurgō	perpurgāre	perpurgāuī	perpurgātum
-	29	expurgō	expurgāre	expurgāuī	expurgātum
-
 58	cōpulō	cōpulāre	cōpulāuī	cōpulātu
-	58	cōpulō	cōpulāre	cōpulāuī	cōpulātum
-
 58	īnfāmō	īnfāmāre	īnfāmāuī	īnfāmātu
-	58	īnfāmō	īnfāmāre	īnfāmāuī	īnfāmātum
-
 57	occumbō	occumbere	occumbuī	occumbitu
-	57	occumbō	occumbere	occumbuī	occumbitum
-
 57	conuīciō	conuīciāre	-	conuīciātu
-	57	conuīcior	conuīciārī	-	conuīciātus sum
-
 57	circitō	circitāre	circitāuī	circitātu
-	57	circitō	circitāre	circitāuī	circitātum
-
 57	locuplētō	locuplētāre	locuplētāuī	locuplētātu
-	57	locuplētō	locuplētāre	locuplētāuī	locuplētātum
-
 56	pinguēscō	-	-	-
-	56	pinguēscō	-	-	-
-
 56	pectō	pectere	pēxī	pexu
-	56	pectō	pectere	pēxī	pexum
-
 56	coruscō	coruscāre	coruscāuī	coruscātu
-	56	coruscō	coruscāre	coruscāuī	coruscātum
-
 56	dictitō	dictitāre	dictitāuī	dictitātu
-	56	dictitō	dictitāre	dictitāuī	dictitātum
-
 55	obstipēscō	obstipēscere	obstipuī	-
-	55	obstipēscō	obstipēscere	obstipuī	-
-
 55	lītigō	lītigāre	lītigāuī	lītigātu
-	55	lītigō	lītigāre	lītigāuī	lītigātum
-
 55	stuprō	stuprāre	stuprāuī	stuprātu
-	55	stuprō	stuprāre	stuprāuī	stuprātum
-
 55	prehensō	prehensāre	prehensāuī	prehensātu
-	55	prehensō	prehensāre	prehensāuī	prehensātum
-
 54	prūriō	prūrīre	prūrīuī	-
-	54	prūriō	prūrīre	prūrīuī	-
-
 54	lymphō	lymphāre	lymphāuī	lymphātu
-	54	lymphō	lymphāre	lymphāuī	lymphātum
-
 54	flagellō	flagellāre	flagellāuī	flagellātu
-	54	flagellō	flagellāre	flagellāuī	flagellātum
-
 54	fulgurō	fulgurāre	fulgurāuī	fulgurātu
-	54	fulgurō	fulgurāre	fulgurāuī	fulgurātum
-
 54	uolūtō	uolūtāre	uolūtāuī	uolūtātu
-	54	uolūtō	uolūtāre	uolūtāuī	uolūtātum
-
 53	futuō	futuere	futuī	futūtu
-	53	futuō	futuere	futuī	futūtum
-
 53	beō	beāre	beāuī	beātu
-	53	beō	beāre	beāuī	beātum
-
 53	iēiūnō	iēiūnāre	iēiūnāuī	iēiūnātu
-	53	iēiūnō	iēiūnāre	iēiūnāuī	iēiūnātum
-
 53	pauperō	pauperāre	pauperāuī	pauperātu
-	53	pauperō	pauperāre	pauperāuī	pauperātum
-
 52	sorbeō	sorbēre	sorbuī	sorptu
-	14	resorbeō	resorbēre	resorbuī	resorptum
-	26	absorbeō	absorbēre	absorbuī	absorptum
-	5	obsorbeō	obsorbēre	obsorbuī	obsorptum
-	7	exsorbeō	exsorbēre	exsorbuī	exsorptum
-
 52	saturō	saturāre	saturāuī	saturātu
-	46	saturō	saturāre	saturāuī	saturātum
-	6	exsaturō	exsaturāre	exsaturāuī	exsaturātum
-
 52	fūtō	fūtāre	fūtāuī	fūtātu
-	35	refūtō	refūtāre	refūtāuī	refūtātum
-	17	cōnfūtō	cōnfūtāre	cōnfūtāuī	cōnfūtātum
-
 51	epulō	epulāre	-	epulātu
-	51	epulor	epulārī	-	epulātus sum
-
 51	ticipō	ticipāre	ticipāuī	ticipātu
-	7	anticipō	anticipāre	anticipāuī	anticipātum
-	44	participō	participāre	participāuī	participātum
-
 50	aboleō	abolēre	abolēuī	abolitu
-	50	aboleō	abolēre	abolēuī	abolitum
-
 50	intimō	intimāre	intimāuī	intimātu
-	50	intimō	intimāre	intimāuī	intimātum
-
 50	uapōrō	uapōrāre	uapōrāuī	uapōrātu
-	50	uapōrō	uapōrāre	uapōrāuī	uapōrātum
-
 50	nsō	nsāre	nsāuī	nsātu
-	45	dēfensō	dēfensāre	dēfensāuī	dēfensātum
-	5	offēnsō	offēnsāre	offēnsāuī	offēnsātum
-
 50	luxō	luxāre	luxāuī	luxātu
-	50	luxō	luxāre	luxāuī	luxātum
-
 49	superbiō	superbīre	superbīuī	-
-	49	superbiō	superbīre	superbīuī	-
-
 49	parturiō	parturīre	parturīuī	parturītu
-	49	parturiō	parturīre	parturīuī	parturītum
-
 49	adipīscō	adipīscere	-	adeptu
-	49	adipīscor	adipīscī	-	adeptus sum
-
 49	philosophō	philosophāre	-	philosophātu
-	49	philosophor	philosophārī	-	philosophātus sum
-
 48	expergīscō	expergīscere	-	experrectu
-	48	expergīscor	expergīscī	-	experrectus sum
-
 48	ringō	ringere	-	rictu
-	48	ringor	ringī	-	rictus sum
-
 48	cinō	cinere	cinuī	centu
-	14	praecinō	praecinere	praecinuī	praecentum
-	34	concinō	concinere	concinuī	-
-
 47	gliscō	-	-	-
-	47	gliscō	-	-	-
-
 47	titubō	titubāre	titubāuī	titubātu
-	47	titubō	titubāre	titubāuī	titubātum
-
 47	caecō	caecāre	caecāuī	caecātu
-	6	caecō	caecāre	caecāuī	caecātum
-	8	obcaecō	obcaecāre	obcaecāuī	obcaecātum
-	13	occaecō	occaecāre	occaecāuī	occaecātum
-	20	excaecō	excaecāre	excaecāuī	excaecātum
-
 47	prōflīgō	prōflīgāre	prōflīgāuī	prōflīgātu
-	47	prōflīgō	prōflīgāre	prōflīgāuī	prōflīgātum
-
 47	sopōrō	sopōrāre	sopōrāuī	sopōrātu
-	47	sopōrō	sopōrāre	sopōrāuī	sopōrātum
-
 47	salīuō	salīuāre	-	salīuātu
-	47	salīuō	salīuāre	-	salīuātum
-
 46	perciō	percīre	percīuī	percītu
-	46	perciō	percīre	percīuī	percītum
-
-46	ināniō	ināīre	inānīuī	inānītu
-	34	exināniō	exinānire	exinānīuī	exinānītum
-	12	ināniō	inānīre	inānīuī	inānītum
-
+46	āniō	ānīre	ānīuī	ānītu
 46	nūtrīcō	nūtrīcāre	nūtrīcāuī	nūtrīcātu
-	46	nūtrīcō	nūtrīcāre	nūtrīcāuī	nūtrīcātum
-
 46	uīndēmiō	uīndēmiāre	uīndēmiāuī	uīndēmiātu
-	46	uīndēmiō	uīndēmiāre	uīndēmiāuī	uīndēmiātum
-
 46	effēminō	effēmināre	effēmināuī	effēminātu
-	46	effēminō	effēmināre	effēmināuī	effēminātum
-
 46	intonō	intonāre	intonuī	intonātu
-	46	intonō	intonāre	intonuī	intonātum
-
 46	tiōnō	tiōnāre	-	tiōnātu
-	4	auctiōnor	auctiōnārī	-	auctiōnātus sum
-	42	cōntiōnor	cōntiōnārī	-	cōntiōnātus sum
-
 46	stercorō	stercorāre	stercorāuī	stercorātu
-	46	stercorō	stercorāre	stercorāuī	stercorātum
-
 45	tābēscō	tābēscere	tābuī	-
-	38	tābēscō	tābēscere	tābuī	-
-	4	contābēscō	contābēscere	contābuī	-
-	3	extābēscō	extābēscere	extābuī	-
-
 45	nigrēscō	nigrēscere	nigruī	-
-	45	nigrēscō	nigrēscere	nigruī	-
-
 45	liquēscō	liquēscere	-	-
-	42	liquēscō	-	-	-
-	3	dēliquēscō	dēliquēscere	-	-
-
 45	fūcō	fūcāre	fūcāuī	fūcātu
-	45	fūcō	fūcāre	fūcāuī	fūcātum
-
 44	assentiō	assentīre	-	assēnsu
-	44	assentior	assentīrī	-	assēnsus sum
-
 44	prōmulgō	prōmulgāre	prōmulgāuī	prōmulgātu
-	44	prōmulgō	prōmulgāre	prōmulgāuī	prōmulgātum
-
 44	ōminō	ōmināre	-	ōminātu
-	13	ōminor	ōminārī	-	ōminātus sum
-	31	abōminor	abōminārī	-	abōminātus sum
-
 44	disparō	disparāre	disparāuī	disparātu
-	44	disparō	disparāre	disparāuī	disparātum
-
 44	domitō	domitāre	domitāuī	domitātu
-	44	domitō	domitāre	domitāuī	domitātum
-
 44	quaeritō	quaeritāre	quaeritāuī	quaeritātu
-	44	quaeritō	quaeritāre	quaeritāuī	quaeritātum
-
 44	inquiētō	inquiētāre	inquiētāuī	inquiētātu
-	44	inquiētō	inquiētāre	inquiētāuī	inquiētātum
-
 43	prandeō	prandēre	prandī	prānsu
-	43	prandeō	prandēre	prandī	prānsum
-
 43	līueō	līuēre	-	-
-	43	līueō	līuēre	-	-
-
 43	indāgō	indāgāre	indāgāuī	indāgātu
-	43	indāgō	indāgāre	indāgāuī	indāgātum
-
 42	haesitō	haesitāre	haesitāuī	haesitātu
-	42	haesitō	haesitāre	haesitāuī	haesitātum
-
 42	amplexō	amplexāre	-	amplexātu
-	42	amplexor	amplexārī	-	amplexātus sum
-
-41	haerēscō	haerēscēre	haesī	-
-	31	adhaerēscō	-	-	-
-	10	cohaerēscō	cohaerēscēre	cohaesī	-
-
+41	cohaerēscō	cohaerēscēre	cohaesī	-
 41	modulō	modulāre	-	modulātu
-	41	modulor	modulārī	-	modulātus sum
-
 41	cataplasmō	cataplasmāre	cataplasmāuī	cataplasmātu
-	41	cataplasmō	cataplasmāre	cataplasmāuī	cataplasmātum
-
 41	autumō	autumāre	autumāuī	autumātu
-	41	autumō	autumāre	autumāuī	autumātum
-
 41	temerō	temerāre	temerāuī	temerātu
-	41	temerō	temerāre	temerāuī	temerātum
-
 40	farciō	farcīre	farsī	fartu
-	37	farciō	farcīre	farsī	fartum
-	3	effarciō	effarcīre	effarsī	effartum
-
 40	lliciō	llicere	llexī	llectu
-	28	alliciō	allicere	allexī	allectum
-	8	pelliciō	pellicere	pellexī	pellectum
-	4	illiciō	illicere	illexī	illectum
-
 40	coāgulō	coāgulāre	coāgulāuī	coāgulātu
-	40	coāgulō	coāgulāre	coāgulāuī	coāgulātum
-
 40	exhālō	exhālāre	exhālāuī	exhālātu
-	40	exhālō	exhālāre	exhālāuī	exhālātum
-
 40	concinnō	concinnāre	concinnāuī	concinnātu
-	40	concinnō	concinnāre	concinnāuī	concinnātum
-
 40	serrō	serrāre	serrāuī	serrātu
-	40	serrō	serrāre	serrāuī	serrātum
-
 39	bacchō	bacchāre	-	bacchātu
-	36	bacchor	bacchārī	-	bacchātus sum
-	3	dēbacchor	dēbacchārī	-	dēbacchātus sum
-
 39	populō	populāre	-	pulātu
-	7	populor	populārī	-	populātus sum
-	32	dēpopulor	dēpopulārī	-	dēpopulāuī
-
 39	arietō	arietāre	arietāuī	arietātu
-	39	arietō	arietāre	arietāuī	arietātum
-
 39	quirītō	quirītāre	quirītāuī	quirītātu
-	39	quirītō	quirītāre	quirītāuī	quirītātum
-
 38	sarciō	sarcīre	sarsī	sartu
-	38	sarciō	sarcīre	sarsī	sartum
-
 38	candēscō	candēscere	canduī	-
-	5	incandēscō	incandēscere	incanduī	-
-	33	excandēscō	excandēscere	excanduī	-
-
 38	solēscō	solēscere	solēuī	solētu
-	35	obsolēscō	obsolēscere	obsolēuī	obsolētum
-	3	īnsolēscō	īnsolēscere	-	-
-
 38	uānēscō	uānēscere	uānuī	-
-	11	uānēscō	uānēscere	uānuī	-
-	27	ēuānēscō	ēuānēscere	ēuānuī	-
-
 38	mītēscō	-	-	-
-	38	mītēscō	-	-	-
-
 38	fricō	fricāre	fricāuī	fricātu
-	14	cōnfricō	cōnfricāre	cōnfricāuī	cōnfricātum
-	24	dēfricō	dēfricāre	dēfricāuī	dēfricātum
-
 38	piscō	piscāre	-	piscātu
-	35	piscor	piscārī	-	piscātus sum
-	3	expiscor	expiscārī	-	expiscātus sum
-
 38	īnstīgō	īnstīgāre	īnstīgāuī	īnstīgātu
-	38	īnstīgō	īnstīgāre	īnstīgāuī	īnstīgātum
-
 38	imperitō	imperitāre	imperitāuī	imperitātu
-	38	imperitō	imperitāre	imperitāuī	imperitātum
-
 38	factitō	factitāre	factitāuī	factitātu
-	38	factitō	factitāre	factitāuī	factitātum
-
 37	pūbēscō	pūbēscere	pūbuī	-
-	37	pūbēscō	pūbēscere	pūbuī	-
-
 37	cūdō	cūdere	cūdī	cūsu
-	9	cūdō	cūdere	cūdī	cūsum
-	18	excūdō	excūdere	excūdī	excūsum
-	10	prōcūdō	prōcūdere	prōcūdī	prōcūsum
-
 37	renīdeō	renīdēre	renīduī	-
-	37	renīdeō	renīdēre	renīduī	-
-
 37	explānō	explānāre	explānāuī	explānātu
-	37	explānō	explānāre	explānāuī	explānātum
-
 37	resupīnō	resupīnāre	resupīnāuī	resupīnātu
-	37	resupīnō	resupīnāre	resupīnāuī	resupīnātum
-
 37	hilarō	hilarāre	hilarāuī	hilarātu
-	27	hilarō	hilarāre	hilarāuī	hilarātum
-	10	exhilarō	exhilarāre	exhilarāuī	exhilarātum
-
 37	latitō	latitāre	latitāuī	latitātu
-	37	latitō	latitāre	latitāuī	latitātum
-
 37	taxō	taxāre	taxāuī	taxātu
-	37	taxō	taxāre	taxāuī	taxātum
-
 36	uagō	uagāre	-	uagātu
-	6	uagor	uagārī	-	uagātus sum
-	30	peruagor	peruagārī	-	peruagātus sum
-
 36	decuriō	decuriāre	decuriāuī	decuriātu
-	36	decuriō	decuriāre	decuriāuī	decuriātum
-
 36	gelō	gelāre	gelāuī	gelātu
-	36	gelō	gelāre	gelāuī	gelātum
-
 36	rutilō	rutilāre	rutilāuī	rutilātu
-	36	rutilō	rutilāre	rutilāuī	rutilātum
-
 36	dēlīrō	dēlīrāre	dēlīrāuī	-
-	36	dēlīrō	dēlīrāre	dēlīrāuī	-
-
 36	adiūtō	adiūtāre	adiūtāuī	adiūtātu
-	36	adiūtō	adiūtāre	adiūtāuī	adiūtātum
-
 35	rigēscō	rigēscere	riguī	-
-	26	rigēscō	rigēscere	riguī	-
-	9	obrigēscō	obrigēscere	obriguī	-
-
 35	dēlitēscō	dēlitēscere	dēlituī	-
-	35	dēlitēscō	dēlitēscere	dēlituī	-
-
 35	reminīscō	reminīscere	-	rementu
-	35	reminīscō	reminīscere	-	rementum
-
 35	albeō	albēre	-	-
-	35	albeō	albēre	-	-
-
 35	lōrīcō	lōrīcāre	lōrīcāuī	lōrīcātu
-	35	lōrīcō	lōrīcāre	lōrīcāuī	lōrīcātum
-
 35	uāpulō	uāpulāre	uāpulāuī	uāpulātu
-	35	uāpulō	uāpulāre	uāpulāuī	uāpulātum
-
 35	ructō	ructāre	ructāuī	ructātu
-	17	ructō	ructāre	ructāuī	ructātum
-	18	ēructō	ēructāre	ēructāuī	ēructātum
-
 35	incestō	incestāre	incestāuī	incestātu
-	35	incestō	incestāre	incestāuī	incestātum
-
 34	sūgō	sūgere	suxī	suctu
-	22	sūgō	sūgere	suxī	suctum
-	12	exsūgō	exsūgere	exsuxī	exsuctum
-
 34	incessō	incessere	incessīuī	incessu
-	34	incessō	incessere	incessīuī	incessum
-
 34	recubō	recubāre	recubāuī	recubātu
-	34	recubō	recubāre	recubāuī	recubātum
-
 34	mendīcō	mendīcāre	mendīcāuī	mendīcātu
-	34	mendīcō	mendīcāre	mendīcāuī	mendīcātum
-
 34	profānō	profānāre	profānāuī	profānātu
-	34	profānō	profānāre	profānāuī	profānātum
-
 34	peregrīnō	peregrīnāre	-	peregrīnātu
-	34	peregrīnor	peregrīnārī	-	peregrīnātus sum
-
 34	integrō	integrāre	integrāuī	integrātu
-	20	integrō	integrāre	integrāuī	integrātum
-	14	redintegrō	redintegrāre	redintegrāuī	redintegrātum
-
 34	uēnditō	uēnditāre	uēnditāuī	uēnditātu
-	34	uēnditō	uēnditāre	uēnditāuī	uēnditātum
-
 33	coalēscō	coalēscere	coaluī	coalitu
-	33	coalēscō	coalēscere	coaluī	coalitum
-
 33	sānēscō	sānēscere	sānuī	-
-	30	sānēscō	-	-	-
-	3	cōnsānēscō	cōnsānēscere	cōnsānuī	-
-
 33	frendō	frendere	frenduī	fresu
-	33	frendō	frendere	frenduī	fresum
-
 33	intremō	intremere	intremuī	-
-	33	intremō	intremere	intremuī	-
-
 33	praeuertō	praeuertere	praeuertī	praeuertu
-	33	praeuertō	praeuertere	praeuertī	praeuertum
-
 33	clueō	cluēre	-	-
-	33	clueō	cluēre	-	-
-
 33	rubrīcō	rubrīcāre	rubrīcāuī	rubrīcātu
-	33	rubrīcō	rubrīcāre	rubrīcāuī	rubrīcātum
-
 33	pastinō	pastināre	pastināuī	pastinātu
-	33	pastinō	pastināre	pastināuī	pastinātum
-
 33	coagmentō	coagmentāre	coagmentāuī	coagmentātu
-	33	coagmentō	coagmentāre	coagmentāuī	coagmentātum
-
 33	rēptō	rēptāre	rēptāuī	rēptātu
-	33	rēptō	rēptāre	rēptāuī	rēptātum
-
 32	dēsipiō	dēsipere	dēsipuī	-
-	32	dēsipiō	dēsipere	dēsipuī	-
-
 32	plectō	plectere	plexī	plexu
-	28	plectō	plectere	plexī	plexum
-	4	circumplectō	circumplectere	circumplexī	circumplexum
-
 32	occō	occāre	occāuī	occātu
-	32	occō	occāre	occāuī	occātum
-
 32	nculcō	nculcāre	nculcāuī	nculcātu
-	28	inculcō	inculcāre	inculcāuī	inculcātum
-	4	conculcō	conculcāre	conculcāuī	conculcātum
-
 32	solidō	solidāre	solidāuī	solidātu
-	32	solidō	solidāre	solidāuī	solidātum
-
 32	migō	migāre	migāuī	migātu
-	26	rēmigō	rēmigāre	rēmigāuī	rēmigātum
-	6	fūmigō	fūmigāre	fūmigāuī	fūmigātum
-
 32	leuigō	leuigāre	leuigāuī	leuigātu
-	16	leuigō	leuigāre	leuigāuī	leuigātum
-	16	lēuigō	lēuigāre	lēuigāuī	lēuigātum
-
 31	lingō	lingere	linxī	linctu
-	27	lingō	lingere	linxī	linctum
-	4	dēlingō	dēlingere	dēlinxī	dēlinctum
-
 31	taliō	taliāre	taliāuī	taliātu
-	31	taliō	taliāre	taliāuī	taliātum
-
 31	breuiō	breuiāre	breuiāuī	breuiātu
-	31	breuiō	breuiāre	breuiāuī	breuiātum
-
 31	circulō	circulāre	circulāuī	circulātu
-	31	circulō	circulāre	circulāuī	circulātum
-
 31	territō	territāre	territāuī	territātu
-	31	territō	territāre	territāuī	territātum
-
 31	cōnflictō	cōnflictāre	cōnflictāuī	cōnflictātu
-	31	cōnflictō	cōnflictāre	cōnflictāuī	cōnflictātum
-
 30	pallēscō	pallēscere	palluī	-
-	16	pallēscō	pallēscere	palluī	-
-	14	expallēscō	expallēscere	expalluī	-
-
 30	obmūtēscō	obmūtēscere	obmūtuī	-
-	30	obmūtēscō	obmūtēscere	obmūtuī	-
-
 30	praecellō	praecellere	praeculī	praecelsu
-	30	praecellō	praecellere	praeculī	praecelsum
-
 30	scopō	scopere	-	-
-	30	scopō	scopere	-	-
-
 30	frāgō	frāgāre	frāgāuī	frāgātu
-	23	suffrāgō	suffrāgāre	suffrāgāuī	suffrāgātum
-	7	rēfrāgor	rēfrāgārī	-	rēfrāgātus sum
-
 30	aurīgō	aurīgāre	aurīgāuī	aurīgātu
-	30	aurīgō	aurīgāre	aurīgāuī	aurīgātum
-
 30	pullō	pullāre	pullāuī	pullātu
-	30	pullō	pullāre	pullāuī	pullātum
-
 30	scōpō	scōpāre	scōpāuī	scōpātu
-	30	scōpō	scōpāre	scōpāuī	scōpātum
-
 30	exūberō	exūberāre	exūberāuī	exūberātu
-	30	exūberō	exūberāre	exūberāuī	exūberātum
-
 30	fermentō	fermentāre	fermentāuī	fermentātu
-	30	fermentō	fermentāre	fermentāuī	fermentātum
-
 29	tinniō	tinnīre	tinnīuī	tinnītu
-	29	tinniō	tinnīre	tinnīuī	tinnītum
-
 29	augēscō	-	-	-
-	29	augēscō	-	-	-
-
 29	strīdō	strīdere	strīdī	-
-	29	strīdō	strīdere	strīdī	-
-
 29	pangō	pangere	pigī	pāctu
-	25	pangō	pangere	pepigī	pāctum
-	4	dēpangō	dēpangere	dēpegī	dēpactum
-
 29	facessō	facessere	facessī	facessītu
-	29	facessō	facessere	facessī	facessītum
-
 29	pluō	pluere	pluī	-
-	29	pluō	pluere	pluī	-
+29	adminiculō	adminiculāre	adminiculāuī	adminiculātu
+29	lēctitō	lēctitāre	lēctitāuī	lēctitātu
+28	garriō	garrīre	garrīuī	garritu
+28	albēscō	albēscere	albuī	-
+28	patēscō	patēscere	patuī	-
+28	plēctō	plēctere	plexī	plexu
+28	peruolō	peruelle	peruoluī	peruolātu
+27	marcēscō	-	-	-
+27	stertō	stertere	stertuī	-

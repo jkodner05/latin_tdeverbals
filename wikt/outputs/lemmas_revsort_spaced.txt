@@ -198,20 +198,18 @@
 
 3	pistō	pistāre	pistāuī	pistātum
 
-85	superstō	superstāre	superstetī	superstātum
-79	perstō	perstāre	perstitī	perstātum
-1453	cōnstō	cōnstāre	cōnstitī	cōnstātum
-509	īnstō	īnstāre	īnstitī	īnstātum
-87	circumstō	circumstāre	circumstetī	circumstātum
-
-357	obstō	obstāre	obstitī	obstātum
 
 22	prōstō	prōstāre	prōstitī	prōstitum
 1511	praestō	praestāre	praestitī	praestitum
 178	astō	astāre	astetī	astatum
 2304	stō	stāre	stetī	statum
-
-424	restō	restāre	restitī	restātum
+85	superstō	superstāre	superstetī	superstatum
+79	perstō	perstāre	perstitī	perstatum
+1453	cōnstō	cōnstāre	cōnstitī	cōnstatum
+509	īnstō	īnstāre	īnstitī	īnstatum
+87	circumstō	circumstāre	circumstetī	circumstatum
+357	obstō	obstāre	obstitī	obstatum
+424	restō	restāre	restitī	restatum
 
 6	fūnestō	fūnestāre	fūnestāuī	fūnestātum
 
@@ -1438,11 +1436,12 @@
 
 28	peruolō	peruelle	peruoluī	peruolātum
 
+7885	uolō	uelle	uoluī	-
+
 12	prōuolō	prōuolāre	prōuolāuī	prōuolātum
 14	dēuolō	dēuolāre	dēuolāuī	dēuolātum
 51	ēuolō	ēuolāre	ēuolāuī	ēuolātum
 11	āuolō	āuolāre	āuolāuī	āuolātum
-7885	uolō	uolāre	uolāuī	uolātum
 12	trānsuolō	trānsuolāre	trānsuolāuī	trānsuolātum
 8	praeteruolō	praeteruolāre	praeteruolāuī	praeteruolātum
 28	peruolō	peruolāre	peruolāuī	peruolātum
@@ -3202,6 +3201,7 @@
 1945	morior	morī	-	mortuus sum
 
 2661	pariō	parere	peperī	partum
+1002	aperiō	aperīre	aperuī	apertum
 
 3	discupiō	discupere	discupīuī	discupītum
 58	concupiō	concupere	concupīuī	concupītum
@@ -3243,12 +3243,12 @@
 7	subterfugiō	subterfugere	subterfūgī	-
 52	perfugiō	perfugere	perfūgī	-
 183	refugiō	refugere	refūgī	-
-16	dēfugiō	dēfugere	dēfūgī	dēfugitum
-30	trānsfugiō	trānsfugere	trānsfūgī	trānsfugitum
-160	cōnfugiō	cōnfugere	cōnfūgī	cōnfugitum
-58	diffugiō	diffugere	diffūgī	diffūgitum
-367	effugiō	effugere	effūgī	effugitum
-1692	fugiō	fugere	fūgī	fugitum
+16	dēfugiō	dēfugere	dēfūgī	-
+30	trānsfugiō	trānsfugere	trānsfūgī	-
+160	cōnfugiō	cōnfugere	cōnfūgī	-
+58	diffugiō	diffugere	diffūgī	-
+367	effugiō	effugere	effūgī	-
+1692	fugiō	fugere	fūgī	-
 
 78	dēfodiō	dēfodere	dēfōdī	dēfossum
 12	trānsfodiō	trānsfodere	trānsfōdī	trānsfossum
@@ -3512,14 +3512,13 @@
 11	affingō	affingere	affinxī	affictum
 665	fingō	fingere	finxī	fictum
 
-21	discingō	discingere	discinxī	discinctum
-21	incingō	incingere	incinxī	incinctum
-42	praecingō	praecingere	praecinxī	praecinctum
-63	succingō	succingere	succinxī	succinctum
-45	accingō	accingere	accinxī	accinctum
-1238	recingō	recingere	recinxī	recinctum
-380	cingō	cingere	cinxī	cinctum
-
+21	discingō	discingere	discīnxī	discinctum
+21	incingō	incingere	incīnxī	incinctum
+42	praecingō	praecingere	praecīnxī	praecinctum
+63	succingō	succingere	succīnxī	succinctum
+45	accingō	accingere	accīnxī	accinctum
+1238	recingō	recingere	recīnxī	recinctum
+380	cingō	cingere	cīnxī 	cinctum
 
 963	frangō	frangere	frēgī	frāctum
 
@@ -3618,8 +3617,6 @@
 18	excūdō	excūdere	excūdī	excūsum
 9	cūdō	cūdere	cūdī	cūsum
 
-874	prōdō	prōdere	prōdidī	prōditum
-
 54	ērōdō	ērōdere	ērōsī	ērōsum
 6	corrōdō	corrōdere	corrōsī	corrōsum
 256	rōdō	rōdere	rōsī	rōsum
@@ -3645,6 +3642,7 @@
 90	diffīdō	diffīdere	-	diffīsus sum
 593	fīdō	fīdere	-	fīsus sum
 
+1158	caedō	caedere	cecīdī	caesum
 246	dēcīdō	dēcīdere	dēcīdī	dēcīsum
 332	excīdō	excīdere	excīdī	excīsum
 152	abscīdō	abscīdere	abscīdī	abscīsum
@@ -3657,12 +3655,8 @@
 769	accīdō	accīdere	accīdī	accīsum
 166	recīdō	recīdere	recīdī	recīsum
 
-24	concrēdō	concrēdere	concrēdidī	concrēditum
-3373	crēdō	crēdere	crēdidī	crēditum
 
 586	pēdō	pēdere	pepēdī	pēditum
-
-534	dēdō	dēdere	dēdidī	dēditum
 
 554	prōcēdō	prōcēdere	prōcessī	prōcessum
 130	sēcēdō	sēcēdere	sēcessī	sēcessum
@@ -3681,7 +3675,18 @@
 519	recēdō	recēdere	recessī	recessum
 1277	cēdō	cēdere	cessī	cessum
 
+1885	trādō	trādere	trādidī	trāditum
+874	prōdō	prōdere	prōdidī	prōditum
+24	concrēdō	concrēdere	concrēdidī	concrēditum
+3373	crēdō	crēdere	crēdidī	crēditum
+534	dēdō	dēdere	dēdidī	dēditum
 18478	ēdō	ēdere	ēdidī	ēditum
+973	indō	indere	indidī	inditum
+4	superaddō	superaddere	superaddidī	superadditum
+1551	addō	addere	addidī	additum
+160	subdō	subdere	subdidī	subditum
+11	obdō	obdere	obdidī	obditum
+180	abdō	abdere	abdidī	abditum
 
 287	ēuādō	ēuādere	ēuāsī	ēuāsum
 22	peruādō	peruādere	peruāsī	peruāsum
@@ -3693,8 +3698,6 @@
 4	circumrādō	circumrādere	circumrāsī	circumrāsum
 9	abrādō	abrādere	abrāsī	abrāsum
 128	rādō	rādere	rāsī	rāsum
-
-1885	trādō	trādere	trādidī	trāditum
 
 226	rudō	rudere	rudīuī	rudītum
 
@@ -3747,9 +3750,6 @@
 62	rescindō	rescindere	rescidī	rescissum
 16	abscindō	abscindere	abscidī	abscissum
 145	scindō	scindere	scidī	scissum
-
-973	indō	indere	indidī	inditum
-
 
 232	extendō	extendere	extendī	extentum
 152	attendō	attendere	attendī	attentum
@@ -3811,8 +3811,6 @@
 
 575	laedō	laedere	laesī	laesum
 
-1158	caedō	caedere	cecīdī	caesum
-
 18478	edō	edere	ēdī	ēsum
 86	exedō	exedere	exēdī	exēsum
 11	peredō	peredere	peredī	peresum
@@ -3821,12 +3819,6 @@
 4	ambedō	ambedere	ambēdī	ambēsum
 
 2211	reddō	reddere	reddidī	redditum
-
-4	superaddō	superaddere	superaddidī	superadditum
-1551	addō	addere	addidī	additum
-160	subdō	subdere	subdidī	subditum
-11	obdō	obdere	obdidī	obditum
-180	abdō	abdere	abdidī	abditum
 
 332	excidō	excidere	excidī	-
 60	concidō	concidere	concidī	-
@@ -4277,7 +4269,6 @@
 189	comperiō	comperīre	comperī	compertum
 1075	reperiō	reperīre	repperī	repertum
 34	adaperiō	adaperīre	adaperuī	adapertum
-1002	aperiō	aperīre	aperuī	apertum
 
 626	feriō	ferīre	ferīuī	ferītum
 
