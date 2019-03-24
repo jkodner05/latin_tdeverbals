@@ -21,7 +21,7 @@
 5778	sciō	scīre	scīuī	scītu
 5452	cadō	cadere	cecidī	cāsu
 5259	uocō	uocāre	uocāuī	uocātu
-5224	sequor	sequī	-	secūtu
+5224	sequō	sequere	-	secūtu
 5141	putō	putāre	putāuī	putātu
 5105	fīō	fierere	-	factu
 4937	pellō	pellere	pulī	pulsu
@@ -79,8 +79,8 @@
 2152	seruō	seruāre	seruāuī	seruātu
 2112	moriō	morere	-	mortuu
 2069	aiō	aiere	-	-
+2064	rumpō	rumpere	rūpī	ruptu
 2059	iungō	iungere	iūnxī	iūnctu
-2059	rumpō	rumpere	rūpī	ruptu
 2056	colō	colere	coluī	cultu
 1970	pleō	plēre	plēuī	plētu
 1965	oriō	orīre	-	ortu
@@ -88,7 +88,7 @@
 1928	pāreō	pārēre	pāruī	pāritu
 1922	intellegō	intellegere	intellēxī	intellēctu
 1912	gnōscō	gnōscere	gnōuī	gnitu
-1911	gradiō	gradere	-	gressu
+1911	gradiō	gradere	-	grassu
 1889	negō	negāre	negāuī	negātu
 1872	ualeō	ualēre	ualuī	ualitu
 1857	doceō	docēre	docuī	doctu
@@ -99,7 +99,7 @@
 1779	terō	terere	trīuī	trītu
 1775	nāscō	nāscere	-	nātu
 1773	sedeō	sedēre	sēdī	sessu
-1770	mō	mere	mī	mptu
+1770	emō	emere	emī	emptu
 1758	cōlō	cōlāre	cōlāuī	cōlātu
 1752	tollō	tollere	sustulī	sublātu
 1731	tegō	tegere	tēxī	tēctu
@@ -138,7 +138,7 @@
 1306	taceō	tacēre	tacuī	tacitu
 1301	tingō	tingere	tigī	tāctu
 1297	perō	perāre	perāuī	perātu
-1293	mō	mere	mpsī	mptu
+1293	emō	emere	empsī	emptu
 1289	animō	animāre	animāuī	animātu
 1282	cōnsulō	cōnsulere	cōnsuluī	cōnsultu
 1260	iaceō	iacēre	iacuī	iacitu
@@ -187,6 +187,7 @@
 951	tribuō	tribuere	tribuī	tribūtu
 943	multō	multāre	multāuī	multātu
 941	bibō	bibere	bibī	bibitu
+940	pendō	pendere	pendī	pēnsu
 938	rrō	rrāre	rrāuī	rrātu
 937	rīdeō	rīdēre	rīsī	rīsu
 933	fīgō	fīgere	fīxī	fīxu
@@ -207,7 +208,6 @@
 893	labōrō	labōrāre	labōrāuī	labōrātu
 892	noceō	nocēre	nocuī	nocitu
 890	nō	nāre	nāuī	-
-885	pendō	pendere	pendī	pēnsu
 880	līberō	līberāre	līberāuī	līberātu
 875	discō	discere	didicī	discitu
 871	quiēscō	quiēscere	quiēuī	quiētu
@@ -248,7 +248,6 @@
 747	praebeō	praebēre	praebuī	praebitu
 747	ctō	ctāre	ctāuī	ctātu
 746	flōreō	flōrēre	flōruī	-
-742	pendeō	pendēre	pendī	prōpēnsu
 739	spargō	spargere	sparsī	sparsu
 737	condō	condere	condidī	conditu
 734	circō	circāre	circāuī	circātu
@@ -266,6 +265,7 @@
 697	seruiō	seruīre	seruīuī	seruītu
 695	morō	morāre	-	morātu
 693	domō	domāre	domuī	domitu
+687	pendeō	pendēre	pendī	-
 687	narrō	narrāre	narrāuī	narrātu
 678	lectō	lectāre	lectāuī	lectātu
 671	hauriō	haurīre	hausī	haustu
@@ -660,7 +660,7 @@
 133	timēscō	timēscere	timuī	-
 132	augurō	augurāre	augurāuī	augurātu
 129	liquō	liquāre	liquāuī	liquātu
-128	puō	puere	puī	pūtu
+128	spuō	spuere	spuī	spūtu
 128	adoleō	adolēre	adoluī	adultu
 128	gregō	gregāre	gregāuī	gregātu
 127	scīscō	scīscere	scīuī	scītu

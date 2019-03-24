@@ -3274,8 +3274,7 @@
 	1419	respondeō	respondēre	respondī	respōnsum
 	119	spondeō	spondēre	spopondī	spōnsum
 
-742	pendeō	pendēre	pendī	prōpēnsu
-	55	prōpendeō	prōpendēre	prōpendī	prōpēnsum
+687	pendeō	pendēre	pendī	-
 	47	dēpendeō	dēpendēre	dēpendī	-
 	50	impendeō	impendēre	-	-
 	590	pendeō	pendēre	pependī	-
@@ -3538,7 +3537,7 @@
 	2547	relinquō	relinquere	relīquī	relictum
 	300	linquō	linquere	līquī	līctum
 
-5224	sequor	sequī	-	secūtu
+5224	sequō	sequere	-	secūtu
 	191	prōsequor	prōsequī	-	prōsecūtus sum
 	107	exsequor	exsequī	-	exsecūtus sum
 	193	assequor	assequī	-	assecūtus sum
@@ -3555,7 +3554,7 @@
 14	dēspuō	-	-	-
 	14	dēspuō	-	-	-
 
-128	puō	puere	puī	pūtu
+128	spuō	spuere	spuī	spūtu
 	4	expuō	expuere	expuī	exputum
 	6	exspuō	exspuere	exspuī	exsputum
 	4	cōnspuō	cōnspuere	cōnspuī	cōnspūtum
@@ -3946,10 +3945,8 @@
 30	scopō	scopere	-	-
 	30	scopō	scopere	-	-
 
-5	intrōrumpō	intrōrumpere	intrōrūpī	intrōruptu
+2064	rumpō	rumpere	rūpī	ruptu
 	5	intrōrumpō	intrōrumpere	intrōrūpī	intrōruptum
-
-2059	rumpō	rumpere	rūpī	ruptu
 	64	prōrumpō	prōrumpere	prōrūpī	prōruptum
 	18	dīrumpō	dīrumpere	dīrūpī	dīruptum
 	275	ērumpō	ērumpere	ērūpī	ēruptum
@@ -4060,14 +4057,14 @@
 	17	ēuomō	ēuomere	ēuomuī	ēuomitum
 	225	uomō	uomere	uomuī	uomitum
 
-1293	mō	mere	mpsī	mptu
+1293	emō	emere	empsī	emptu
 	30	dēprōmō	dēprōmere	dēprompsī	dēpromptum
 	56	exprōmō	exprōmere	exprōmpsī	exprōmptum
 	115	prōmō	prōmere	prōmpsī	prōmptum
 	768	cōmō	cōmere	cōmpsi	cōmptum
 	324	dēmō	dēmere	dēmpsī	dēmptum
 
-1770	mō	mere	mī	mptu
+1770	emō	emere	emī	emptu
 	709	emō	emere	ēmī	ēmptum
 	330	eximō	eximere	exēmī	exemptum
 	192	interimō	interimere	interimī	interemptum
@@ -4257,7 +4254,7 @@
 	3	subfodiō	subfodere	subfōdī	subfossum
 	374	fodiō	fodere	fōdī	fossum
 
-1911	gradiō	gradere	-	gressu
+1911	gradiō	gradere	-	grassu
 	141	prōgredior	prōgredī	-	prōgressus sum
 	105	dīgredior	dīgredī	-	dīgressus sum
 	27	dēgredior	dēgredī	-	dēgressus sum
@@ -4853,7 +4850,8 @@
 33	frendō	frendere	frenduī	fresu
 	33	frendō	frendere	frenduī	fresum
 
-885	pendō	pendere	pendī	pēnsu
+940	pendō	pendere	pendī	pēnsu
+	55	prōpendeō	prōpendēre	prōpendī	prōpēnsum
 	75	dēpendō	dēpendere	dēpependī	dēpēnsum
 	70	expendō	expendere	expendī	expēnsum
 	353	suspendō	suspendere	suspendī	suspēnsum

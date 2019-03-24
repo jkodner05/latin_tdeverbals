@@ -15,16 +15,16 @@ outputdir="outputs"
 mkdir -p $outputdir
 
 #extract and collect the principle parts from the html files
-python3 verbs_to_tab.py $htmldir1 $outputdir/first_raw.txt
-python3 verbs_to_tab.py $htmldir2 $outputdir/second_raw.txt
-python3 verbs_to_tab.py $htmldir3 $outputdir/third_raw.txt
-python3 verbs_to_tab.py $htmldir4 $outputdir/fourth_raw.txt
+#python3 verbs_to_tab.py $htmldir1 $outputdir/first_raw.txt
+#python3 verbs_to_tab.py $htmldir2 $outputdir/second_raw.txt
+#python3 verbs_to_tab.py $htmldir3 $outputdir/third_raw.txt
+#python3 verbs_to_tab.py $htmldir4 $outputdir/fourth_raw.txt
 
-python3 reverse_sort.py $outputdir/first_raw.txt ../stats/verb_lemmacounts.txt $outputdir/first_lemmas_revsort.txt 3
-python3 reverse_sort.py $outputdir/second_raw.txt ../stats/verb_lemmacounts.txt $outputdir/second_lemmas_revsort.txt 3
-python3 reverse_sort.py $outputdir/third_raw.txt ../stats/verb_lemmacounts.txt $outputdir/third_lemmas_revsort.txt 3
-python3 reverse_sort.py $outputdir/fourth_raw.txt ../stats/verb_lemmacounts.txt $outputdir/fourth_lemmas_revsort.txt 3
-cat $outputdir/first_lemmas_revsort.txt $outputdir/second_lemmas_revsort.txt $outputdir/third_lemmas_revsort.txt $outputdir/fourth_lemmas_revsort.txt > $outputdir/lemmas_revsort_raw.txt
+#python3 reverse_sort.py $outputdir/first_raw.txt ../stats/verb_lemmacounts.txt $outputdir/first_lemmas_revsort.txt 3
+#python3 reverse_sort.py $outputdir/second_raw.txt ../stats/verb_lemmacounts.txt $outputdir/second_lemmas_revsort.txt 3
+#python3 reverse_sort.py $outputdir/third_raw.txt ../stats/verb_lemmacounts.txt $outputdir/third_lemmas_revsort.txt 3
+#python3 reverse_sort.py $outputdir/fourth_raw.txt ../stats/verb_lemmacounts.txt $outputdir/fourth_lemmas_revsort.txt 3
+#cat $outputdir/first_lemmas_revsort.txt $outputdir/second_lemmas_revsort.txt $outputdir/third_lemmas_revsort.txt $outputdir/fourth_lemmas_revsort.txt > $outputdir/lemmas_revsort_raw.txt
 
 ###### ### ## #
 ####

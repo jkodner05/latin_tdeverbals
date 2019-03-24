@@ -3003,7 +3003,6 @@
 30	scopō	scopere	-	-
 
 5	intrōrumpō	intrōrumpere	intrōrūpī	intrōruptum
-
 64	prōrumpō	prōrumpere	prōrūpī	prōruptum
 18	dīrumpō	dīrumpere	dīrūpī	dīruptum
 275	ērumpō	ērumpere	ērūpī	ēruptum
