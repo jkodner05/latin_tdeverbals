@@ -76,10 +76,12 @@ class TPHypothesisSet:
 
 
 def do_TP(N, e, disp=False):
-    if disp:
+    theta = 0
+    if N > 1:
         theta = N / log(N)
+    if disp:
         print("N:", N, "\ttheta:", round(theta,4), "\te:", e, "\t\t\t\t\ttolerable?", e < theta)
-    return e < N / log(N)
+    return e < theta
 
 def construct_TPtraditional():
     traditional = TPHypothesisSet("Traditional")
@@ -104,98 +106,165 @@ def construct_TPtraditional():
     return traditional
 
 def construct_TPpresent_rootsensitive():
-    pres_rs = TPHypothesisSet("Pres, Root Sensitive")
-    # 1st
-    pres_rs.add_hypothesis(pp2=r"āre", pp4=r"ātu")
-    # 2nd
-    pres_rs.add_hypothesis(pp2=r"ēre", pp4=r"itu")
-    pres_rs.add_hypothesis(pp2=r"ēre", pp4=r"[^aeiouāēīōū]([st])u")
-    # 3rd non-io
-    pres_rs.add_hypothesis(pp1=r"[^i]ō", pp2=r"ere", pp4=r"itu")
-    pres_rs.add_hypothesis(pp1=r"[^i]ō", pp2=r"ere", pp4=r"[^aeiouāēīōū]([st])u")
+    pres_rs = TPHypothesisSet("Present, Root Sensitive")
+    
+    # 2nd post velar
+    pres_rs.add_hypothesis(pp1 = "(c|g|h|(qu))eō", pp2=r"ēre", pp4=r"[^aeiouāēīōū]([st])u")
+    pres_rs.add_hypothesis(pp1 = "(c|g|h|(qu))eō", pp2=r"ēre", pp4=r"itu")
+    # 2nd otherwise
+    pres_rs.add_hypothesis(pp1 = "[^(c|g|h|(qu))]eō", pp2=r"ēre", pp4=r"[^aeiouāēīōū]([st])u")
+    pres_rs.add_hypothesis(pp1 = "[^(c|g|h|(qu))]eō", pp2=r"ēre", pp4=r"itu")
+    # 3rd u
+    pres_rs.add_hypothesis(pp1=r"uō", pp2=r"uere", pp4=r"ūtu")
+    # 3rd RR
+    pres_rs.add_hypothesis(pp1=r"(ll|rr)ō", pp2=r"ere", pp4=r"([lr]s)u")
+    # 3rd K-V-sc
+    pres_rs.add_hypothesis(pp1=r"[c|g|h][aeiouāēīōū]scō", pp2=r"[aeiouāēīōū]scere", pp4=r"([^aeiouāēīōū]t)u")
+    # 3rd V-sc
+    pres_rs.add_hypothesis(pp1=r"[^(c|g|h)][aeiouāēīōū]scō", pp2=r"scere", pp4=r"([aeiouāēīōū]t)u")
+    pres_rs.add_hypothesis(pp1=r"[^(c|g|h)][aeiouāēīōū]scō", pp2=r"[aeiouāēīōū]scere", pp4=r"itu")
     # 3rd-io
     pres_rs.add_hypothesis(pp1=r"iō", pp2=r"ere", pp4=r"itu")
     pres_rs.add_hypothesis(pp1=r"iō", pp2=r"ere", pp4=r"[^aeiouāēīōū]([st])u")
-    # 3rd all
-    pres_rs.add_hypothesis(pp2=r"ere", pp4=r"itu")
-    pres_rs.add_hypothesis(pp2=r"ere", pp4=r"[^aeiouāēīōū]([st])u")
-    # 4th
-    pres_rs.add_hypothesis(pp2=r"īre", pp4=r"ītu")
-    pres_rs.add_hypothesis(pp2=r"īre", pp4=r"itu")
-    pres_rs.add_hypothesis(pp2=r"īre", pp4=r"[^aeiouāēīōū]([st])u")
+    # 3rd otherwise
+    pres_rs.add_hypothesis(pp1=r"[^(ll|rr)][^iu]ō", pp2=r"ere", pp4=r"itu")
+    pres_rs.add_hypothesis(pp1=r"[^(ll|rr)][^iu]ō", pp2=r"ere", pp4=r"[^aeiouāēīōū]([st])u")
     return pres_rs
 
+def construct_TPperfect_rootsensitive():
+    perf_rs = TPHypothesisSet("Perfect, Root Sensitive")
+    # VVvi
+#    perf_rs.add_hypothesis(pp3=r"āuī", pp4=r"ātu")
+#    perf_rs.add_hypothesis(pp3=r"īuī", pp4=r"ītu")
+#    perf_rs.add_hypothesis(pp3=r"ēuī", pp4=r"ētu")
+#    perf_rs.add_hypothesis(pp3=r"[āīē]uī", pp4=r"[āīē]tu")
+    # evi itus
+#    perf_rs.add_hypothesis(pp3=r"ēuī", pp4=r"itu")
+    # ui
+#    perf_rs.add_hypothesis(pp3=r"([^āīē])uī", pp4=r"itu")
+#    perf_rs.add_hypothesis(pp3=r"([^āīē])uī", pp4=r"[^aeiouāēīōū]([st])u")
+    # ui post velar
+#    perf_rs.add_hypothesis(pp3 = "(c|g|h|q)uī", pp4=r"itu")
+#    perf_rs.add_hypothesis(pp3 = "(c|g|h|q)uī", pp4=r"[^aeiouāēīōū]([st])u")
+    # ui post non-velar
+#    perf_rs.add_hypothesis(pp3 = "([^(c|g|h|q|ā|ī|ē)])uī", pp4=r"itu")
+#    perf_rs.add_hypothesis(pp3 = "([^(c|g|h|q|ā|ī|ē)])uī", pp4=r"[^aeiouāēīōū]([st])u")
+    # si
+#    perf_rs.add_hypothesis(pp3=r"[xs]ī", pp4=r"[^aeiouāēīōū]([st])u")
+    # Csi 
+#    perf_rs.add_hypothesis(pp3=r"([^aeiouāēīōū])sī", pp4=r"[^aeiouāēīōū]([st])u")
+#    perf_rs.add_hypothesis(pp3=r"([^aeiouāēīōū]x)ī", pp4=r"[^aeiouāēīōū]([st])u")
+    # Vsi
+#    perf_rs.add_hypothesis(pp3=r"([aeiouāēīōū][xs])ī", pp4=r"([aeiouāēīōū][st])u")
+    # other stem change
+    perf_rs.add_hypothesis(pp3=r"([^usx])ī", pp4=r"[^aeiouāēīōū]([st])u")
+    return perf_rs
+
+
+
+def unmutate(matches):
+    unmutated = list(matches)
+
+    def unfinaldevoice(left, pptc):
+        if left[-1] == "b" and pptc[-2] == "p":
+            pptc = pptc[:-2] + "bt"
+        elif left[-1] == "g" and pptc[-2] == "c":
+            pptc = pptc[:-2] + "gt"
+        elif left[-1] == "h" and pptc[-2] == "c":
+            pptc = pptc[:-2] + "ht"
+        return left, pptc
+
+    def unclustersimplify(left, pptc):
+        if left[-1] == "m" and pptc[-3:-1] == "mp":
+            pptc = pptc[:-2] + "t"
+        elif left[-2:] == "rc" and pptc[-2:] == "rt":
+            pptc = pptc[:-1] + "ct"
+        elif left[-3:] == "rqu" and pptc[-2:] == "rt":
+            pptc = pptc[:-1] + "qut"
+        elif left[-2:] == "lc" and pptc[-2:] == "lt":
+            pptc = pptc[:-1] + "ct"
+        elif left[-2:] == "lg" and pptc[-2:] == "lt":
+            pptc = pptc[:-1] + "gt"
+        return left, pptc
+
+    if unmutated[-1]:
+        if unmutated[1]:
+            if unmutated[-1][-1] in ("s","t") and unmutated[1] != unmutated[-1]:
+                #undo s
+                if unmutated[1][-1] in ("t", "d") and unmutated[-1][-2:] == "ss":
+                    unmutated[-1] = unmutated[-1][:-2] + unmutated[1][-1] + "t"
+                if unmutated[1][-1] in ("t", "d") and unmutated[-1][-1] == "s":
+                    unmutated[-1] = unmutated[-1][:-1] + unmutated[1][-1] + "t"
+                #undo final devoicing
+                unmutated[1], unmutated[-1] = unfinaldevoice(unmutated[1], unmutated[-1])
+                #undo cluster simplification
+                unmutated[1], unmutated[-1] = unclustersimplify(unmutated[1], unmutated[-1])
+                #undo lengthening
+                for longv, shortv in (("ā","a"),("ē","e"),("ī","i"),("ō","o"),("ū","u")):
+                    replindex = unmutated[-1].rfind(longv)
+                    if len(unmutated[1]) > replindex and replindex >= 0 and unmutated[1][replindex] == shortv:
+                        unmutated[-1] = unmutated[-1][:replindex] + shortv + unmutated[-1][replindex+1:]
+
+        if unmutated[2]:
+            if unmutated[-1][-1] in ("s","t") and unmutated[2] != unmutated[-1]:
+                #decompose x
+                if unmutated[2][-1] == "x":
+                    unmutated[2] = unmutated[2][:-1] + "c"
+                #undo final devoicing
+                unmutated[2], unmutated[-1] = unfinaldevoice(unmutated[2], unmutated[-1])
+                #undo cluster simplification
+                unmutated[2], unmutated[-1] = unclustersimplify(unmutated[2], unmutated[-1])
+
+
+
+        #q
+        unmutated[-1] = unmutated[-1].replace("q","c")
+        unmutated[1] = unmutated[1].replace("q","c")
+        unmutated[2] = unmutated[2].replace("q","c")
+
+        if unmutated[-1][-1] in ("s","t") and unmutated[1] != unmutated[-1] and unmutated[2] != unmutated[-1]:
+            unmutated[-1] = unmutated[-1][:-1]
+
+    return unmutated
 
 
 def construct_TPHypothesisSets():
     hypothesis_sets = []
     hypothesis_sets.append(construct_TPtraditional())
     hypothesis_sets.append(construct_TPpresent_rootsensitive())
+    hypothesis_sets.append(construct_TPperfect_rootsensitive())
     return hypothesis_sets
 
 
-def unmutate(matches):
-    unmutated = list(matches)
-
-
-    if unmutated[1] and unmutated[-1]:
-#        if unmutated[-1][-2:] == "ss":
-#            print(unmutated[1], unmutated[-1], (unmutated[1][-1] != "t" and unmutated[1][-1] != "s"), (unmutated[-1][-1] == "t" or unmutated[-1][-1] == "s"))
-#        if (unmutated[1][-1] != "t" and unmutated[1][-1] != "s") and (unmutated[-1][-1] == "t" or unmutated[-1][-1] == "s"):
-        if unmutated[-1][-1] in ("s","t") and unmutated[1] != unmutated[-1]:
-#            if unmutated[-1][-2:] == "ss":
-#                print("got", unmutated[-1][-2:] == "ss", unmutated[1], unmutated[-1])
-            #undo s
-            if unmutated[1][-1] in ("t", "d") and unmutated[-1][-2:] == "ss":
-                unmutated[-1] = unmutated[-1][:-2] + unmutated[1][-1] + "t"
-            if unmutated[1][-1] in ("t", "d") and unmutated[-1][-1] == "s":
-                unmutated[-1] = unmutated[-1][:-1] + unmutated[1][-1] + "t"
-
-            #undo final devoicing
-            if unmutated[1][-1] == "b" and unmutated[-1][-2] == "p":
-                unmutated[-1] = unmutated[-1][:-2] + "bt"
-            elif unmutated[1][-1] == "g" and unmutated[-1][-2] == "c":
-                unmutated[-1] = unmutated[-1][:-2] + "gt"
-            elif unmutated[1][-1] == "h" and unmutated[-1][-2] == "c":
-                unmutated[-1] = unmutated[-1][:-2] + "ht"
-            #undo cluster simplification
-            if unmutated[1][-1] == "m" and unmutated[-1][-3:-1] == "mp":
-                unmutated[-1] = unmutated[-1][:-2] + "t"
-            elif unmutated[1][-2:] == "rc" and unmutated[-1][-2:] == "rt":
-                unmutated[-1] = unmutated[-1][:-1] + "ct"
-            elif unmutated[1][-2:] == "lc" and unmutated[-1][-2:] == "lt":
-                unmutated[-1] = unmutated[-1][:-1] + "ct"
-            elif unmutated[1][-2:] == "lg" and unmutated[-1][-2:] == "lt":
-                unmutated[-1] = unmutated[-1][:-1] + "gt"
-
-            #undo lengthening
-            for longv, shortv in (("ā","a"),("ē","e"),("ī","i"),("ō","o"),("ū","u")):
-                replindex = unmutated[-1].rfind(longv)
-                if replindex >= 0 and unmutated[1][replindex] == shortv:
-
-                    unmutated[-1] = unmutated[-1][:replindex] + shortv + unmutated[-1][replindex+1:]
-
-            unmutated[-1] = unmutated[-1][:-1]
-
-    return unmutated
-
 def test_hypothesis(baselemmas, hypothesis):
+    disp = True
     print()
     print(hypothesis)
     N = 0
     e = 0
+    exceptions = []
     for pparts in baselemmas:
         matches = hypothesis.get_matches(pparts)
         if matches:
             unmutated = unmutate(matches)
 #            print(pparts, matches)
-            if unmutated[-1].strip() and unmutated[-1] != "-" and unmutated[1] != unmutated[-1]:
-#                print("\tIRREG MUTATION" +"\t".join(unmutated) + "\t" + " ".join(pparts))
+            if unmutated[1].strip() and unmutated[-1] != "-" and unmutated[1] != unmutated[-1] and unmutated[-1].strip():
+                if disp:
+                    print("\tIRREG MUTATION  " +"\t".join(unmutated) + "\t" + " ".join(pparts))
                 e += 1
-            elif not unmutated[-1].strip():
-#                print("\tNO PPTC MATCH" +"\t".join(unmutated) + "\t" + " ".join(pparts))
+            elif unmutated[-1].strip() and unmutated[2].strip() and unmutated[2].strip() != "-" and unmutated[-1] != "-" and unmutated[2] != unmutated[-1]:
+                if disp:
+                    print("\tIRREG MUTATION  " +"\t".join(unmutated) + "\t" + " ".join(pparts))
                 e += 1
-            N += 1
+            elif not unmutated[-1].strip() and unmutated[2] != "-":
+                if disp:
+                    print("\tNO PPTC MATCH  " +"\t".join(unmutated) + "\t" + " ".join(pparts))
+                e += 1
+            elif unmutated[-1] != "-" and unmutated[2] != "-":
+                if disp:
+                    print("\tGOOD!\t  " +"\t".join(unmutated) + "\t" + " ".join(pparts))
+            if unmutated[-1] != "-" and unmutated[2] != "-":
+                N += 1
     return N, e, do_TP(N,e, disp=True)
 
 def test_hypothesis_set(baselemmas, hypothesis_set):
