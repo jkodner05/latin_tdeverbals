@@ -42,8 +42,8 @@ mkdir -p $outputdir
 ###
 ####
 ###### ### ## #
-python3 sum_basecounts.py $outputdir/lemmas_revsort_spaced.txt $outputdir/lemmas_revsort_counts.txt
-python3 extract_baselemmas.py $outputdir/lemmas_revsort_counts.txt $outputdir/lemmas_revsort_baselemmas.txt $outputdir/lemmas_mismatches.txt
+#python3 sum_basecounts.py $outputdir/lemmas_revsort_spaced.txt $outputdir/lemmas_revsort_counts.txt
+#python3 extract_baselemmas.py $outputdir/lemmas_revsort_counts.txt $outputdir/lemmas_revsort_baselemmas.txt $outputdir/lemmas_mismatches.txt
 
 #Then run these to make frequency-trimmed outputs
 python3 get_freq_baselemmas.py outputs/baselemmas_clean_all.txt outputs/baselemmas_top100.txt 100

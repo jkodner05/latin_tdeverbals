@@ -1,8 +1,8 @@
 import re, sys
-from math import log
+from math import log, floor
 
 baselemmafname = sys.argv[1]
-outfname = sys.argv[2]
+#outfname = sys.argv[2]
 
 class TPHypothesis:
     def __init__(self, pp1_rx, pp2_rx, pp3_rx, pp4_rx):
@@ -80,7 +80,10 @@ def do_TP(N, e, disp=False):
     if N > 1:
         theta = N / log(N)
     if disp:
-        print("N:", N, "\ttheta:", round(theta,4), "\te:", e, "\t\t\t\t\ttolerable?", e < theta)
+        if e >= theta:
+            print("N:", N, "\ttheta:", round(theta,4), "\te:", e, "\t\t\t\t\ttolerable?", e < theta, "\tgap: ", e-floor(theta))#, "(", round(max(1,e-floor(theta))/N*100,4), "%)")
+        else:
+            print("N:", N, "\ttheta:", round(theta,4), "\te:", e, "\t\t\t\t\ttolerable?", e < theta)
     return e < theta
 
 def construct_TPtraditional():
@@ -284,7 +287,7 @@ def construct_TPHypothesisSets():
 
 
 def test_hypothesis(baselemmas, hypothesis):
-    disp = False
+    disp = True
     print()
     print(hypothesis)
     N = 0
@@ -303,14 +306,14 @@ def test_hypothesis(baselemmas, hypothesis):
                 if disp:
                     print("\tIRREG MUTATION  " +"\t".join(unmutated) + "\t" + " ".join(pparts))
                 e += 1
-            elif not unmutated[-1].strip() and (unmutated[2] != "-" or not hypothesis.pp2_rx):
+            elif not unmutated[-1].strip() and (unmutated[2] != "-" or not hypothesis.pp3_rx):
                 if disp:
                     print("\tNO PPTC MATCH  " +"\t".join(unmutated) + "\t" + " ".join(pparts))
                 e += 1
-            elif unmutated[-1] != "-" and (unmutated[2] != "-" or not hypothesis.pp2_rx):
+            elif unmutated[-1] != "-" and (unmutated[2] != "-" or not hypothesis.pp3_rx):
                 if disp:
                     print("\tGOOD!\t  " +"\t".join(unmutated) + "\t" + " ".join(pparts))
-            if unmutated[-1] != "-" and (unmutated[2] != "-" or not hypothesis.pp2_rx):
+            if unmutated[-1] != "-" and (unmutated[2] != "-" or not hypothesis.pp3_rx):
                 N += 1
     return N, e, do_TP(N,e, disp=True)
 
