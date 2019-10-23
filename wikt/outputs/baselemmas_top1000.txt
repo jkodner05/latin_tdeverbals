@@ -72,6 +72,7 @@
 2310	lābō	lābere	-	lāpsu
 2294	rogō	rogāre	rogāuī	rogātu
 2284	pectō	pectāre	pectāuī	pectātu
+2276	tangō	tangere	tetigī	tāctu
 2275	tueō	tuēre	-	tuitu
 2227	patiō	patere	-	passu
 2211	reddō	reddere	reddidī	redditu
@@ -89,6 +90,7 @@
 1922	intellegō	intellegere	intellēxī	intellēctu
 1912	gnōscō	gnōscere	gnōuī	gnitu
 1911	gradiō	gradere	-	grassu
+1898	arceō	arcēre	arcuī	arcitu
 1889	negō	negāre	negāuī	negātu
 1872	ualeō	ualēre	ualuī	ualitu
 1857	doceō	docēre	docuī	doctu
@@ -134,9 +136,7 @@
 1385	armō	armāre	armāuī	armātu
 1316	fateō	fatēre	-	fassu
 1309	uersō	uersāre	uersāuī	uersātu
-1308	rceō	rcēre	rcuī	rcitu
 1306	taceō	tacēre	tacuī	tacitu
-1301	tingō	tingere	tigī	tāctu
 1297	perō	perāre	perāuī	perātu
 1293	emō	emere	empsī	emptu
 1289	animō	animāre	animāuī	animātu
@@ -180,7 +180,6 @@
 994	prehendō	prehendere	prehendī	prehensu
 990	optō	optāre	optāuī	optātu
 976	surgō	surgere	surrēxī	surrectu
-975	tangō	tangere	tetigī	tāctu
 974	gaudeō	gaudēre	-	gāuīsu
 963	frangō	frangere	frēgī	frāctu
 959	dīligō	dīligere	dīlēxī	dīlēctu
@@ -301,11 +300,11 @@
 594	temperō	temperāre	temperāuī	temperātu
 593	sserō	sserere	sseruī	ssertu
 592	rēpō	rēpere	rēpsī	rēptu
-590	arceō	arcēre	arcuī	arcitu
 586	pēdō	pēdere	pepēdī	pēditu
 586	pedō	pedāre	pedāuī	pedātu
 582	molliō	mollīre	mollīuī	mollītu
 580	umbrō	umbrāre	umbrāuī	umbrātu
+578	disserō	disserere	dissēuī	dissitu
 575	laedō	laedere	laesī	laesu
 574	ferō	ferāre	ferāuī	ferātu
 574	properō	properāre	properāuī	properātu
@@ -344,7 +343,6 @@
 485	operō	operāre	operāuī	operātu
 484	urgeō	urgēre	ursī	-
 481	ēducō	ēducāre	ēducāuī	ēducātu
-479	disserō	disserere	dissēuī	dissitu
 478	notō	notāre	notāuī	notātu
 476	pūblicō	pūblicāre	pūblicāuī	pūblicātu
 472	frūstrō	frūstrāre	frūstrāuī	frūstrātu
@@ -557,6 +555,7 @@
 195	cremō	cremāre	cremāuī	cremātu
 195	curuō	curuāre	curuāuī	curuātu
 194	poeniō	poenīre	poenīuī	poenitu
+194	ungō	ungere	ūnxī	ūnctu
 194	nuō	nuere	nuī	nūtu
 194	dēleō	dēlēre	dēlēuī	dēlētu
 193	sepeliō	sepelīre	sepelīuī	sepultu
@@ -709,7 +708,6 @@
 108	trucīdō	trucīdāre	trucīdāuī	trucīdātu
 108	dēbilitō	dēbilitāre	dēbilitāuī	dēbilitātu
 107	mūgiō	mūgīre	mūgīuī	mūgītu
-107	ungō	ungere	ūnxī	ūnctu
 107	adōrō	adōrāre	adōrāuī	adōrātu
 106	terminō	termināre	termināuī	terminātu
 105	acciō	accīre	accīuī	accītu
@@ -727,7 +725,6 @@
 100	fulminō	fulmināre	fulmināuī	fulminātu
 100	iterō	iterāre	iterāuī	iterātu
 99	uergō	uergere	-	-
-99	asserō	asserere	assēuī	assitu
 99	speculō	speculāre	-	speculātu
 99	hebetō	hebetāre	hebetāuī	hebetātu
 96	immolō	immolāre	immolāuī	immolātu
@@ -748,7 +745,6 @@
 90	squāleō	squālēre	squāluī	-
 89	cōnsummō	cōnsummāre	cōnsummāuī	cōnsummātu
 88	rogitō	rogitāre	rogitāuī	rogitātu
-87	perungō	perungere	perunxī	perunctu
 87	ēliciō	ēlicere	ēlicuī	ēlicitu
 87	commūnicō	commūnicāre	commūnicāuī	commūnicātu
 87	sinuō	sinuāre	sinuāuī	sinuātu
@@ -998,3 +994,7 @@
 28	peruolō	peruelle	peruoluī	peruolātu
 27	marcēscō	-	-	-
 27	stertō	stertere	stertuī	-
+27	stomachō	stomachāre	-	stomachātu
+27	lūminō	lūmināre	lūmināuī	lūminātu
+27	prōpīnō	prōpīnāre	prōpīnāuī	prōpīnātu
+27	oblitterō	oblitterāre	oblitterāuī	oblitterātu

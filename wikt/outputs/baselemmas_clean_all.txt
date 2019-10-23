@@ -3341,15 +3341,13 @@
 	4	remisceō	remiscēre	remiscuī	remixtum
 	1253	misceō	miscēre	miscuī	mixtum
 
-1308	rceō	rcēre	rcuī	rcitu
-	1090	exerceō	exercēre	exercuī	exercitum
-	218	coerceō	coercēre	coercuī	coercitum
-
 65	marceō	marcēre	marcuī	-
 	65	marceō	marcēre	marcuī	-
 
-590	arceō	arcēre	arcuī	arcitu
+1898	arceō	arcēre	arcuī	arcitu
 	590	arceō	arcēre	arcuī	arcitum
+	1090	exerceō	exercēre	exercuī	exercitum
+	218	coerceō	coercēre	coercuī	coercitum
 
 892	noceō	nocēre	nocuī	nocitu
 	892	noceō	nocēre	nocuī	nocitum
@@ -3861,16 +3859,14 @@
 	746	dēserō	dēserere	dēseruī	dēsertum
 	28	exserō	exserere	exseruī	exsertum
 
-479	disserō	disserere	dissēuī	dissitu
+578	disserō	disserere	dissēuī	dissitu
 	479	disserō	disserere	dissēuī	dissitum
-
+	99	asserō	asserere	assēuī	assitum
+	
 593	sserō	sserere	sseruī	ssertu
 	15	ēdisserō	ēdisserere	ēdisseruī	ēdissertum
 	479	disserō	disserere	disseruī	dissertum
 	99	asserō	asserere	asseruī	assertum
-
-99	asserō	asserere	assēuī	assitu
-	99	asserō	asserere	assēuī	assitum
 
 2755	serō	serere	sēuī	satu
 	9	interserō	interserere	intersēuī	intersatum
@@ -4444,9 +4440,6 @@
 	8	cōnspargō	cōnspargere	cōnsparsī	cōnsparsum
 	731	spargō	spargere	sparsī	sparsum
 
-87	perungō	perungere	perunxī	perunctu
-	87	perungō	perungere	perunxī	perunctum
-
 20	pungō	pungere	punxī	punctu
 	6	expungō	expungere	expunxī	expunctum
 	5	interpungō	interpungere	interpunxī	interpunctum
@@ -4476,21 +4469,22 @@
 	25	perfungor	perfungī	-	perfūnctus sum
 	198	fungor	fungī	-	fūnctus sum
 
-107	ungō	ungere	ūnxī	ūnctu
+194	ungō	ungere	ūnxī	ūnctu
 	107	ungō	ungere	ūnxī	ūnctum
+	87	perungō	perungere	perunxī	perunctum
 
-1301	tingō	tingere	tigī	tāctu
-	410	attingō	attingere	attigī	attāctum
-	891	contingō	contingere	contigī	contāctum
 
 190	tingō	tingere	tinxī	tinctu
 	11	intingō	intingere	intinxī	intinctum
 	179	tingō	tingere	tinxī	tinctum
 
-975	tangō	tangere	tetigī	tāctu
+2276	tangō	tangere	tetigī	tāctu
 	879	tangō	tangere	tetigī	tāctum
 	33	adtingō	adtingere	adtigī	adtāctum
 	63	obtingō	obtingere	obtigī	-
+	410	attingō	attingere	attigī	attāctum
+	891	contingō	contingere	contigī	contāctum
+
 
 835	stringō	stringere	strīnxī	strīctu
 	81	dēstringō	dēstringere	dēstrinxī	dēstrictum

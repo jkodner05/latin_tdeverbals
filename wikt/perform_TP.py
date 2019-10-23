@@ -94,8 +94,8 @@ def construct_TPtraditional():
     traditional.add_hypothesis(pp2=r"ēre", pp4=r"itu")
     traditional.add_hypothesis(pp2=r"ēre", pp4=r"[^aeiouāēīōū]([st])u")
     # 3rd non-io
-    traditional.add_hypothesis(pp1=r"[^i]ō", pp2=r"ere", pp4=r"itu")
-    traditional.add_hypothesis(pp1=r"[^i]ō", pp2=r"ere", pp4=r"[^aeiouāēīōū]([st])u")
+    traditional.add_hypothesis(pp1=r"([^i])ō", pp2=r"ere", pp4=r"itu")
+    traditional.add_hypothesis(pp1=r"([^i])ō", pp2=r"ere", pp4=r"[^aeiouāēīōū]([st])u")
     # 3rd-io
     traditional.add_hypothesis(pp1=r"iō", pp2=r"ere", pp4=r"itu")
     traditional.add_hypothesis(pp1=r"iō", pp2=r"ere", pp4=r"[^aeiouāēīōū]([st])u")
@@ -121,14 +121,15 @@ def construct_TPpresent_rootsensitive():
     # 3rd u
     pres_rs.add_hypothesis(pp1=r"uō", pp2=r"uere", pp4=r"ūtu")
     # 3rd RR
-    pres_rs.add_hypothesis(pp1=r"(ll|rr)ō", pp2=r"ere", pp4=r"([lr]s)u")
+    # by hand...
+    pres_rs.add_hypothesis(pp1=r"(l|r)(l|r)ō", pp2=r"ere", pp4=r"([lr]s)u")
     # 3rd K-V-sc
     pres_rs.add_hypothesis(pp1=r"[c|g|h][aeiouāēīōū]scō", pp2=r"[aeiouāēīōū]scere", pp4=r"([^aeiouāēīōū]t)u")
     # 3rd V-sc
     pres_rs.add_hypothesis(pp1=r"[^(c|g|h)][aeiouāēīōū]scō", pp2=r"scere", pp4=r"([aeiouāēīōū]t)u")
     pres_rs.add_hypothesis(pp1=r"[^(c|g|h)][aeiouāēīōū]scō", pp2=r"[aeiouāēīōū]scere", pp4=r"itu")
     # 3rd-io
-    pres_rs.add_hypothesis(pp1=r"iō", pp2=r"ere", pp4=r"itu")
+#    pres_rs.add_hypothesis(pp1=r"iō", pp2=r"ere", pp4=r"itu")
     pres_rs.add_hypothesis(pp1=r"iō", pp2=r"ere", pp4=r"[^aeiouāēīōū]([st])u")
     # 3rd otherwise
     pres_rs.add_hypothesis(pp1=r"[^(ll|rr)][^iu]ō", pp2=r"ere", pp4=r"itu")
@@ -200,6 +201,8 @@ def unmutate(matches):
     def unclustersimplify(left, pptc):
         if left[-1] == "m" and pptc[-3:-1] == "mp":
             pptc = pptc[:-2] + "t"
+        elif left[-2:] == "mn" and pptc[-3:-1] == "mp":
+            pptc = pptc[:-2] + "nt"
         elif left[-2:] == "rc" and pptc[-2:] == "rt":
             pptc = pptc[:-1] + "ct"
         elif left[-3:] == "rqu" and pptc[-2:] == "rt":
@@ -208,6 +211,13 @@ def unmutate(matches):
             pptc = pptc[:-1] + "ct"
         elif left[-2:] == "lg" and pptc[-2:] == "lt":
             pptc = pptc[:-1] + "gt"
+
+        if len(left) >= 3 and len(pptc) >= 4:
+            if left[-2] == "i" and pptc[-3] == "e":
+                pptc = pptc[:-3] + "i" + pptc[-2:] 
+            elif left[-2] == "o" and pptc[-3] == "u":
+                pptc = pptc[:-3] + "o" + pptc[-2:] 
+
         return left, pptc
 
     def unlengthen(left, pptc):
@@ -279,7 +289,7 @@ def unmutate(matches):
 
 def construct_TPHypothesisSets():
     hypothesis_sets = []
-    hypothesis_sets.append(construct_TPtraditional())
+#    hypothesis_sets.append(construct_TPtraditional())
     hypothesis_sets.append(construct_TPpresent_rootsensitive())
     hypothesis_sets.append(construct_TPperfect_rootsensitive())
     hypothesis_sets.append(construct_TPpresperf_rootsensitive())
@@ -329,7 +339,7 @@ def get_baselemmas(baselemmafname):
     with open(baselemmafname, "r") as fin:
         for line in fin:
             if line.strip() and line[0] != "\t":
-                components = line.split("\t")
+                components = line.replace("x","cs").split("\t")
                 pp1 = components[1].strip()
                 pp2 = components[2].strip()
                 pp3 = components[3].strip()
