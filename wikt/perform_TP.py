@@ -132,7 +132,7 @@ def construct_TPpresent_rootsensitive():
 #    pres_rs.add_hypothesis(pp1=r"iō", pp2=r"ere", pp4=r"itu")
     pres_rs.add_hypothesis(pp1=r"iō", pp2=r"ere", pp4=r"[^aeiouāēīōū]([st])u")
     # 3rd otherwise
-    pres_rs.add_hypothesis(pp1=r"[^(ll|rr)][^iu]ō", pp2=r"ere", pp4=r"itu")
+#    pres_rs.add_hypothesis(pp1=r"[^(ll|rr)][^iu]ō", pp2=r"ere", pp4=r"itu")
     pres_rs.add_hypothesis(pp1=r"[^(ll|rr)][^iu]ō", pp2=r"ere", pp4=r"[^aeiouāēīōū]([st])u")
     return pres_rs
 
@@ -155,14 +155,14 @@ def construct_TPperfect_rootsensitive():
     perf_rs.add_hypothesis(pp3 = "([^(c|g|h|q|ā|ī|ē)])uī", pp4=r"itu")
     perf_rs.add_hypothesis(pp3 = "([^(c|g|h|q|ā|ī|ē)])uī", pp4=r"[^aeiouāēīōū]([st])u")
     # si
-    perf_rs.add_hypothesis(pp3=r"[xs]ī", pp4=r"[^aeiouāēīōū]([st])u")
+    perf_rs.add_hypothesis(pp3=r"sī", pp4=r"[^aeiouāēīōū]([st])u")
+    perf_rs.add_hypothesis(pp3=r"sī", pp4=r"([aeiouāēīōū]s)u")
     # Csi 
     perf_rs.add_hypothesis(pp3=r"([^aeiouāēīōū])sī", pp4=r"[^aeiouāēīōū]([st])u")
-    perf_rs.add_hypothesis(pp3=r"([^aeiouāēīōū]x)ī", pp4=r"[^aeiouāēīōū]([st])u")
     # Vsi
-    perf_rs.add_hypothesis(pp3=r"([aeiouāēīōū][xs])ī", pp4=r"([aeiouāēīōū][st])u")
+    perf_rs.add_hypothesis(pp3=r"([aeiouāēīōū]s)ī", pp4=r"([aeiouāēīōū]s)u")
     # other stem change
-    perf_rs.add_hypothesis(pp3=r"([^usx])ī", pp4=r"[^aeiouāēīōū]([st])u")
+    perf_rs.add_hypothesis(pp3=r"([^us])ī", pp4=r"[^aeiouāēīōū]([st])u")
     return perf_rs
 
 
@@ -180,8 +180,10 @@ def construct_TPpresperf_rootsensitive():
     presperf_rs.add_hypothesis(pp2="ere", pp3=r"([^āīē])uī", pp4=r"itu")
     presperf_rs.add_hypothesis(pp2="ere", pp3=r"([^āīē])uī", pp4=r"[^aeiouāēīōū]([st])u")
     # other stem change
-    presperf_rs.add_hypothesis(pp2="ere", pp3=r"([^usx])ī", pp4=r"[^aeiouāēīōū]([st])u")
-    presperf_rs.add_hypothesis(pp2="īre", pp3=r"([^usx])ī", pp4=r"[^aeiouāēīōū]([st])u")
+    presperf_rs.add_hypothesis(pp2="ere", pp3=r"([^us])ī", pp4=r"[^aeiouāēīōū]([st])u")
+    presperf_rs.add_hypothesis(pp2="īre", pp3=r"([^us])ī", pp4=r"[^aeiouāēīōū]([st])u")
+    #UTU
+    presperf_rs.add_hypothesis(pp2="uere", pp3=r"([^āīē])uī", pp4=r"ūtu")
     return presperf_rs
 
 
@@ -289,7 +291,7 @@ def unmutate(matches):
 
 def construct_TPHypothesisSets():
     hypothesis_sets = []
-#    hypothesis_sets.append(construct_TPtraditional())
+    hypothesis_sets.append(construct_TPtraditional())
     hypothesis_sets.append(construct_TPpresent_rootsensitive())
     hypothesis_sets.append(construct_TPperfect_rootsensitive())
     hypothesis_sets.append(construct_TPpresperf_rootsensitive())
@@ -325,6 +327,7 @@ def test_hypothesis(baselemmas, hypothesis):
                     print("\tGOOD!\t  " +"\t".join(unmutated) + "\t" + " ".join(pparts))
             if unmutated[-1] != "-" and (unmutated[2] != "-" or not hypothesis.pp3_rx):
                 N += 1
+    print("result: ", hypothesis)
     return N, e, do_TP(N,e, disp=True)
 
 def test_hypothesis_set(baselemmas, hypothesis_set):
